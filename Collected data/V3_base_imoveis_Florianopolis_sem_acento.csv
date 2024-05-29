@@ -1,0 +1,1530 @@
+,reference,preco,endereco,localizacao,metragem,quartos,garagens,banheiro
+0,ref: 472082,R$ 900.000,rua dos golfinhos,"Ingleses do Rio Vermelho, Florianopolis - SC",61m²,2,1.0,2.0
+1,ref: 468398,R$ 850.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",68m²,2,1.0,2.0
+2,ref: 468996,R$ 1.230.000,rua professor ayrton roberto de oliveira,"Itacorubi, Florianopolis - SC",89m²,3,1.0,2.0
+3,ref: 465833,R$ 1.338.633,rua das dunas,"Ingleses do Rio Vermelho, Florianopolis - SC",117m²,3,2.0,3.0
+4,ref: 465834,R$ 1.401.049,rua das dunas,"Ingleses do Rio Vermelho, Florianopolis - SC",125m²,3,2.0,4.0
+5,ref: 465841,R$ 645.910,rua da quaresmeira roxa,"Cachoeira do Bom Jesus, Florianopolis - SC",77m²,2,1.0,2.0
+6,ref: 464781,R$ 550.000,rua das gaivotas,"Ingleses, Florianopolis - SC",67m²,2,1.0,2.0
+7,ref: 463419,R$ 930.000,rua abel alvares cabral junior,"Ingleses do Rio Vermelho, Florianopolis - SC",96m²,3,1.0,2.0
+8,ref: 464463,R$ 1.800.000,rua salvatina feliciana dos santos,"Itacorubi, Florianopolis - SC",180m²,4,2.0,3.0
+9,ref: 466176,R$ 473.050,rua da quaresmeira roxa,"Cachoeira do Bom Jesus, Florianopolis - SC",48m²,1,1.0,2.0
+10,ref: 460936,R$ 695.000,rua das cerejeiras,"Carvoeira, FLORIANOPOLIS - SC",60m²,2,1.0,3.0
+11,ref: 463620,R$ 429.565,servidao elizabeth helena richter cordeiro,"Ingleses do Rio Vermelho, Florianopolis - SC",63m²,2,1.0,2.0
+12,ref: 463627,R$ 446.087,servidao elizabeth helena richter cordeiro,"Ingleses do Rio Vermelho, Florianopolis - SC",61m²,2,1.0,2.0
+13,ref: 463635,R$ 451.594,servidao elizabeth helena richter cordeiro,"Ingleses do Rio Vermelho, Florianopolis - SC",63m²,2,1.0,2.0
+14,ref: 464650,R$ 1.300.000,rua apeninos,"Corrego Grande, Florianopolis - SC",82m²,2,2.0,4.0
+15,ref: 467153,R$ 2.100.000,boulevard paulo zimmer,"Agronomica, FLORIANOPOLIS - SC",95m²,2,1.0,3.0
+16,ref: 463856,R$ 1.598.000,rua salvatina feliciana dos santos,"Itacorubi, Florianopolis - SC",127m²,4,2.0,2.0
+17,ref: 473760,R$ 695.000,travessa do carnavalesco,"Pantanal, FLORIANOPOLIS - SC",70m²,2,1.0,2.0
+18,ref: 469416,R$ 480.000,rua martinho de haro,"Ingleses, Florianopolis - SC",64m²,2,,1.0
+19,ref: 471515,R$ 335.000,rua graciliano manoel gomes,"Ingleses, Florianopolis - SC",59m²,2,1.0,2.0
+20,ref: 471517,R$ 748.000,rua graciliano manoel gomes,"Ingleses, Florianopolis - SC",149m²,3,3.0,3.0
+21,ref: 468943,R$ 3.500.000,rua das baleias franca,"Jurere, Florianopolis - SC",145m²,3,2.0,2.0
+22,ref: 462498,R$ 489.000,rua martinho de haro,"Ingleses do Rio Vermelho, Florianopolis - SC",61m²,2,1.0,1.0
+23,ref: 462505,R$ 699.000,rua do vasco,"Ingleses do Rio Vermelho, Florianopolis - SC",81m²,2,1.0,3.0
+24,ref: 462506,R$ 715.000,rua do vasco,"Ingleses do Rio Vermelho, Florianopolis - SC",80m²,3,2.0,2.0
+25,ref: 462547,R$ 565.000,rua manoel severino de oliveira,"Lagoa da Conceicao, Florianopolis - SC",48m²,1,1.0,1.0
+26,ref: 465584,R$ 583.000,rua das andorinhas,"Ingleses do Rio Vermelho, Florianopolis - SC",50m²,1,,2.0
+27,ref: 462475,R$ 645.000,rua manoel severino de oliveira,"Lagoa da Conceicao, Florianopolis - SC",50m²,1,1.0,1.0
+28,ref: 462479,R$ 645.000,rua manoel severino de oliveira,"Lagoa da Conceicao, Florianopolis - SC",50m²,1,1.0,1.0
+29,ref: 462489,R$ 680.000,rua manoel severino de oliveira,"Lagoa da Conceicao, Florianopolis - SC",53m²,1,1.0,1.0
+30,ref: 462739,R$ 699.000,rua luiz elias daux,"Ingleses do Rio Vermelho, Florianopolis - SC",70m²,2,1.0,2.0
+31,ref: 462749,R$ 1.750.000,rua sao jose,"Balneario, Florianopolis - SC",114m²,3,2.0,4.0
+32,ref: 462802,R$ 650.000,rua das gaivotas,"Ingleses, Florianopolis - SC",67m²,2,1.0,3.0
+33,ref: 461712,R$ 500.800,avenida internacional,"Ingleses do Rio Vermelho, Florianopolis - SC",64m²,2,1.0,2.0
+34,ref: 461716,R$ 1.350.000,servidao jacatirao-acu,"Campeche, Florianopolis - SC",114m²,3,2.0,2.0
+35,ref: 461724,R$ 950.000,servidao jacatirao-acu,"Campeche, Florianopolis - SC",71m²,2,1.0,2.0
+36,ref: 462057,R$ 1.150.000,rua lazaro de oliveira souza,"Ingleses, Florianopolis - SC",106m²,2,2.0,1.0
+37,ref: 460674,R$ 945.000,rua ana maria nunes,"Corrego Grande, Florianopolis - SC",112m²,2,2.0,3.0
+38,ref: 464802,R$ 550.000,rua das gaivotas,"Ingleses, Florianopolis - SC",65m²,2,1.0,2.0
+39,ref: 465028,R$ 250.000,estrada dario manoel cardoso,"Ingleses, Florianopolis - SC",44m²,1,1.0,1.0
+40,ref: 465042,R$ 550.000,rua das gaivotas,"Ingleses do Rio Vermelho, Florianopolis - SC",66m²,2,1.0,2.0
+41,ref: 459647,R$ 714.000,rodovia amaro antonio vieira,"Itacorubi, FLORIANOPOLIS - SC",74m²,2,1.0,2.0
+42,ref: 458339,R$ 958.557,rua brisamar,"Ingleses do Rio Vermelho, Florianopolis - SC",73m²,2,1.0,2.0
+43,ref: 458346,R$ 990.158,rua brisamar,"Ingleses do Rio Vermelho, Florianopolis - SC",77m²,2,1.0,3.0
+44,ref: 458388,R$ 990.000,rua frei caneca,"Beiramar, Florianopolis - SC",101m²,3,1.0,2.0
+45,ref: 458389,R$ 680.000,rua martinho de haro,"Ingleses do Rio Vermelho, Florianopolis - SC",75m²,2,,3.0
+46,ref: 458390,R$ 974.000,rodovia admar gonzaga,"Itacorubi, Florianopolis - SC",76m²,2,1.0,3.0
+47,ref: 459013,R$ 599.000,rua hermann blumenau,"Centro, Florianopolis - SC",68m²,2,1.0,4.0
+48,ref: 454635,R$ 449.900,rodovia admar gonzaga,"Itacorubi, Florianopolis - SC",55m²,2,1.0,1.0
+49,ref: 454647,R$ 1.299.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",110m²,3,2.0,4.0
+50,ref: 458641,R$ 1.349.806,rua brisamar,"Ingleses, Florianopolis - SC",79m²,2,1.0,3.0
+51,ref: 458714,R$ 875.000,rua salvatina feliciana dos santos,"Itacorubi, Florianopolis - SC",77m²,2,2.0,2.0
+52,ref: 473035,R$ 3.380.000,rodovia joao paulo,"Joao Paulo, FLORIANOPOLIS - SC",130m²,2,2.0,3.0
+53,ref: 474966,R$ 790.000,rua abel alvares cabral junior,"Ingleses do Rio Vermelho, Florianopolis - SC",77m²,2,1.0,2.0
+54,ref: 471449,R$ 335.000,rua graciliano manoel gomes,"Ingleses do Rio Vermelho, Florianopolis - SC",59m²,2,1.0,2.0
+55,ref: 471476,R$ 335.000,rua graciliano manoel gomes,"Ingleses do Rio Vermelho, Florianopolis - SC",59m²,2,1.0,2.0
+56,ref: 471484,R$ 275.000,servidao do geriva,"Ingleses, Florianopolis - SC",58m²,2,1.0,2.0
+57,ref: 471495,R$ 748.000,rua graciliano manoel gomes,"Ingleses, Florianopolis - SC",137m²,3,2.0,3.0
+58,ref: 471757,R$ 1.590.000,rua das moreias,"Jurere, Florianopolis - SC",78m²,2,1.0,5.0
+59,ref: 466621,R$ 1.117.199,rua da quaresmeira roxa,"Cachoeira do Bom Jesus, Florianopolis - SC",133m²,4,2.0,2.0
+60,ref: 466626,R$ 800.244,rua da quaresmeira roxa,"Cachoeira do Bom Jesus, Florianopolis - SC",92m²,2,1.0,3.0
+61,ref: 467757,R$ 2.400.000,rua dos chernes,"Jurere, Florianopolis - SC",107m²,3,2.0,4.0
+62,ref: 466333,R$ 430.000,rodovia joao gualberto soares,"Ingleses do Rio Vermelho, Florianopolis - SC",70m²,2,1.0,2.0
+63,ref: 466387,R$ 415.000,rodovia joao gualberto soares,"Ingleses do Rio Vermelho, Florianopolis - SC",70m²,2,1.0,2.0
+64,ref: 466404,R$ 370.000,estrada dario manoel cardoso,"Ingleses, Florianopolis - SC",69m²,2,1.0,2.0
+65,ref: 466409,R$ 650.000,rua brisamar,"Ingleses do Rio Vermelho, Florianopolis - SC",67m²,2,1.0,3.0
+66,ref: 461813,R$ 405.000,rua fabriciano inacio monteiro,"Vargem do Bom Jesus, Florianopolis - SC",58m²,2,1.0,2.0
+67,ref: 467792,R$ 2.900.000,avenida governador irineu bornhausen,"Beiramar, FLORIANOPOLIS - SC",146m²,3,2.0,6.0
+68,ref: 467160,R$ 960.000,rua brisamar,"Ingleses do Rio Vermelho, Florianopolis - SC",88m²,2,1.0,2.0
+69,ref: 467187,R$ 2.800.000,rua das gaivotas,"Ingleses do Rio Vermelho, Florianopolis - SC",103m²,2,2.0,3.0
+70,ref: 467209,R$ 840.000,rua mercurio,"Ingleses do Rio Vermelho, Florianopolis - SC",96m²,3,1.0,3.0
+71,ref: 467223,R$ 744.000,rua lidio manoel coelho,"Ingleses, Florianopolis - SC",109m²,3,2.0,2.0
+72,ref: 467224,R$ 860.000,rua mercurio,"Ingleses do Rio Vermelho, Florianopolis - SC",94m²,3,1.0,3.0
+73,ref: 467309,R$ 450.000,rua jose elias lopes,"Campeche, Florianopolis - SC",55m²,2,1.0,1.0
+74,ref: 464238,R$ 750.000,rua leonel pereira,"Cachoeira do Bom Jesus, Florianopolis - SC",66m²,2,1.0,2.0
+75,ref: 464242,R$ 880.000,rua leonel pereira,"Cachoeira do Bom Jesus, Florianopolis - SC",66m²,2,1.0,2.0
+76,ref: 464245,R$ 795.000,rua leonel pereira,"Cachoeira do Bom Jesus, Florianopolis - SC",69m²,2,1.0,2.0
+77,ref: 464246,R$ 750.000,rua leonel pereira,"Cachoeira do Bom Jesus, Florianopolis - SC",66m²,2,1.0,2.0
+78,ref: 464247,R$ 790.000,rua leonel pereira,"Cachoeira do Bom Jesus, Florianopolis - SC",66m²,2,1.0,2.0
+79,ref: 464248,R$ 900.000,rua leonel pereira,"Cachoeira do Bom Jesus, Florianopolis - SC",69m²,2,1.0,2.0
+80,ref: 464249,R$ 850.000,rua leonel pereira,"Cachoeira do Bom Jesus, Florianopolis - SC",66m²,2,1.0,2.0
+81,ref: 466730,R$ 299.000,servidao capivari,"Ingleses do Rio Vermelho, Florianopolis - SC",30m²,1,1.0,1.0
+82,ref: 466771,R$ 1.350.000,rua rui barbosa,"Agronomica, Florianopolis - SC",133m²,3,2.0,3.0
+83,ref: 470676,R$ 1.975.500,estrada haroldo soares glavan,"Cacupe, Florianopolis - SC",165m²,3,2.0,4.0
+84,ref: 471743,R$ 3.150.000,rua tadeu szpoganicz,"Cachoeira do Bom Jesus, Florianopolis - SC",143m²,3,2.0,4.0
+85,ref: 470704,R$ 2.012.632,estrada haroldo soares glavan,"Cacupe, Florianopolis - SC",165m²,3,,4.0
+86,ref: 470732,R$ 2.350.000,rua joaquim felicio dos santos,"Joao Paulo, Florianopolis - SC",235m²,3,2.0,4.0
+87,ref: 470740,R$ 3.100.000,avenida luiz boiteux piazza,"Cachoeira do Bom Jesus, Florianopolis - SC",145m²,3,2.0,4.0
+88,ref: 471418,R$ 960.000,rua dos chernes,"Jurere, Florianopolis - SC",74m²,2,1.0,3.0
+89,ref: 468552,R$ 650.000,rua nossa senhora da conceicao,"Lagoa da Conceicao, Florianopolis - SC",47m²,1,1.0,1.0
+90,ref: 466626,R$ 800.244,rua da quaresmeira roxa,"Cachoeira do Bom Jesus, Florianopolis - SC",92m²,2,1.0,3.0
+91,ref: 467757,R$ 2.400.000,rua dos chernes,"Jurere, Florianopolis - SC",107m²,3,2.0,4.0
+92,ref: 466333,R$ 430.000,rodovia joao gualberto soares,"Ingleses do Rio Vermelho, Florianopolis - SC",70m²,2,1.0,2.0
+93,ref: 466387,R$ 415.000,rodovia joao gualberto soares,"Ingleses do Rio Vermelho, Florianopolis - SC",70m²,2,1.0,2.0
+94,ref: 466404,R$ 370.000,estrada dario manoel cardoso,"Ingleses, Florianopolis - SC",69m²,2,1.0,2.0
+95,ref: 466409,R$ 650.000,rua brisamar,"Ingleses do Rio Vermelho, Florianopolis - SC",67m²,2,1.0,3.0
+96,ref: 461813,R$ 405.000,rua fabriciano inacio monteiro,"Vargem do Bom Jesus, Florianopolis - SC",58m²,2,1.0,2.0
+97,ref: 467792,R$ 2.900.000,avenida governador irineu bornhausen,"Beiramar, FLORIANOPOLIS - SC",146m²,3,2.0,6.0
+98,ref: 467160,R$ 960.000,rua brisamar,"Ingleses do Rio Vermelho, Florianopolis - SC",88m²,2,1.0,2.0
+99,ref: 467187,R$ 2.800.000,rua das gaivotas,"Ingleses do Rio Vermelho, Florianopolis - SC",103m²,2,2.0,3.0
+100,ref: 467209,R$ 840.000,rua mercurio,"Ingleses do Rio Vermelho, Florianopolis - SC",96m²,3,1.0,3.0
+101,ref: 467223,R$ 744.000,rua lidio manoel coelho,"Ingleses, Florianopolis - SC",109m²,3,2.0,2.0
+102,ref: 467224,R$ 860.000,rua mercurio,"Ingleses do Rio Vermelho, Florianopolis - SC",94m²,3,1.0,3.0
+103,ref: 467309,R$ 450.000,rua jose elias lopes,"Campeche, Florianopolis - SC",55m²,2,1.0,1.0
+104,ref: 464238,R$ 750.000,rua leonel pereira,"Cachoeira do Bom Jesus, Florianopolis - SC",66m²,2,1.0,2.0
+105,ref: 464242,R$ 880.000,rua leonel pereira,"Cachoeira do Bom Jesus, Florianopolis - SC",66m²,2,1.0,2.0
+106,ref: 464245,R$ 795.000,rua leonel pereira,"Cachoeira do Bom Jesus, Florianopolis - SC",69m²,2,1.0,2.0
+107,ref: 464246,R$ 750.000,rua leonel pereira,"Cachoeira do Bom Jesus, Florianopolis - SC",66m²,2,1.0,2.0
+108,ref: 464247,R$ 790.000,rua leonel pereira,"Cachoeira do Bom Jesus, Florianopolis - SC",66m²,2,1.0,2.0
+109,ref: 464248,R$ 900.000,rua leonel pereira,"Cachoeira do Bom Jesus, Florianopolis - SC",69m²,2,1.0,2.0
+110,ref: 464249,R$ 850.000,rua leonel pereira,"Cachoeira do Bom Jesus, Florianopolis - SC",66m²,2,1.0,2.0
+111,ref: 466730,R$ 299.000,servidao capivari,"Ingleses do Rio Vermelho, Florianopolis - SC",30m²,1,1.0,1.0
+112,ref: 466771,R$ 1.350.000,rua rui barbosa,"Agronomica, Florianopolis - SC",133m²,3,2.0,3.0
+113,ref: 470676,R$ 1.975.500,estrada haroldo soares glavan,"Cacupe, Florianopolis - SC",165m²,3,2.0,4.0
+114,ref: 471743,R$ 3.150.000,rua tadeu szpoganicz,"Cachoeira do Bom Jesus, Florianopolis - SC",143m²,3,2.0,4.0
+115,ref: 470704,R$ 2.012.632,estrada haroldo soares glavan,"Cacupe, Florianopolis - SC",165m²,3,,4.0
+116,ref: 470732,R$ 2.350.000,rua joaquim felicio dos santos,"Joao Paulo, Florianopolis - SC",235m²,3,2.0,4.0
+117,ref: 470740,R$ 3.100.000,avenida luiz boiteux piazza,"Cachoeira do Bom Jesus, Florianopolis - SC",145m²,3,2.0,4.0
+118,ref: 471418,R$ 960.000,rua dos chernes,"Jurere, Florianopolis - SC",74m²,2,1.0,3.0
+119,ref: 468552,R$ 650.000,rua nossa senhora da conceicao,"Lagoa da Conceicao, Florianopolis - SC",47m²,1,1.0,1.0
+120,ref: 471930,R$ 3.191.000,avenida luiz boiteux piazza,"Cachoeira do Bom Jesus, Florianopolis - SC",145m²,3,2.0,4.0
+121,ref: 471933,R$ 585.000,rua orlando teixeira,"Ponta das Canas, Florianopolis - SC",75m²,2,1.0,2.0
+122,ref: 470873,R$ 2.107.201,estrada haroldo soares glavan,"Cacupe, Florianopolis - SC",165m²,3,2.0,4.0
+123,ref: 470886,R$ 2.368.004,estrada haroldo soares glavan,"Cacupe, Florianopolis - SC",160m²,3,2.0,4.0
+124,ref: 470892,R$ 3.300.000,avenida governador irineu bornhausen,"Beiramar, Florianopolis - SC",151m²,2,2.0,3.0
+125,ref: 470034,R$ 900.000,rua brisamar,"Ingleses do Rio Vermelho, Florianopolis - SC",78m²,2,2.0,3.0
+126,ref: 470086,R$ 960.000,rodovia amaro antonio vieira,"Itacorubi, Florianopolis - SC",80m²,3,1.0,2.0
+127,ref: 457446,R$ 725.000,rua dante de patta,"Ingleses, Florianopolis - SC",96m²,3,2.0,2.0
+128,ref: 458312,R$ 665.000,rua luiz elias daux,"Ingleses do Rio Vermelho, Florianopolis - SC",62m²,2,1.0,2.0
+129,ref: 459317,R$ 1.540.000,rua almirante lamego,"Centro, Florianopolis - SC",124m²,3,2.0,4.0
+130,ref: 458983,R$ 570.000,rua martinho de haro,"Ingleses do Rio Vermelho, Florianopolis - SC",78m²,2,1.0,2.0
+131,ref: 458914,R$ 360.000,avenida lions internacional,"Ingleses do Rio Vermelho, Florianopolis - SC",37m²,1,1.0,1.0
+132,ref: 458582,R$ 1.445.612,rua brisamar,"Ingleses do Rio Vermelho, Florianopolis - SC",108m²,3,1.0,4.0
+133,ref: 458608,R$ 1.050.000,rua dos golfinhos,"Ingleses do Rio Vermelho, Florianopolis - SC",61m²,2,1.0,2.0
+134,ref: 458727,R$ 890.000,rua hermann blumenau,"Centro, Florianopolis - SC",62m²,2,2.0,2.0
+135,ref: 440530,R$ 288.507,avenida av. presidente nereu ramos,"Kobrasol, Florianopolis - SC",41m²,1,,1.0
+136,ref: 440812,R$ 899.000,avenida mauro ramos,"Centro, FLORIANOPOLIS - SC",40m²,1,1.0,1.0
+137,ref: 444505,R$ 1.480.000,rodovia admar gonzaga,"Itacorubi, FLORIANOPOLIS - SC",96m²,3,2.0,3.0
+138,ref: 440250,R$ 1.250.000,rua alba dias cunha,"Trindade, FLORIANOPOLIS - SC",88m²,3,1.0,3.0
+139,ref: 433371,R$ 730.000,rua dos ilheus,"Centro, Florianopolis - SC",74m²,2,,1.0
+140,ref: 433419,R$ 360.000,rua ayrton senna,"Ingleses do Rio Vermelho, Florianopolis - SC",70m²,2,1.0,2.0
+141,ref: 413287,R$ 1.979.000,avenida campeche,"Campeche, FLORIANOPOLIS - SC",98m²,3,2.0,2.0
+142,ref: 398444,R$ 2.850.000,rodovia jornalista mauricio sirotsky sobrinho,"Jurere Internacional, FLORIANOPOLIS - SC",144m²,3,1.0,3.0
+143,ref: 401008,R$ 1.649.000,rua almirante lamego,"Centro, FLORIANOPOLIS - SC",95m²,3,1.0,4.0
+144,ref: 401169,R$ 750.000,rua joao pio duarte silva,"Corrego Grande, FLORIANOPOLIS - SC",118m²,3,1.0,3.0
+145,ref: 387295,R$ 749.000,rua araci vaz callado,"Estreito, FLORIANOPOLIS - SC",78m²,2,2.0,5.0
+146,ref: 387299,R$ 798.000,rua araci vaz callado,"Estreito, FLORIANOPOLIS - SC",78m²,2,1.0,5.0
+147,ref: 387300,R$ 799.900,rua araci vaz callado,"Estreito, FLORIANOPOLIS - SC",78m²,2,1.0,5.0
+148,ref: 387302,R$ 839.000,rua araci vaz callado,"Estreito, FLORIANOPOLIS - SC",78m²,2,2.0,5.0
+149,ref: 387303,R$ 859.000,rua araci vaz callado,"Estreito, FLORIANOPOLIS - SC",78m²,2,2.0,5.0
+150,ref: 387308,R$ 549.000,rua araci vaz callado,"Estreito, FLORIANOPOLIS - SC",45m²,1,1.0,1.0
+151,ref: 385955,R$ 1.300.000,servidao jacatirao-acu,"Campeche, FLORIANOPOLIS - SC",97m²,3,2.0,3.0
+152,ref: 385426,R$ 880.000,rua dos eucaliptos,"Canasvieiras, FLORIANOPOLIS - SC",76m²,2,1.0,3.0
+153,ref: 385577,R$ 950.000,rodovia admar gonzaga,"Itacorubi, FLORIANOPOLIS - SC",77m²,2,2.0,5.0
+154,ref: 385578,R$ 940.500,rodovia admar gonzaga,"Itacorubi, FLORIANOPOLIS - SC",76m²,2,1.0,3.0
+155,ref: 383064,R$ 1.490.000,rua frei caneca,"Beiramar, FLORIANOPOLIS - SC",112m²,3,1.0,3.0
+156,ref: 385311,R$ 629.000,rua victor antonio peluso junior,"Barra da Lagoa, FLORIANOPOLIS - SC",63m²,2,1.0,2.0
+157,ref: 385312,R$ 629.000,rua victor antonio peluso junior,"Barra da Lagoa, FLORIANOPOLIS - SC",63m²,2,1.0,2.0
+158,ref: 385816,R$ 3.699.000,avenida jornalista rubens de arruda ramos,"Beira Mar Norte, FLORIANOPOLIS - SC",219m²,3,2.0,4.0
+159,ref: 412624,R$ 1.275.000,avenida itamarati,"Itacorubi, FLORIANOPOLIS - SC",129m²,3,2.0,3.0
+160,ref: 412412,R$ 1.380.000,servidao recanto da cachoeira,"Cachoeira do Bom Jesus, FLORIANOPOLIS - SC",152m²,3,2.0,4.0
+161,ref: 422313,R$ 1.390.000,rua alba dias cunha,"Trindade, FLORIANOPOLIS - SC",89m²,3,2.0,3.0
+162,ref: 373136,R$ 2.000.000,avenida afonso delambert neto,"Lagoa da Conceicao, FLORIANOPOLIS - SC",165m²,3,2.0,4.0
+163,ref: 370916,R$ 840.000,rua nossa senhora da conceicao,"Lagoa da Conceicao, FLORIANOPOLIS - SC",69m²,2,1.0,4.0
+164,ref: 373069,R$ 2.500.000,rua presidente coutinho,"Centro, FLORIANOPOLIS - SC",156m²,3,2.0,7.0
+165,ref: 375536,R$ 1.893.617,estrada haroldo soares glavan,"Cacupe, FLORIANOPOLIS - SC",128m²,3,2.0,7.0
+166,ref: 375537,R$ 1.893.617,estrada haroldo soares glavan,"Cacupe, FLORIANOPOLIS - SC",128m²,3,2.0,7.0
+167,ref: 375538,R$ 2.039.181,estrada haroldo soares glavan,"Cacupe, FLORIANOPOLIS - SC",128m²,3,2.0,7.0
+168,ref: 375669,R$ 1.850.000,rua almirante alvim,"Centro, FLORIANOPOLIS - SC",212m²,4,2.0,5.0
+169,ref: 378314,R$ 1.070.000,avenida buriti,"Itacorubi, FLORIANOPOLIS - SC",103m²,3,1.0,2.0
+170,ref: 421575,R$ 1.250.000,rua frei caneca,"Beiramar, FLORIANOPOLIS - SC",65m²,2,1.0,2.0
+171,ref: 432317,R$ 1.600.000,rua aristides lobo,"Agronomica, FLORIANOPOLIS - SC",140m²,3,2.0,5.0
+172,ref: 432363,R$ 990.000,rua joao pio duarte silva,"Corrego Grande, Florianopolis - SC",125m²,3,1.0,3.0
+173,ref: 409701,R$ 1.590.000,rua almirante lamego,"Centro, FLORIANOPOLIS - SC",139m²,3,1.0,4.0
+174,ref: 417577,R$ 649.000,rua dresden,"Itacorubi, FLORIANOPOLIS - SC",51m²,1,1.0,1.0
+175,ref: 417586,R$ 999.000*,rua dresden,"Itacorubi, FLORIANOPOLIS - SC",78m²,2,2.0,3.0
+176,ref: 417954,R$ 2.850.000,rodovia jornalista mauricio sirotsky sobrinho,"Jurere, FLORIANOPOLIS - SC",144m²,3,1.0,3.0
+177,ref: 421994,R$ 820.000,servidao laje de pedra,"Itacorubi, FLORIANOPOLIS - SC",65m²,2,2.0,3.0
+178,ref: 418665,R$ 1.300.000,rodovia joao paulo,"Joao Paulo, FLORIANOPOLIS - SC",104m²,3,2.0,2.0
+179,ref: 419499,R$ 790.286,rua joaquim nabuco,"Capoeiras, Florianopolis - SC",97m²,3,2.0,4.0
+180,ref: 419510,R$ 542.626,rua joaquim nabuco,"Capoeiras, Florianopolis - SC",64m²,2,2.0,3.0
+181,ref: 417669,R$ 1.800.000,avenida dos buzios,"Jurere Internacional, FLORIANOPOLIS - SC",194m²,3,2.0,4.0
+182,ref: 417671,R$ 2.092.924,estrada haroldo soares glavan,"Cacupe, FLORIANOPOLIS - SC",117m²,2,2.0,3.0
+183,ref: 417673,R$ 2.306.880,estrada haroldo soares glavan,"Cacupe, FLORIANOPOLIS - SC",129m²,2,2.0,3.0
+184,ref: 417676,R$ 3.210.052,estrada haroldo soares glavan,"Cacupe, FLORIANOPOLIS - SC",172m²,3,2.0,4.0
+185,ref: 417677,R$ 3.969.756,estrada haroldo soares glavan,"Cacupe, FLORIANOPOLIS - SC",231m²,4,3.0,5.0
+186,ref: 417678,R$ 3.972.070,estrada haroldo soares glavan,"Cacupe, FLORIANOPOLIS - SC",231m²,4,3.0,5.0
+187,ref: 417326,R$ 790.000,rodovia amaro antonio vieira,"Itacorubi, FLORIANOPOLIS - SC",57m²,2,1.0,3.0
+188,ref: 413653,R$ 780.000,rodovia joao paulo,"Joao Paulo, FLORIANOPOLIS - SC",64m²,2,1.0,3.0
+189,ref: 340690,R$ 1.299.500,rodovia admar gonzaga,"Itacorubi, FLORIANOPOLIS - SC",96m²,3,2.0,3.0
+190,ref: 340691,R$ 924.000,rodovia admar gonzaga,"Itacorubi, FLORIANOPOLIS - SC",65m²,2,1.0,3.0
+191,ref: 356773,R$ 5.330.300,avenida dos buzios,"Jurere Internacional, FLORIANOPOLIS - SC",287m²,3,,7.0
+192,ref: 362881,R$ 950.000,rua jeronimo venancio das chagas,"Campeche, FLORIANOPOLIS - SC",48m²,1,,2.0
+193,ref: 371073,R$ 1.279.000,rua frei caneca,"Beiramar, FLORIANOPOLIS - SC",112m²,3,1.0,3.0
+194,ref: 361027,R$ 978.000,rodovia admar gonzaga,"Itacorubi, FLORIANOPOLIS - SC",76m²,2,1.0,3.0
+195,ref: 361029,R$ 950.000,rodovia admar gonzaga,"Itacorubi, FLORIANOPOLIS - SC",76m²,2,2.0,3.0
+196,ref: 361030,R$ 909.500,rodovia admar gonzaga,"Itacorubi, FLORIANOPOLIS - SC",76m²,2,1.0,3.0
+197,ref: 361039,R$ 950.000,rodovia admar gonzaga,"Itacorubi, FLORIANOPOLIS - SC",77m²,2,1.0,5.0
+198,ref: 361040,R$ 950.000,rodovia admar gonzaga,"Itacorubi, FLORIANOPOLIS - SC",77m²,2,2.0,5.0
+199,ref: 361101,R$ 924.000,rodovia admar gonzaga,"Itacorubi, FLORIANOPOLIS - SC",76m²,2,1.0,3.0
+200,ref: 361105,R$ 1.349.500,rodovia admar gonzaga,"Itacorubi, FLORIANOPOLIS - SC",96m²,3,3.0,4.0
+201,ref: 345965,R$ 870.000,rodovia amaro antonio vieira,"Itacorubi, FLORIANOPOLIS - SC",75m²,3,1.0,3.0
+202,ref: 353980,R$ 2.500.000,rua graciliano ramos,"Agronomica, FLORIANOPOLIS - SC",233m²,4,3.0,5.0
+203,ref: 365371,R$ 3.200.000,rua santo inacio de loyola,"Centro, FLORIANOPOLIS - SC",224m²,3,3.0,5.0
+204,ref: 359339,R$ 1.663.261,rua trajano margarida,"Trindade, FLORIANOPOLIS - SC",91m²,3,2.0,3.0
+205,ref: 359356,R$ 1.354.090,rua trajano margarida,"Trindade, FLORIANOPOLIS - SC",73m²,2,2.0,3.0
+206,ref: 361141,R$ 978.000,rodovia admar gonzaga,"Itacorubi, FLORIANOPOLIS - SC",76m²,2,1.0,3.0
+207,ref: 373843,R$ 1.599.000,rua idalina pereira dos santos,"Agronomica, FLORIANOPOLIS - SC",113m²,3,3.0,4.0
+208,ref: 340654,R$ 730.000,travessa do carnavalesco,"Pantanal, FLORIANOPOLIS - SC",70m²,2,2.0,2.0
+209,ref: 340678,R$ 1.299.500,rodovia admar gonzaga,"Itacorubi, FLORIANOPOLIS - SC",96m²,3,2.0,4.0
+210,ref: 340679,R$ 1.299.500,rodovia admar gonzaga,"Itacorubi, FLORIANOPOLIS - SC",96m²,3,2.0,4.0
+211,ref: 433880,R$ 1.254.222,rua doutor joao de oliveira,"Canasvieiras, Florianopolis - SC",91m²,3,2.0,4.0
+212,ref: 446029,R$ 740.000,rodovia amaro antonio vieira,"Itacorubi, Florianopolis - SC",69m²,2,1.0,3.0
+213,ref: 442277,R$ 806.187,rua joaquim nabuco,"Capoeiras, Florianopolis - SC",97m²,3,2.0,6.0
+214,ref: 390545,R$ 790.000,rua professor milton sullivan,"Carvoeira, FLORIANOPOLIS - SC",106m²,2,1.0,3.0
+215,ref: 390091,R$ 2.200.000,avenida dos dourados,"Jurere Internacional, FLORIANOPOLIS - SC",159m²,4,2.0,9.0
+216,ref: 393514,R$ 795.000*,rua salvatina feliciana dos santos,"Itacorubi, FLORIANOPOLIS - SC",77m²,2,1.0,2.0
+217,ref: 393652,R$ 1.269.000,servidao do palmeiras,"Itacorubi, FLORIANOPOLIS - SC",104m²,3,2.0,3.0
+218,ref: 415216,R$ 1.400.000,rua aristides lobo,"Beira Mar Norte, FLORIANOPOLIS - SC",83m²,3,2.0,3.0
+219,ref: 377603,R$ 689.000,rua lauro linhares,"Trindade, FLORIANOPOLIS - SC",101m²,3,1.0,3.0
+220,ref: 472064,R$ 2.000.000,rua felipe schmidt,"Centro, Florianopolis - SC",73m²,2,,3.0
+221,ref: 472085,R$ 2.000.000,rua felipe schmidt,"Centro, Florianopolis - SC",73m²,2,,3.0
+222,ref: 471060,R$ 400.000,rua servidao dona floriana,"Estreito, Florianopolis - SC",61m²,2,1.0,1.0
+223,ref: 468393,R$ 590.000,rua timbauba do ribeirao,"Ribeirao da Ilha, Florianopolis - SC",58m²,1,1.0,2.0
+224,ref: 468395,R$ 977.066,rua getulio zomer,"Canasvieiras, Florianopolis - SC",82m²,2,,2.0
+225,ref: 468396,R$ 575.000,rua timbauba do ribeirao,"Ribeirao da Ilha, Florianopolis - SC",58m²,1,1.0,2.0
+226,ref: 468397,R$ 1.040.166,rua getulio zomer,"Canasvieiras, Florianopolis - SC",82m²,2,,2.0
+227,ref: 468401,R$ 1.040.166,rua getulio zomer,"Canasvieiras, Florianopolis - SC",82m²,2,,2.0
+228,ref: 470426,R$ 1.610.565,rua julio vieira,"Joao Paulo, Florianopolis - SC",106m²,2,,1.0
+229,ref: 470434,R$ 1.471.531,rua julio vieira,"Joao Paulo, Florianopolis - SC",96m²,2,,3.0
+230,ref: 470436,R$ 1.557.975,rua julio vieira,"Joao Paulo, Florianopolis - SC",102m²,2,,3.0
+231,ref: 470444,R$ 1.634.473,rua julio vieira,"Joao Paulo, Florianopolis - SC",107m²,2,,1.0
+232,ref: 468806,R$ 585.000,rua padova,"Corrego Grande, Florianopolis - SC",67m²,2,1.0,1.0
+233,ref: 468847,R$ 2.780.000,rua pastor william richard schisler filho,"Itacorubi, Florianopolis - SC",170m²,3,3.0,4.0
+234,ref: 464205,R$ 2.011.120,rua julio vieira,"Joao Paulo, Florianopolis - SC",12699m²,3,,2.0
+235,ref: 464214,R$ 1.983.405,rua julio vieira,"Joao Paulo, Florianopolis - SC",125m²,3,,2.0
+236,ref: 464220,R$ 1.413.086,rua julio vieira,"Joao Paulo, Florianopolis - SC",92m²,2,,3.0
+237,ref: 462394,R$ 2.978.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",130m²,3,2.0,4.0
+238,ref: 465819,R$ 657.564,rua luiz elias daux,"Ingleses do Rio Vermelho, Florianopolis - SC",73m²,2,1.0,2.0
+239,ref: 465821,R$ 871.083,rua luiz elias daux,"Ingleses do Rio Vermelho, Florianopolis - SC",82m²,2,1.0,3.0
+240,ref: 465822,R$ 1.000.895,rua luiz elias daux,"Ingleses do Rio Vermelho, Florianopolis - SC",120m²,3,1.0,2.0
+241,ref: 465825,R$ 767.128,rua das dunas,"Ingleses do Rio Vermelho, Florianopolis - SC",73m²,2,1.0,2.0
+242,ref: 465827,R$ 802.735,rua das dunas,"Ingleses do Rio Vermelho, Florianopolis - SC",82m²,2,1.0,3.0
+243,ref: 465828,R$ 580.000,rodovia virgilio varzea,"Canasvieiras, Florianopolis - SC",55m²,2,,1.0
+244,ref: 465829,R$ 1.393.626,rua das dunas,"Ingleses do Rio Vermelho, Florianopolis - SC",124m²,3,2.0,4.0
+245,ref: 463089,R$ 1.259.000,rua ana luiza vieira,"Campeche, Florianopolis - SC",71m²,2,1.0,3.0
+246,ref: 463329,R$ 625.000,servidao servidao laje de pedra,"Itacorubi, Florianopolis - SC",65m²,1,1.0,1.0
+247,ref: 464751,R$ 786.788,rua da baliza,"Cachoeira do Bom Jesus, Florianopolis - SC",69m²,2,1.0,5.0
+248,ref: 464757,R$ 786.788,rua da baliza,"Cachoeira do Bom Jesus, Florianopolis - SC",71m²,2,1.0,3.0
+249,ref: 464761,R$ 786.788,rua da baliza,"Cachoeira do Bom Jesus, Florianopolis - SC",73m²,2,1.0,3.0
+250,ref: 464767,R$ 813.420,rua da baliza,"Cachoeira do Bom Jesus, Florianopolis - SC",71m²,2,1.0,3.0
+251,ref: 464778,R$ 814.584,rua da baliza,"Cachoeira do Bom Jesus, Florianopolis - SC",71m²,2,1.0,3.0
+252,ref: 464783,R$ 814.584,rua da baliza,"Cachoeira do Bom Jesus, Florianopolis - SC",73m²,2,1.0,3.0
+253,ref: 462668,R$ 2.935.972,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",135m²,3,3.0,4.0
+254,ref: 462682,R$ 2.951.173,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",135m²,3,3.0,4.0
+255,ref: 462694,R$ 280.000,servidao servidao jose manoel pacifico,"Ingleses do Rio Vermelho, Florianopolis - SC",60m²,2,,1.0
+256,ref: 462706,R$ 2.694.173,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",135m²,3,2.0,4.0
+257,ref: 462708,R$ 2.835.972,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",135m²,3,2.0,4.0
+258,ref: 462723,R$ 475.000,rua das gaivotas,"Ingleses do Rio Vermelho, Florianopolis - SC",40m²,1,,1.0
+259,ref: 463460,R$ 750.000,rua doutor homero de miranda gomes 1.180,"Estreito, Florianopolis - SC",84m²,3,2.0,2.0
+260,ref: 463465,R$ 4.201.820,rua jornalista haroldo callado,"Jurere, Florianopolis - SC",136m²,3,,4.0
+261,ref: 464322,R$ 1.598.000,rua joao meirelles,"Abraao, Florianopolis - SC",97m²,3,2.0,3.0
+262,ref: 464330,R$ 1.790.000,avenida das raias,"Jurere Internacional, Florianopolis - SC",87m²,2,1.0,2.0
+263,ref: 464353,R$ 3.830.000,rua deputado paulo preis,"Jurere, Florianopolis - SC",134m²,3,1.0,7.0
+264,ref: 466185,R$ 548.000,avenida hercilio luz,"Centro, Florianopolis - SC",53m²,1,,1.0
+265,ref: 466204,R$ 450.000,rua leonel pereira,"Cachoeira do Bom Jesus, Florianopolis - SC",45m²,2,1.0,3.0
+266,ref: 466219,R$ 523.000,avenida hercilio luz,"Centro, Florianopolis - SC",43m²,1,,1.0
+267,ref: 463591,R$ 900.000,rua auroreal,"Campeche, Florianopolis - SC",99m²,2,,2.0
+268,ref: 463037,R$ 475.000,rua jose joao martendal,"Carvoeira, Florianopolis - SC",59m²,2,1.0,1.0
+269,ref: 464665,R$ 2.021.280,rua dos peixes,"Jurere Internacional, Florianopolis - SC",87m²,2,,3.0
+270,ref: 464671,R$ 4.042.555,rua professor manoel do lago almeida,"Jurere, Florianopolis - SC",141m²,3,,4.0
+271,ref: 464703,R$ 786.788,rua da baliza,"Cachoeira do Bom Jesus, Florianopolis - SC",71m²,2,1.0,3.0
+272,ref: 461655,R$ 910.000,avenida luiz boiteux piazza,"Ponta das Canas, Florianopolis - SC",83m²,2,1.0,2.0
+273,ref: 461690,R$ 910.000,avenida luiz boiteux piazza,"Ponta das Canas, Florianopolis - SC",83m²,2,,2.0
+274,ref: 461222,R$ 8.750.000,avenida jornalista rubens de arruda ramos,"Centro, Florianopolis - SC",335m²,4,4.0,2.0
+275,ref: 463201,R$ 1.595.000,rua desembargador urbano salles,"Centro, Florianopolis - SC",130m²,3,2.0,2.0
+276,ref: 461413,R$ 834.709,rua doutor joao de oliveira,"Canasvieiras, Florianopolis - SC",73m²,2,,2.0
+277,ref: 467098,R$ 1.495.000,avenida campeche,"Campeche, Florianopolis - SC",122m²,2,2.0,1.0
+278,ref: 467113,R$ 528.500,rua araci vaz callado,"Estreito, Florianopolis - SC",45m²,1,1.0,1.0
+279,ref: 462966,R$ 529.999*,rua osvaldo climaco,"Ingleses do Rio Vermelho, Florianopolis - SC",45m²,1,1.0,1.0
+280,ref: 464958,R$ 1.570.000,avenida campeche,"Campeche, Florianopolis - SC",94m²,3,,2.0
+281,ref: 463843,R$ 785.663,rua da baliza,"Cachoeira do Bom Jesus, Florianopolis - SC",71m²,2,,1.0
+282,ref: 463845,R$ 785.663,rua da baliza,"Cachoeira do Bom Jesus, Florianopolis - SC",69m²,2,,1.0
+283,ref: 463846,R$ 785.663,rua da baliza,"Cachoeira do Bom Jesus, Florianopolis - SC",71m²,2,,3.0
+284,ref: 463848,R$ 785.663,rua da baliza,"Cachoeira do Bom Jesus, Florianopolis - SC",73m²,2,,3.0
+285,ref: 463850,R$ 813.420,rua da baliza,"Cachoeira do Bom Jesus, Florianopolis - SC",71m²,2,,3.0
+286,ref: 463851,R$ 813.420,rua da baliza,"Cachoeira do Bom Jesus, Florianopolis - SC",73m²,2,,3.0
+287,ref: 463852,R$ 840.185,rua da baliza,"Cachoeira do Bom Jesus, Florianopolis - SC",71m²,2,,3.0
+288,ref: 463853,R$ 840.185,rua da baliza,"Cachoeira do Bom Jesus, Florianopolis - SC",69m²,2,,3.0
+289,ref: 463854,R$ 840.185,rua da baliza,"Cachoeira do Bom Jesus, Florianopolis - SC",73m²,2,,3.0
+290,ref: 473724,R$ 449.000*,rua joao pio duarte silva,"Corrego Grande, Florianopolis - SC",75m²,2,1.0,1.0
+291,ref: 469368,R$ 848.000,rua ilha das gales,"Ingleses Norte, Florianopolis - SC",87m²,2,1.0,2.0
+292,ref: 469961,R$ 1.378.000,avenida atlantica,"Jardim Atlantico, Florianopolis - SC",116m²,3,2.0,4.0
+293,ref: 474871,R$ 700.000,rua do kalifa,"Canasvieiras, Florianopolis - SC",68m²,2,1.0,2.0
+294,ref: 473898,R$ 534.000,rua trajano,"Centro, Florianopolis - SC",53m²,2,,1.0
+295,ref: 473934,R$ 1.200.000,rua pirineus,"Corrego Grande, Florianopolis - SC",68m²,2,2.0,2.0
+296,ref: 473950,R$ 1.300.000,rua otavio cruz,"Campeche, Florianopolis - SC",67m²,2,1.0,2.0
+297,ref: 468312,R$ 760.000,rua timbauba do ribeirao,"Ribeirao da Ilha, Florianopolis - SC",58m²,2,1.0,2.0
+298,ref: 471420,R$ 650.000,rua pastor william richard schisler filho,"Itacorubi, Florianopolis - SC",74m²,2,1.0,2.0
+299,ref: 469153,R$ 1.096.000,rua doutor carlos correa,"Beiramar, Florianopolis - SC",92m²,2,,3.0
+300,ref: 469154,R$ 1.554.000,rua doutor carlos correa,"Beiramar, Florianopolis - SC",124m²,3,2.0,4.0
+301,ref: 468957,R$ 479.000,servidao lindomar alvaro da silveira,"Ingleses, Florianopolis - SC",45m²,1,1.0,1.0
+302,ref: 468127,R$ 892.219,rua getulio zomer,"Canasvieiras, Florianopolis - SC",92m²,2,,1.0
+303,ref: 468131,R$ 866.180,rua getulio zomer,"Canasvieiras, Florianopolis - SC",84m²,2,,2.0
+304,ref: 468133,R$ 866.180,rua getulio zomer,"Canasvieiras, Florianopolis - SC",84m²,2,,1.0
+305,ref: 468135,R$ 843.444,rua getulio zomer,"Canasvieiras, Florianopolis - SC",84m²,2,,1.0
+306,ref: 468138,R$ 615.876,rua getulio zomer,"Canasvieiras, Florianopolis - SC",59m²,2,,2.0
+307,ref: 468145,R$ 891.420,rua getulio zomer,"Canasvieiras, Florianopolis - SC",84m²,2,,1.0
+308,ref: 468146,R$ 891.420,rua getulio zomer,"Canasvieiras, Florianopolis - SC",84m²,2,,1.0
+309,ref: 468149,R$ 632.702,rua getulio zomer,"Canasvieiras, Florianopolis - SC",59m²,2,,1.0
+310,ref: 470968,R$ 444.889,estrada cristovao machado de campos,"Vargem Grande, Florianopolis - SC",61m²,2,1.0,2.0
+311,ref: 470969,R$ 428.889,estrada cristovao machado de campos,"Vargem Grande, Florianopolis - SC",57m²,2,1.0,1.0
+312,ref: 470771,R$ 1.530.000,rua delminda silveira,"Beiramar, Florianopolis - SC",131m²,3,,5.0
+313,ref: 465561,R$ 1.699.000,rua pastor william richard schisler filho,"Itacorubi, Florianopolis - SC",122m²,4,2.0,6.0
+314,ref: 465569,R$ 1.012.018,rua leonel pereira,"Cachoeira do Bom Jesus, Florianopolis - SC",144m²,1,,1.0
+315,ref: 465581,R$ 660.801,rua leonel pereira,"Cachoeira do Bom Jesus, Florianopolis - SC",58m²,2,,2.0
+316,ref: 465596,R$ 570.930,rua leonel pereira,"Cachoeira do Bom Jesus, Florianopolis - SC",58m²,2,,1.0
+317,ref: 465927,R$ 1.050.000,rodovia baldicero filomeno,"Ribeirao da Ilha, Florianopolis - SC",82m²,3,1.0,2.0
+318,ref: 461611,R$ 2.700.000,rua pastor william richard schisler filho,"Itacorubi, Florianopolis - SC",189m²,3,3.0,3.0
+319,ref: 464448,R$ 1.350.000,rua dos surubins,"Jurere, FLORIANOPOLIS - SC",107m²,3,2.0,3.0
+320,ref: 462435,R$ 2.835.972,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",135m²,3,2.0,4.0
+321,ref: 462444,R$ 2.977.770,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",135m²,3,2.0,4.0
+322,ref: 462464,R$ 3.536.572,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",163m²,3,3.0,4.0
+323,ref: 462468,R$ 2.835.972,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",135m²,3,2.0,4.0
+324,ref: 459873,R$ 1.450.000,servidao jacatirao-acu,"Campeche, Florianopolis - SC",113m²,3,2.0,2.0
+325,ref: 460303,R$ 1.460.000,rua itapiranga,"ITACORUBI, Florianopolis - SC",112m²,3,2.0,2.0
+326,ref: 460346,R$ 750.000,avenida mauro ramos,"Centro, FLORIANOPOLIS - SC",76m²,2,1.0,2.0
+327,ref: 460366,R$ 1.123.306,rua julio vieira,"Joao Paulo, Florianopolis - SC",82m²,2,,2.0
+328,ref: 461176,R$ 357.000,servidao alvino luciano da silva,"Ingleses, Florianopolis - SC",55m²,2,2.0,1.0
+329,ref: 461182,R$ 1.120.000,rua itapiranga,"itacorubi, Florianopolis - SC",88m²,2,1.0,2.0
+330,ref: 462738,R$ 3.514.905,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",162m²,3,3.0,4.0
+331,ref: 462742,R$ 3.325.919,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",158m²,3,2.0,4.0
+332,ref: 462746,R$ 4.600.000,rua frei caneca,"Agronomica, Florianopolis - SC",221m²,3,3.0,8.0
+333,ref: 462795,R$ 1.950.000,rua das corticeiras,"Campeche, Florianopolis - SC",101m²,3,2.0,2.0
+334,ref: 462799,R$ 1.300.000*,avenida campeche,"Campeche, Florianopolis - SC",76m²,2,1.0,2.0
+335,ref: 461738,R$ 1.300.000,rua joaquim jose antunes,"Campeche, Florianopolis - SC",115m²,3,,2.0
+336,ref: 461785,R$ 700.000,servidao jaborandi,"Campeche, Florianopolis - SC",77m²,2,,2.0
+337,ref: 462051,R$ 2.836.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",130m²,3,2.0,4.0
+338,ref: 460671,R$ 415.000,rodovia joao gualberto soares,"Sao Joao do Rio Vermelho, Florianopolis - SC",68m²,2,1.0,2.0
+339,ref: 460672,R$ 1.500.000,rua rui barbosa,"Beiramar, Florianopolis - SC",116m²,3,2.0,5.0
+340,ref: 460175,R$ 720.000,rua timbauba do ribeirao,"Ribeirao da Ilha, Florianopolis - SC",73m²,2,2.0,2.0
+341,ref: 460188,R$ 879.000,rua araci vaz callado,"Estreito, Florianopolis - SC",70m²,2,,2.0
+342,ref: 464789,R$ 841.387,rua da baliza,"Cachoeira do Bom Jesus, Florianopolis - SC",71m²,2,1.0,3.0
+343,ref: 464793,R$ 841.387,rua da baliza,"Cachoeira do Bom Jesus, Florianopolis - SC",69m²,2,1.0,3.0
+344,ref: 464818,R$ 841.387,rua da baliza,"Cachoeira do Bom Jesus, Florianopolis - SC",73m²,2,1.0,3.0
+345,ref: 464857,R$ 720.000,avenida buriti,"Itacorubi, Florianopolis - SC",71m²,2,1.0,2.0
+346,ref: 465021,R$ 420.000,rua jornalista tito carvalho,"Carvoeira, Florianopolis - SC",47m²,1,1.0,1.0
+347,ref: 465035,R$ 1.920.000,rua frei evaristo,"Centro, Florianopolis - SC",132m²,3,2.0,6.0
+348,ref: 459719,R$ 420.000,rua getulio zomer,"Canasvieiras, Florianopolis - SC",90m²,2,,2.0
+349,ref: 459654,R$ 535.000,rua professor clementino de brito,"Capoeiras, Florianopolis - SC",72m²,2,1.0,2.0
+350,ref: 460222,R$ 1.469.038,rua julio vieira,"Joao Paulo, Florianopolis - SC",91m²,3,,3.0
+351,ref: 460260,R$ 435.000,estrada manoel leoncio de souza brito,"Vargem Pequena, Florianopolis - SC",57m²,2,1.0,1.0
+352,ref: 459531,R$ 399.000,rodovia virgilio varzea,"Canasvieiras, Florianopolis - SC",55m²,2,1.0,1.0
+353,ref: 458474,R$ 1.000.000,rua berta lutz,"Cachoeira do Bom Jesus, Florianopolis - SC",91m²,2,1.0,3.0
+354,ref: 459011,R$ 649.000,rua lidio manoel coelho,"Ingleses do Rio Vermelho, Florianopolis - SC",60m²,2,1.0,2.0
+355,ref: 459030,R$ 1.456.000,rua berta lutz,"Cachoeira do Bom Jesus, Florianopolis - SC",89m²,2,,5.0
+356,ref: 454544,R$ 652.881,estrada dom joao becker,"Ingleses do Rio Vermelho, Florianopolis - SC",42m²,1,1.0,1.0
+357,ref: 454547,R$ 851.224,estrada dom joao becker,"Ingleses do Rio Vermelho, Florianopolis - SC",68m²,2,1.0,3.0
+358,ref: 454549,R$ 633.598,servidao nossa senhora aparecida,"Ingleses do Rio Vermelho, Florianopolis - SC",98m²,3,1.0,2.0
+359,ref: 454550,R$ 619.824,servidao nossa senhora aparecida,"Ingleses do Rio Vermelho, Florianopolis - SC",85m²,3,,2.0
+360,ref: 454551,R$ 493.104,servidao nossa senhora aparecida,"Ingleses do Rio Vermelho, Florianopolis - SC",72m²,2,,2.0
+361,ref: 454584,R$ 2.370.000,rua jornalista narbal villela,"Joao Paulo, Florianopolis - SC",195m²,3,3.0,7.0
+362,ref: 455850,R$ 1.217.000,rua maria luiza agostinho,"Itacorubi, Florianopolis - SC",130m²,3,2.0,4.0
+363,ref: 455770,R$ 900.000,avenida pequeno principe,"Campeche, Florianopolis - SC",49m²,1,1.0,1.0
+364,ref: 454031,R$ 1.750.000,avenida campeche,"Campeche, Florianopolis - SC",91m²,3,,3.0
+365,ref: 454108,R$ 1.100.000,rua heloisa rojo machado,"Campeche, Florianopolis - SC",92m²,3,2.0,3.0
+366,ref: 452706,R$ 590.000,rua joao pio duarte silva,"Corrego Grande, Florianopolis - SC",68m²,2,1.0,1.0
+367,ref: 451479,R$ 427.000,rua lauro linhares,"Trindade, Florianopolis - SC",49m²,1,1.0,1.0
+368,ref: 449893,R$ 949.000,rua frei caneca,"Beiramar, FLORIANOPOLIS - SC",88m²,3,1.0,2.0
+369,ref: 454735,R$ 360.000,rua tenente silveira,"Centro, Florianopolis - SC",34m²,1,,1.0
+370,ref: 473051,R$ 585.000,rua tenente silveira,"Centro, Florianopolis - SC",82m²,2,1.0,2.0
+371,ref: 473084,R$ 1.750.000,avenida campeche,"Campeche, Florianopolis - SC",99m²,3,1.0,3.0
+372,ref: 474925,R$ 850.000,avenida campeche,"Campeche, Florianopolis - SC",51m²,1,1.0,1.0
+373,ref: 474927,R$ 260.000,servidao pedro laureano dos santos,"Ingleses do Rio Vermelho, Florianopolis - SC",55m²,2,1.0,1.0
+374,ref: 474972,R$ 4.290.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",163m²,3,3.0,4.0
+375,ref: 474973,R$ 3.190.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",130m²,3,3.0,4.0
+376,ref: 471444,R$ 990.000,rua almirante lamego,"Centro, Florianopolis - SC",96m²,3,1.0,3.0
+377,ref: 471309,R$ 1.340.000,avenida campeche,"Campeche, Florianopolis - SC",72m²,2,1.0,2.0
+378,ref: 471351,R$ 1.380.000,rua gilmar darli vieira,"Campeche, Florianopolis - SC",59m²,2,,2.0
+379,ref: 471802,R$ 959.000,servidao pedro edmundo bittencourt,"Rio Tavares, Florianopolis - SC",69m²,2,2.0,2.0
+380,ref: 471005,R$ 850.000,rua salvatina feliciana dos santos,"Itacorubi, Florianopolis - SC",77m²,2,2.0,2.0
+381,ref: 470209,R$ 1.230.000,rodovia tertuliano brito xavier,"Jurere, Florianopolis - SC",127m²,3,1.0,4.0
+382,ref: 467760,R$ 530.000,rua ranulpho jose de souza sobrinho,"Canasvieiras, Florianopolis - SC",59m²,2,2.0,1.0
+383,ref: 466390,R$ 1.495.000,avenida campeche,"Campeche, Florianopolis - SC",102m²,3,,4.0
+384,ref: 461865,R$ 990.000,rua brisamar,"Ingleses, Florianopolis - SC",100m²,3,2.0,1.0
+385,ref: 466236,R$ 2.200.000,avenida campeche,"Campeche, Florianopolis - SC",94m²,3,,1.0
+386,ref: 466237,R$ 1.190.884,rua da quaresmeira roxa,"Cachoeira do Bom Jesus, Florianopolis - SC",142m²,4,2.0,2.0
+387,ref: 466286,R$ 1.250.000,rua altamiro guimaraes,"Centro, Florianopolis - SC",129m²,3,1.0,2.0
+388,ref: 466305,R$ 851.000,rua joaquim costa,"Agronomica, Florianopolis - SC",76m²,3,1.0,2.0
+389,ref: 467788,R$ 1.380.000,rua tenente silveira,"Centro, Florianopolis - SC",135m²,3,2.0,3.0
+390,ref: 454551,R$ 493.104,servidao nossa senhora aparecida,"Ingleses do Rio Vermelho, Florianopolis - SC",72m²,2,,2.0
+391,ref: 454584,R$ 2.370.000,rua jornalista narbal villela,"Joao Paulo, Florianopolis - SC",195m²,3,3.0,7.0
+392,ref: 455850,R$ 1.217.000,rua maria luiza agostinho,"Itacorubi, Florianopolis - SC",130m²,3,2.0,4.0
+393,ref: 455770,R$ 900.000,avenida pequeno principe,"Campeche, Florianopolis - SC",49m²,1,1.0,1.0
+394,ref: 454031,R$ 1.750.000,avenida campeche,"Campeche, Florianopolis - SC",91m²,3,,3.0
+395,ref: 454108,R$ 1.100.000,rua heloisa rojo machado,"Campeche, Florianopolis - SC",92m²,3,2.0,3.0
+396,ref: 452706,R$ 590.000,rua joao pio duarte silva,"Corrego Grande, Florianopolis - SC",68m²,2,1.0,1.0
+397,ref: 451479,R$ 427.000,rua lauro linhares,"Trindade, Florianopolis - SC",49m²,1,1.0,1.0
+398,ref: 449893,R$ 949.000,rua frei caneca,"Beiramar, FLORIANOPOLIS - SC",88m²,3,1.0,2.0
+399,ref: 454735,R$ 360.000,rua tenente silveira,"Centro, Florianopolis - SC",34m²,1,,1.0
+400,ref: 473051,R$ 585.000,rua tenente silveira,"Centro, Florianopolis - SC",82m²,2,1.0,2.0
+401,ref: 473084,R$ 1.750.000,avenida campeche,"Campeche, Florianopolis - SC",99m²,3,1.0,3.0
+402,ref: 474925,R$ 850.000,avenida campeche,"Campeche, Florianopolis - SC",51m²,1,1.0,1.0
+403,ref: 474927,R$ 260.000,servidao pedro laureano dos santos,"Ingleses do Rio Vermelho, Florianopolis - SC",55m²,2,1.0,1.0
+404,ref: 474972,R$ 4.290.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",163m²,3,3.0,4.0
+405,ref: 474973,R$ 3.190.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",130m²,3,3.0,4.0
+406,ref: 471444,R$ 990.000,rua almirante lamego,"Centro, Florianopolis - SC",96m²,3,1.0,3.0
+407,ref: 471309,R$ 1.340.000,avenida campeche,"Campeche, Florianopolis - SC",72m²,2,1.0,2.0
+408,ref: 471351,R$ 1.380.000,rua gilmar darli vieira,"Campeche, Florianopolis - SC",59m²,2,,2.0
+409,ref: 471802,R$ 959.000,servidao pedro edmundo bittencourt,"Rio Tavares, Florianopolis - SC",69m²,2,2.0,2.0
+410,ref: 471005,R$ 850.000,rua salvatina feliciana dos santos,"Itacorubi, Florianopolis - SC",77m²,2,2.0,2.0
+411,ref: 470209,R$ 1.230.000,rodovia tertuliano brito xavier,"Jurere, Florianopolis - SC",127m²,3,1.0,4.0
+412,ref: 467760,R$ 530.000,rua ranulpho jose de souza sobrinho,"Canasvieiras, Florianopolis - SC",59m²,2,2.0,1.0
+413,ref: 466390,R$ 1.495.000,avenida campeche,"Campeche, Florianopolis - SC",102m²,3,,4.0
+414,ref: 461865,R$ 990.000,rua brisamar,"Ingleses, Florianopolis - SC",100m²,3,2.0,1.0
+415,ref: 466236,R$ 2.200.000,avenida campeche,"Campeche, Florianopolis - SC",94m²,3,,1.0
+416,ref: 466237,R$ 1.190.884,rua da quaresmeira roxa,"Cachoeira do Bom Jesus, Florianopolis - SC",142m²,4,2.0,2.0
+417,ref: 466286,R$ 1.250.000,rua altamiro guimaraes,"Centro, Florianopolis - SC",129m²,3,1.0,2.0
+418,ref: 466305,R$ 851.000,rua joaquim costa,"Agronomica, Florianopolis - SC",76m²,3,1.0,2.0
+419,ref: 467788,R$ 1.380.000,rua tenente silveira,"Centro, Florianopolis - SC",135m²,3,2.0,3.0
+420,ref: 470172,R$ 350.000,estrada anarolina silveira santos,"Vargem do Bom Jesus, Florianopolis - SC",56m²,2,1.0,1.0
+421,ref: 470173,R$ 360.000,estrada anarolina silveira santos,"Vargem do Bom Jesus, Florianopolis - SC",56m²,2,1.0,1.0
+422,ref: 470175,R$ 380.000,estrada anarolina silveira santos,"Vargem do Bom Jesus, Florianopolis - SC",54m²,2,2.0,1.0
+423,ref: 475162,R$ 550.000,rua alvaro ramos,"Trindade, Florianopolis - SC",75m²,3,,1.0
+424,ref: 475173,R$ 860.000,rua lauro linhares,"Trindade, Florianopolis - SC",84m²,3,1.0,2.0
+425,ref: 448302,R$ 900.000,rua felipe schmidt,"Centro, Florianopolis - SC",100m²,2,1.0,2.0
+426,ref: 448313,R$ 700.000,rodovia amaro antonio vieira,"Itacorubi, Florianopolis - SC",75m²,3,1.0,2.0
+427,ref: 448375,R$ 785.000,rua sao jose,"Balneario, Florianopolis - SC",109m²,3,,2.0
+428,ref: 447804,R$ 884.674,rua antonio jose thomaz da costa,"Campeche, Florianopolis - SC",42m²,1,,1.0
+429,ref: 448235,R$ 616.621,avenida internacional,"Ingleses, Florianopolis - SC",72m²,2,1.0,2.0
+430,ref: 447946,R$ 1.600.000,rua salvatina feliciana dos santos,"Itacorubi, Florianopolis - SC",98m²,3,2.0,4.0
+431,ref: 447961,R$ 1.100.000,avenida campeche,"Campeche, Florianopolis - SC",82m²,2,1.0,2.0
+432,ref: 446899,R$ 550.000,servidao sinfronio jose da silveira,"Campeche, Florianopolis - SC",76m²,2,,2.0
+433,ref: 446684,R$ 1.590.000,avenida das raias,"Jurere Internacional, Florianopolis - SC",67m²,2,2.0,2.0
+434,ref: 445725,R$ 680.000,rua das gaivotas,"Ingleses do Rio Vermelho, Florianopolis - SC",70m²,2,1.0,2.0
+435,ref: 445626,R$ 1.130.000,rua heloisa rojo machado,"Campeche, Florianopolis - SC",91m²,3,2.0,2.0
+436,ref: 445637,R$ 810.000,rua pastor william richard schisler filho,"Itacorubi, Florianopolis - SC",70m²,2,1.0,2.0
+437,ref: 445881,R$ 869.000,rua gilmar darli vieira,"Campeche, Florianopolis - SC",45m²,1,,1.0
+438,ref: 446056,R$ 935.000,rua peixe rei,"Ingleses do Rio Vermelho, Florianopolis - SC",89m²,2,1.0,3.0
+439,ref: 443524,R$ 1.150.000,servidao catavento,"Campeche, Florianopolis - SC",70m²,2,,2.0
+440,ref: 469891,R$ 530.000,rodovia virgilio varzea,"Canasvieiras, Florianopolis - SC",55m²,2,1.0,1.0
+441,ref: 469938,R$ 1.180.000,rua sucupira,"Campeche, Florianopolis - SC",68m²,2,,3.0
+442,ref: 472302,R$ 755.000,rua crispim mira,"Centro, Florianopolis - SC",98m²,3,1.0,2.0
+443,ref: 468787,R$ 1.998.000,avenida campeche,"Campeche, Florianopolis - SC",98m²,3,2.0,1.0
+444,ref: 468901,R$ 845.000,rodovia virgilio varzea,"Monte Verde, Florianopolis - SC",83m²,2,1.0,2.0
+445,ref: 474617,R$ 590.000,rua anita garibaldi,"Centro, Florianopolis - SC",57m²,2,,1.0
+446,ref: 474658,R$ 265.000,rua douglas seabra levier,"Carvoeira, Florianopolis - SC",28m²,1,,1.0
+447,ref: 471163,R$ 2.660.000,rua pastor william richard schisler filho,"Itacorubi, Florianopolis - SC",170m²,4,3.0,5.0
+448,ref: 473689,R$ 470.000,"rodovia admar gonzaga, 1347","Itacorubi, Florianopolis - SC",73m²,2,1.0,1.0
+449,ref: 466026,R$ 1.050.000,rodovia baldicero filomeno,"Ribeirao da Ilha, Florianopolis - SC",82m²,3,1.0,2.0
+450,ref: 467959,R$ 690.000,servidao feliciano martins vieira,"Itacorubi, Florianopolis - SC",73m²,2,2.0,1.0
+451,ref: 467971,R$ 1.390.000,rua das piraunas,"Jurere Internacional, Florianopolis - SC",89m²,3,2.0,2.0
+452,ref: 467940,R$ 340.000,travessa ibiza,"Campeche, Florianopolis - SC",51m²,2,,1.0
+453,ref: 474741,R$ 850.000,rua crispim mira,"Centro, Florianopolis - SC",93m²,3,1.0,2.0
+454,ref: 451381,R$ 1.250.000,servidao laje de pedra,"Itacorubi, Florianopolis - SC",89m²,2,1.0,4.0
+455,ref: 450735,R$ 830.000,rua fulvio aducci,"Estreito, Florianopolis - SC",128m²,3,1.0,2.0
+456,ref: 450742,R$ 580.000,rua tenente silveira,"Centro, Florianopolis - SC",61m²,2,1.0,1.0
+457,ref: 449121,R$ 1.010.000,rua joao luiz da silva brito,"Canasvieiras, Florianopolis - SC",68m²,2,,1.0
+458,ref: 447350,R$ 371.000,servidao garcia esporte e lazer,"Carianos, Florianopolis - SC",68m²,2,1.0,2.0
+459,ref: 450045,R$ 1.290.000,avenida campeche,"Campeche, Florianopolis - SC",71m²,2,,2.0
+460,ref: 450814,R$ 1.150.000,rua jeronimo venancio das chagas,"Campeche, Florianopolis - SC",80m²,2,,1.0
+461,ref: 450849,R$ 1.350.000,avenida campeche,"campeche, Florianopolis - SC",72m²,2,,3.0
+462,ref: 449141,R$ 890.000,rua pastor william richard schisler filho,"Itacorubi, Florianopolis - SC",125m²,2,2.0,3.0
+463,ref: 451081,R$ 1.330.000,estrada haroldo soares glavan,"Cacupe, Florianopolis - SC",94m²,3,2.0,2.0
+464,ref: 450408,R$ 1.200.000,rua sagrado coracao de jesus,"Morro das Pedras, Florianopolis - SC",97m²,3,2.0,2.0
+465,ref: 452021,R$ 1.590.000,rua professor renato barbosa,"Jurere, Florianopolis - SC",65m²,2,1.0,5.0
+466,ref: 447666,R$ 799.000,rua jurere tradicional,"Jurere, Florianopolis - SC",58m²,2,2.0,5.0
+467,ref: 473137,R$ 620.000,rodovia baldicero filomeno,"Ribeirao da Ilha, Florianopolis - SC",64m²,2,,2.0
+468,ref: 472137,R$ 980.000,rua nivaldo dias,"Campeche, Florianopolis - SC",65m²,2,1.0,2.0
+469,ref: 472559,R$ 1.590.000,rua itapiranga,"Itacorubi, Florianopolis - SC",116m²,3,2.0,3.0
+470,ref: 453137,R$ 1.575.000,rua otavio cruz,"Campeche, Florianopolis - SC",98m²,2,1.0,2.0
+471,ref: 451211,R$ 950.000,rua almiscar,"Monte Verde, Florianopolis - SC",90m²,3,2.0,2.0
+472,ref: 452116,R$ 980.000,rua hypolito gregorio pereira,"Canasvieiras, Florianopolis - SC",78m²,2,2.0,3.0
+473,ref: 454196,R$ 1.400.000,rua manoel pedro vieira,"Morro das Pedras, Florianopolis - SC",102m²,2,2.0,2.0
+474,ref: 454223,R$ 1.750.000,rua rui barbosa,"Beiramar, Florianopolis - SC",117m²,3,2.0,5.0
+475,ref: 454240,R$ 740.000,estrada vereador onildo lemos,"Ingleses do Rio Vermelho, Florianopolis - SC",71m²,2,2.0,2.0
+476,ref: 451875,R$ 490.000,rua jose boiteux,"Centro, FLORIANOPOLIS - SC",42m²,1,,1.0
+477,ref: 451720,R$ 479.000,rua jose boiteux,"Agronomica, FLORIANOPOLIS - SC",53m²,1,,1.0
+478,ref: 455296,R$ 800.000,avenida professor milton leite da costa,"Canasvieiras, Florianopolis - SC",116m²,3,1.0,2.0
+479,ref: 450940,R$ 1.612.000,rua das corticeiras,"Campeche, Florianopolis - SC",90m²,2,2.0,2.0
+480,ref: 452405,R$ 1.650.000,rua ferreira lima,"Centro, Florianopolis - SC",117m²,3,2.0,8.0
+481,ref: 460497,R$ 825.000,rodovia amaro antonio vieira,"ITACORUBI, Florianopolis - SC",70m²,2,1.0,2.0
+482,ref: 460556,R$ 545.000,estrada manoel leoncio de souza brito,"Vargem Pequena, Florianopolis - SC",60m²,2,1.0,3.0
+483,ref: 465098,R$ 2.349.000,rua manoel pedro vieira,"Morro das Pedras, Florianopolis - SC",117m²,3,2.0,4.0
+484,ref: 464582,R$ 855.500,rua fernandes francisco coutinho,"Canasvieiras, Florianopolis - SC",72m²,2,1.0,2.0
+485,ref: 464588,R$ 817.920,rua doutor joao de oliveira,"Canasvieiras, Florianopolis - SC",73m²,2,1.0,2.0
+486,ref: 464598,R$ 835.789,rua doutor joao de oliveira,"Canasvieiras, Florianopolis - SC",73m²,2,1.0,2.0
+487,ref: 464608,R$ 873.540,rua doutor joao de oliveira,"Canasvieiras, Florianopolis - SC",73m²,2,1.0,2.0
+488,ref: 464613,R$ 835.541,rua doutor joao de oliveira,"Canasvieiras, Florianopolis - SC",68m²,2,1.0,2.0
+489,ref: 464621,R$ 784.149,rua doutor joao de oliveira,"Canasvieiras, Florianopolis - SC",68m²,2,1.0,2.0
+490,ref: 465615,R$ 570.068,rua leonel pereira,"Cachoeira do Bom Jesus, Florianopolis - SC",64m²,3,,1.0
+491,ref: 461874,R$ 320.000,servidao pedro laureano dos santos,"Ingleses do Rio Vermelho, Florianopolis - SC",56m²,2,,2.0
+492,ref: 461926,R$ 899.000,rua do marisco,"Ingleses do Rio Vermelho, Florianopolis - SC",88m²,3,1.0,3.0
+493,ref: 472242,R$ 1.470.000,estrada haroldo soares glavan,"Cacupe, Florianopolis - SC",94m²,3,1.0,2.0
+494,ref: 473298,R$ 870.000,rua das camelias,"Carvoeira, Florianopolis - SC",70m²,2,,2.0
+495,ref: 470356,R$ 1.474.686,rua julio vieira,"Joao Paulo, Florianopolis - SC",91m²,3,,2.0
+496,ref: 470361,R$ 1.474.775,rua julio vieira,"Joao Paulo, Florianopolis - SC",92m²,3,,2.0
+497,ref: 470376,R$ 1.553.305,rua julio vieira,"Joao Paulo, Florianopolis - SC",103m²,2,,1.0
+498,ref: 470406,R$ 600.000,rodovia amaro antonio vieira,"Itacorubi, FLORIANOPOLIS - SC",58m²,2,1.0,1.0
+499,ref: 468213,R$ 850.000,avenida tom traugott wildi,"Praia Brava, Florianopolis - SC",55m²,2,1.0,1.0
+500,ref: 468218,R$ 800.000,rua madre maria vilac,"Canasvieiras, Florianopolis - SC",77m²,2,1.0,2.0
+501,ref: 471920,R$ 2.120.000,avenida mauro ramos,"Centro, Florianopolis - SC",80m²,2,2.0,2.0
+502,ref: 471927,R$ 620.000,rua joao pio duarte silva,"Corrego Grande, Florianopolis - SC",92m²,3,1.0,3.0
+503,ref: 471941,R$ 2.550.000,rua pastor william richard schisler filho,"Itacorubi, Florianopolis - SC",170m²,3,3.0,5.0
+504,ref: 470078,R$ 619.000,rua mario lacombe,"Canasvieiras, Florianopolis - SC",79m²,2,,1.0
+505,ref: 470103,R$ 424.000,estrada anarolina silveira santos,"Vargem do Bom Jesus, Florianopolis - SC",56m²,2,,1.0
+506,ref: 457717,R$ 850.000,rua dos canudos,"Ingleses do Rio Vermelho, Florianopolis - SC",89m²,2,,2.0
+507,ref: 457586,R$ 960.000,rua deputado paulo preis,"Jurere, Florianopolis - SC",68m²,2,1.0,2.0
+508,ref: 457336,R$ 770.000,avenida santa catarina,"Canto, Florianopolis - SC",71m²,2,1.0,2.0
+509,ref: 457373,R$ 550.000,rodovia virgilio varzea,"Canasvieiras, Florianopolis - SC",55m²,2,1.0,1.0
+510,ref: 458233,R$ 1.447.337,rua julio vieira,"Joao Paulo, Florianopolis - SC",8534m²,2,,2.0
+511,ref: 458257,R$ 813.178,rua da baliza,"Cachoeira do Bom Jesus, Florianopolis - SC",76m²,2,,3.0
+512,ref: 458271,R$ 659.000,servidao corintians,"Pantanal, FLORIANOPOLIS - SC",71m²,2,2.0,2.0
+513,ref: 458297,R$ 2.200.000,alameda adolfo konder,"Centro, Florianopolis - SC",161m²,3,,2.0
+514,ref: 458331,R$ 750.000,rua dos canudos,"Ingleses do Rio Vermelho, Florianopolis - SC",78m²,2,2.0,2.0
+515,ref: 459323,R$ 950.000,rua almirante lamego,"Centro, Florianopolis - SC",101m²,3,1.0,2.0
+516,ref: 459418,R$ 350.000,rua vidal ramos,"Centro, Florianopolis - SC",34m²,1,,1.0
+517,ref: 459273,R$ 550.000,rodovia tertuliano brito xavier,"Canasvieiras, Florianopolis - SC",77m²,2,1.0,3.0
+518,ref: 458947,R$ 700.000,estrada dario manoel cardoso,"Ingleses, Florianopolis - SC",85m²,2,2.0,3.0
+519,ref: 457591,R$ 1.515.000,rua professor heinz braunsperger,"Jurere, Florianopolis - SC",84m²,2,1.0,2.0
+520,ref: 458921,R$ 700.000,rua pastor william richard schisler filho,"Itacorubi, Florianopolis - SC",64m²,2,1.0,3.0
+521,ref: 457121,R$ 2.045.100,avenida campeche,"Campeche, Florianopolis - SC",99m²,3,2.0,2.0
+522,ref: 457122,R$ 1.466.996,avenida campeche,"Campeche, Florianopolis - SC",74m²,2,2.0,2.0
+523,ref: 457124,R$ 1.150.000,rua cristovao nunes pires,"Centro, Florianopolis - SC",83m²,3,1.0,2.0
+524,ref: 457182,R$ 703.000,rodovia armando calil bulos,"Vargem Grande, Florianopolis - SC",64m²,2,,2.0
+525,ref: 451790,R$ 1.300.000,rua presidente coutinho,"Centro, Florianopolis - SC",113m²,3,1.0,2.0
+526,ref: 457195,R$ 795.000,rodovia armando calil bulos,"Vargem Grande, Florianopolis - SC",82m²,3,,2.0
+527,ref: 458165,R$ 850.000,rua leonel pereira,"Cachoeira do Bom Jesus, Florianopolis - SC",66m²,2,,2.0
+528,ref: 458167,R$ 725.000,rua leonel pereira,"Cachoeira do Bom Jesus, Florianopolis - SC",66m²,2,,2.0
+529,ref: 458170,R$ 900.000,rua leonel pereira,"Cachoeira do Bom Jesus, Florianopolis - SC",69m²,2,,2.0
+530,ref: 458177,R$ 2.732.950,rodovia tertuliano brito xavier,"Jurere, Florianopolis - SC",137m²,3,,4.0
+531,ref: 458568,R$ 790.000,rua deputado antonio edu vieira,"Pantanal, FLORIANOPOLIS - SC",69m²,2,2.0,3.0
+532,ref: 458574,R$ 1.150.000,estrada dom joao becker,"Ingleses do Rio Vermelho, Florianopolis - SC",94m²,2,,1.0
+533,ref: 458584,R$ 2.690.000,estrada dom joao becker,"Ingleses do Rio Vermelho, Florianopolis - SC",132m²,3,3.0,3.0
+534,ref: 458589,R$ 1.100.000,avenida campeche,"Campeche, Florianopolis - SC",82m²,2,,2.0
+535,ref: 445089,R$ 375.000,rua franklin cascaes,"Ponta das Canas, Florianopolis - SC",64m²,2,1.0,3.0
+536,ref: 445123,R$ 790.000,rua mediterraneo,"Corrego Grande, Florianopolis - SC",87m²,3,2.0,2.0
+537,ref: 445487,R$ 699.000,rua doutor odilon gallotti,"Capoeiras, Florianopolis - SC",93m²,4,1.0,2.0
+538,ref: 444299,R$ 799.000,rua jose daux,"Canasvieiras, Florianopolis - SC",100m²,2,1.0,2.0
+539,ref: 444303,R$ 2.150.000,rua duarte schutel,"Centro, Florianopolis - SC",248m²,4,3.0,3.0
+540,ref: 445426,R$ 689.000,rua lauro linhares,"Trindade, Florianopolis - SC",95m²,3,1.0,2.0
+541,ref: 438210,R$ 2.150.000,rua laurindo januario da silveira,"Lagoa da Conceicao, Florianopolis - SC",168m²,3,1.0,2.0
+542,ref: 438269,R$ 750.000,rua das gaivotas,"Ingleses do Rio Vermelho, Florianopolis - SC",73m²,2,1.0,2.0
+543,ref: 437217,R$ 1.100.000,rua lazaro de oliveira souza,"Ingleses do Rio Vermelho, Florianopolis - SC",162m²,2,1.0,3.0
+544,ref: 437275,R$ 840.000,rua doutor carlos correa,"Beiramar, Florianopolis - SC",62m²,2,1.0,1.0
+545,ref: 437321,R$ 998.000,rua sebastiao laurentino da silva,"Corrego Grande, Florianopolis - SC",82m²,3,2.0,2.0
+546,ref: 438691,R$ 450.000,rua pascoal simone,"Coqueiros, Florianopolis - SC",63m²,2,1.0,2.0
+547,ref: 440742,R$ 1.400.000,rua antonio dib mussi,"Centro, Florianopolis - SC",181m²,4,2.0,5.0
+548,ref: 440754,R$ 636.000,rua martinho de haro,"Ingleses, Florianopolis - SC",75m²,2,,1.0
+549,ref: 440761,R$ 339.000,avenida luiz boiteux piazza,"Ponta das Canas, Florianopolis - SC",51m²,1,1.0,1.0
+550,ref: 442221,R$ 392.800,rua joao meirelles,"Abraao, Florianopolis - SC",39m²,1,,1.0
+551,ref: 445167,R$ 1.910.000,rua sao francisco,"Centro, Florianopolis - SC",116m²,3,2.0,2.0
+552,ref: 445193,R$ 1.100.000,rua duarte schutel,"Centro, Florianopolis - SC",102m²,3,1.0,3.0
+553,ref: 445231,R$ 1.250.000,servidao jacatirao-acu,"Campeche, Florianopolis - SC",94m²,3,,2.0
+554,ref: 446653,R$ 648.368,rua cedro rosa do sul,"Ribeirao da Ilha, Florianopolis - SC",66m²,2,1.0,2.0
+555,ref: 443606,R$ 2.150.000,rua jeronimo venancio das chagas,"campeche, Florianopolis - SC",104m²,2,2.0,3.0
+556,ref: 442673,R$ 1.100.000,rua gilmar darli vieira,"Campeche, Florianopolis - SC",70m²,2,,2.0
+557,ref: 444489,R$ 1.527.000,rua almirante lamego,"Centro, Florianopolis - SC",123m²,3,1.0,4.0
+558,ref: 440248,R$ 1.007.000,rua higino brito,"Canasvieiras, Florianopolis - SC",117m²,3,1.0,2.0
+559,ref: 440281,R$ 1.007.000,rua higino brito,"Canasvieiras, Florianopolis - SC",113m²,3,1.0,2.0
+560,ref: 401478,R$ 1.180.000,servidao recanto verde,"Itacorubi, FLORIANOPOLIS - SC",65m²,2,1.0,3.0
+561,ref: 400867,R$ 3.100.000,avenida governador irineu bornhausen,"Centro, FLORIANOPOLIS - SC",157m²,3,2.0,2.0
+562,ref: 402730,R$ 2.800.000,rua bocaiuva,"Centro, FLORIANOPOLIS - SC",233m²,3,2.0,4.0
+563,ref: 401900,R$ 1.203.000,rua joao pio duarte silva,"Corrego Grande, FLORIANOPOLIS - SC",96m²,3,2.0,3.0
+564,ref: 401928,R$ 750.000,rua adiles della giustina,"Ingleses, FLORIANOPOLIS - SC",81m²,2,1.0,2.0
+565,ref: 415791,R$ 3.350.000,rua gilmar darli vieira,"Campeche, FLORIANOPOLIS - SC",298m²,3,3.0,6.0
+566,ref: 414543,R$ 560.000,servidao calendula,"INGLESES DO RIO VERMELHO, FLORIANOPOLIS - SC",79m²,2,,2.0
+567,ref: 414556,R$ 1.100.000,rua laurindo januario da silveira,"Lagoa da Conceicao, FLORIANOPOLIS - SC",68m²,1,1.0,1.0
+568,ref: 414565,R$ 790.000,rua laurindo januario da silveira,"Lagoa da Conceicao, FLORIANOPOLIS - SC",50m²,1,1.0,1.0
+569,ref: 389803,R$ 1.002.282,rua joaquim nabuco,"Capoeiras, FLORIANOPOLIS - SC",117m²,3,,6.0
+570,ref: 389810,R$ 1.210.865,rua joaquim nabuco,"Capoeiras, FLORIANOPOLIS - SC",123m²,3,,6.0
+571,ref: 389954,R$ 980.000,rodovia virgilio varzea,"Saco Grande, FLORIANOPOLIS - SC",99m²,3,2.0,3.0
+572,ref: 387344,R$ 1.482.219,rua das castanhetas,"Jurere Internacional, FLORIANOPOLIS - SC",79m²,2,2.0,5.0
+573,ref: 387345,R$ 1.375.608,rua das castanhetas,"Jurere Internacional, FLORIANOPOLIS - SC",79m²,2,2.0,5.0
+574,ref: 390589,R$ 1.270.000,rua vitor konder,"Centro, FLORIANOPOLIS - SC",102m²,3,1.0,3.0
+575,ref: 390691,R$ 1.690.000,"avenida hercilio luz, 540","Centro, FLORIANOPOLIS - SC",115m²,3,2.0,4.0
+576,ref: 390692,R$ 1.759.000,"avenida hercilio luz, 540","Centro, FLORIANOPOLIS - SC",113m²,3,,4.0
+577,ref: 390693,R$ 1.725.000,"avenida hercilio luz, 540","Centro, FLORIANOPOLIS - SC",115m²,3,2.0,1.0
+578,ref: 384356,R$ 703.000,avenida santa catarina,"Canto, FLORIANOPOLIS - SC",79m²,2,1.0,3.0
+579,ref: 384370,R$ 900.000,avenida santa catarina,"Canto, FLORIANOPOLIS - SC",97m²,3,1.0,3.0
+580,ref: 384924,R$ 802.858,avenida marinheiro max schramm,"Jardim Atlantico, FLORIANOPOLIS - SC",70m²,2,2.0,2.0
+581,ref: 384957,R$ 1.296.000,rua afonso pena,"Estreito, FLORIANOPOLIS - SC",116m²,3,3.0,4.0
+582,ref: 385607,R$ 2.370.000,rua tenente silveira,"Centro, FLORIANOPOLIS - SC",151m²,3,3.0,2.0
+583,ref: 384225,R$ 672.000,avenida santa catarina,"Canto, FLORIANOPOLIS - SC",71m²,2,1.0,2.0
+584,ref: 384428,R$ 991.000,avenida santa catarina,"Canto, FLORIANOPOLIS - SC",127m²,2,1.0,2.0
+585,ref: 387265,R$ 621.000,rua pastor william richard schisler filho,"Itacorubi, Florianopolis - SC",57m²,2,1.0,2.0
+586,ref: 387285,R$ 1.169.000,rua maria luiza agostinho,"Itacorubi, FLORIANOPOLIS - SC",102m²,3,2.0,3.0
+587,ref: 388838,R$ 903.800,rua marques de carvalho,"Coqueiros, FLORIANOPOLIS - SC",75m²,2,1.0,3.0
+588,ref: 387066,R$ 642.000,rua maria luiza agostinho,"Itacorubi, FLORIANOPOLIS - SC",52m²,1,1.0,3.0
+589,ref: 388187,R$ 890.000,rua servidao recanto verde,"Itacorubi, FLORIANOPOLIS - SC",65m²,2,1.0,2.0
+590,ref: 383704,R$ 2.403.000,rua prefeito coronel antenor mesquita,"Centro, FLORIANOPOLIS - SC",122m²,2,1.0,6.0
+591,ref: 427826,R$ 350.000,rodovia baldicero filomeno,"Ribeirao da Ilha, FLORIANOPOLIS - SC",40m²,1,1.0,
+592,ref: 427832,R$ 730.620,rodovia baldicero filomeno,"Ribeirao da Ilha, FLORIANOPOLIS - SC",89m²,2,,
+593,ref: 427856,R$ 2.250.000,rua das corticeiras,"Campeche, FLORIANOPOLIS - SC",112m²,3,,4.0
+594,ref: 427885,R$ 1.071.000,rodovia admar gonzaga,"Itacorubi, FLORIANOPOLIS - SC",95m²,2,,2.0
+595,ref: 427886,R$ 840.601,rodovia admar gonzaga,"Itacorubi, FLORIANOPOLIS - SC",76m²,2,,2.0
+596,ref: 427930,R$ 530.000,rodovia baldicero filomeno,"Ribeirao da Ilha, FLORIANOPOLIS - SC",41m²,1,,
+597,ref: 427958,R$ 1.600.000,servidao guimaraes,"Ingleses do Rio Vermelho, FLORIANOPOLIS - SC",372m²,9,,
+598,ref: 428631,R$ 1.300.000,rua gilmar darli vieira,"Novo Campeche, FLORIANOPOLIS - SC",59m²,2,2.0,3.0
+599,ref: 428634,R$ 860.000,rodovia sc-405,"Campeche, FLORIANOPOLIS - SC",52m²,1,,
+600,ref: 428710,R$ 954.000,rua professor teodosio mauricio wanderley,"Canasvieiras, Florianopolis - SC",84m²,3,1.0,2.0
+601,ref: 416063,R$ 1.199.000,rodovia virgilio varzea,"Saco Grande, FLORIANOPOLIS - SC",103m²,3,1.0,3.0
+602,ref: 412146,R$ 1.139.000,avenida campeche,"Campeche, FLORIANOPOLIS - SC",72m²,2,1.0,2.0
+603,ref: 412575,R$ 583.000,rodovia tertuliano brito xavier,"Canasvieiras, FLORIANOPOLIS - SC",83m²,2,1.0,3.0
+604,ref: 410211,R$ 1.650.000,rua itapiranga,"Itacorubi, FLORIANOPOLIS - SC",112m²,3,2.0,2.0
+605,ref: 428325,R$ 2.300.000,avenida av. campeche,"Campeche, FLORIANOPOLIS - SC",50m²,3,,4.0
+606,ref: 428327,R$ 2.000.000,rua manoel pedro vieira,"Morro das Pedras, FLORIANOPOLIS - SC",88m²,2,,3.0
+607,ref: 428384,R$ 900.000,rodovia baldicero filomeno,"Ribeirao da Ilha, FLORIANOPOLIS - SC",82m²,3,,3.0
+608,ref: 428390,R$ 1.380.000,rua joao meirelles,"Abraao, FLORIANOPOLIS - SC",112m²,3,,4.0
+609,ref: 428402,R$ 950.000,rua nivaldo dias,"Campeche, Florianopolis - SC",45m²,1,,
+610,ref: 428434,R$ 2.378.000,avenida av. campeche,"Campeche, FLORIANOPOLIS - SC",116m²,2,,3.0
+611,ref: 428446,R$ 1.346.136,servidao servulo chagas,"Campeche, FLORIANOPOLIS - SC",95m²,1,,5.0
+612,ref: 429922,R$ 1.349.000,rua ana luiza vieira,"Campeche, Florianopolis - SC",83m²,2,1.0,2.0
+613,ref: 423003,R$ 818.026,rua teodoro manoel dias,"Santo Antonio de Lisboa, FLORIANOPOLIS - SC",77m²,2,2.0,3.0
+614,ref: 423057,R$ 1.185.775,rua teodoro manoel dias,"Santo Antonio de Lisboa, FLORIANOPOLIS - SC",109m²,3,2.0,7.0
+615,ref: 423058,R$ 1.063.249,rua teodoro manoel dias,"Santo Antonio de Lisboa, FLORIANOPOLIS - SC",110m²,2,2.0,5.0
+616,ref: 423059,R$ 958.550,rua teodoro manoel dias,"Santo Antonio de Lisboa, FLORIANOPOLIS - SC",84m²,2,2.0,3.0
+617,ref: 428006,R$ 2.050.000,rua das algas,"Jurere Internacional, FLORIANOPOLIS - SC",127m²,1,,8.0
+618,ref: 428020,R$ 705.000,rua da capela,"Campeche, FLORIANOPOLIS - SC",48m²,1,,2.0
+619,ref: 429754,R$ 1.150.000,rua mar azul profundo,"Rio Tavares, FLORIANOPOLIS - SC",90m²,3,2.0,2.0
+620,ref: 428143,R$ 1.690.000,rua das corticeiras,"Campeche, FLORIANOPOLIS - SC",89m²,2,2.0,3.0
+621,ref: 371245,R$ 760.000,rua duarte schutel,"Beira Mar, FLORIANOPOLIS - SC",80m²,3,1.0,2.0
+622,ref: 373541,R$ 750.000,avenida trompowsky,"Centro, FLORIANOPOLIS - SC",43m²,1,1.0,1.0
+623,ref: 378582,R$ 1.490.000,avenida governador irineu bornhausen,"Beiramar, FLORIANOPOLIS - SC",136m²,2,1.0,3.0
+624,ref: 374941,R$ 998.000,rua aristides lobo,"Agronomica, FLORIANOPOLIS - SC",108m²,2,1.0,2.0
+625,ref: 375938,R$ 1.520.000,avenida campeche,"Campeche, FLORIANOPOLIS - SC",114m²,3,2.0,2.0
+626,ref: 375970,R$ 1.166.977,rua rui barbosa,"Beiramar, FLORIANOPOLIS - SC",121m²,3,1.0,2.0
+627,ref: 372025,R$ 742.000,rua luiz pasteur,"Trindade, FLORIANOPOLIS - SC",60m²,2,2.0,1.0
+628,ref: 375683,R$ 600.000,rua anita garibaldi,"Centro, FLORIANOPOLIS - SC",57m²,2,,1.0
+629,ref: 374806,R$ 954.000,rua almiscar,"Monte Verde, FLORIANOPOLIS - SC",82m²,2,1.0,2.0
+630,ref: 378245,R$ 360.000,rodovia baldicero filomeno,"Ribeirao da Ilha, Florianopolis - SC",41m²,1,1.0,1.0
+631,ref: 370098,R$ 2.300.000,avenida professor othon gama deca,"Centro, FLORIANOPOLIS - SC",264m²,4,2.0,3.0
+632,ref: 370103,R$ 1.590.000,rua aristides lobo,"Agronomica, FLORIANOPOLIS - SC",140m²,3,2.0,5.0
+633,ref: 429255,R$ 1.480.000,rua graciliano ramos,"Agronomica, FLORIANOPOLIS - SC",126m²,3,2.0,3.0
+634,ref: 428772,R$ 1.500.000,rua jose jacques,"Centro, FLORIANOPOLIS - SC",273m²,5,2.0,2.0
+635,ref: 422817,R$ 977.543,rua teodoro manoel dias,"Santo Antonio de Lisboa, FLORIANOPOLIS - SC",100m²,3,2.0,4.0
+636,ref: 423906,R$ 880.000,rua morro das feiticeiras,"Ingleses do Rio Vermelho, FLORIANOPOLIS - SC",75m²,3,1.0,2.0
+637,ref: 421576,R$ 1.550.000,avenida campeche,"Campeche, FLORIANOPOLIS - SC",138m²,2,1.0,3.0
+638,ref: 432358,R$ 899.000,rua capitao euclides de castro,"Coqueiros, Florianopolis - SC",101m²,3,2.0,3.0
+639,ref: 428449,R$ 1.256.736,servidao servulo chagas,"Campeche, Florianopolis - SC",95m²,2,,5.0
+640,ref: 428450,R$ 1.346.136,servidao servulo chagas,"Campeche, FLORIANOPOLIS - SC",129m²,1,,5.0
+641,ref: 428451,R$ 1.095.459,servidao servulo chagas,"Campeche, FLORIANOPOLIS - SC",77m²,1,,5.0
+642,ref: 428454,R$ 580.000,rod sc-405,"Campeche, FLORIANOPOLIS - SC",40m²,1,,
+643,ref: 428457,R$ 835.000,rua nivaldo dias,"Novo Campeche, FLORIANOPOLIS - SC",33m²,1,,
+644,ref: 428460,R$ 665.000,rua timbauba do ribeirao,"Ribeirao da Ilha, FLORIANOPOLIS - SC",51m²,2,,3.0
+645,ref: 428462,R$ 695.000,rua timbauba do ribeirao,"Ribeirao da Ilha, FLORIANOPOLIS - SC",58m²,2,,3.0
+646,ref: 428463,R$ 515.000,rua timbauba do ribeirao,"Ribeirao da Ilha, FLORIANOPOLIS - SC",39m²,1,,2.0
+647,ref: 428464,R$ 520.000,rua timbauba do ribeirao,"Ribeirao da Ilha, FLORIANOPOLIS - SC",40m²,1,,2.0
+648,ref: 428466,R$ 515.000,rua timbauba do ribeirao,"Ribeirao da Ilha, FLORIANOPOLIS - SC",39m²,1,,2.0
+649,ref: 428467,R$ 515.000,rua timbauba do ribeirao,"Ribeirao da Ilha, FLORIANOPOLIS - SC",39m²,1,,2.0
+650,ref: 428468,R$ 540.000,rua timbauba do ribeirao,"Ribeirao da Ilha, FLORIANOPOLIS - SC",41m²,1,,2.0
+651,ref: 428472,R$ 1.068.232,avenida sc 405,"Campeche, FLORIANOPOLIS - SC",93m²,1,,4.0
+652,ref: 428474,R$ 1.067.601,avenida sc 405,"Campeche, FLORIANOPOLIS - SC",93m²,1,,4.0
+653,ref: 428475,R$ 1.102.104,avenida sc 405,"Campeche, FLORIANOPOLIS - SC",96m²,1,,4.0
+654,ref: 428476,R$ 1.068.230,avenida sc 405,"Campeche, FLORIANOPOLIS - SC",93m²,1,,4.0
+655,ref: 428477,R$ 1.114.735,avenida sc 405,"Campeche, FLORIANOPOLIS - SC",97m²,1,,4.0
+656,ref: 428478,R$ 1.068.232,avenida sc 405,"Campeche, FLORIANOPOLIS - SC",93m²,1,,4.0
+657,ref: 428479,R$ 804.848,avenida sc 405,"Campeche, FLORIANOPOLIS - SC",64m²,1,,2.0
+658,ref: 428480,R$ 836.095,avenida sc 405,"Campeche, FLORIANOPOLIS - SC",67m²,1,,
+659,ref: 428481,R$ 835.925,avenida sc 405,"Campeche, FLORIANOPOLIS - SC",67m²,1,,
+660,ref: 428482,R$ 837.062,avenida sc 405,"Campeche, FLORIANOPOLIS - SC",67m²,1,,
+661,ref: 428483,R$ 946.220,avenida sc 405,"Campeche, FLORIANOPOLIS - SC",82m²,1,,3.0
+662,ref: 428484,R$ 943.964,avenida sc 405,"Campeche, FLORIANOPOLIS - SC",82m²,1,,3.0
+663,ref: 428495,R$ 1.790.000,avenida campeche,"Campeche, FLORIANOPOLIS - SC",76m²,2,,3.0
+664,ref: 428546,R$ 850.000,rodovia baldicero filomeno,"Ribeirao da Ilha, FLORIANOPOLIS - SC",86m²,2,,3.0
+665,ref: 409647,R$ 425.000,rua severino firmino martins,"Ribeirao da Ilha, FLORIANOPOLIS - SC",43m²,1,1.0,1.0
+666,ref: 408705,R$ 599.000,rodovia admar gonzaga,"Itacorubi, FLORIANOPOLIS - SC",66m²,3,1.0,1.0
+667,ref: 413732,R$ 1.130.000,avenida campeche,"Campeche, FLORIANOPOLIS - SC",83m²,2,,2.0
+668,ref: 413910,R$ 650.000,servidao amaral antero bastos,"Itacorubi, FLORIANOPOLIS - SC",70m²,2,1.0,1.0
+669,ref: 413422,R$ 1.900.000,avenida jornalista rubens de arruda ramos,"Centro, FLORIANOPOLIS - SC",119m²,2,1.0,2.0
+670,ref: 412744,R$ 720.000,rodovia tertuliano brito xavier,"Canasvieiras, FLORIANOPOLIS - SC",55m²,2,,2.0
+671,ref: 412757,R$ 690.000,rodovia tertuliano brito xavier,"Jurere, FLORIANOPOLIS - SC",66m²,2,1.0,2.0
+672,ref: 381143,R$ 1.800.000,avenida jornalista rubens de arruda ramos,"Beira Mar, FLORIANOPOLIS - SC",138m²,2,1.0,4.0
+673,ref: 382610,R$ 1.350.000,rua araci vaz callado,"Estreito, FLORIANOPOLIS - SC",129m²,3,1.0,6.0
+674,ref: 382685,R$ 1.510.000,rua araci vaz callado,"Estreito, FLORIANOPOLIS - SC",126m²,3,1.0,7.0
+675,ref: 382440,R$ 674.000,avenida santa catarina,"Estreito, FLORIANOPOLIS - SC",76m²,2,1.0,2.0
+676,ref: 414772,R$ 2.250.000,avenida trompowsky,"Centro, FLORIANOPOLIS - SC",119m²,3,3.0,5.0
+677,ref: 411167,R$ 1.320.000,rua delminda silveira,"Agronomica, FLORIANOPOLIS - SC",125m²,3,2.0,3.0
+678,ref: 403395,R$ 523.687,rua da fonte,"Coqueiros, FLORIANOPOLIS - SC",59m²,2,1.0,2.0
+679,ref: 403404,R$ 920.587,rua da fonte,"Coqueiros, FLORIANOPOLIS - SC",93m²,3,2.0,2.0
+680,ref: 403430,R$ 859.888,rodovia jose carlos daux,"Saco Grande, FLORIANOPOLIS - SC",70m²,1,1.0,2.0
+681,ref: 403137,R$ 1.051.072,rodovia jose carlos daux,"Monte Verde, FLORIANOPOLIS - SC",70m²,2,1.0,2.0
+682,ref: 422874,R$ 910.177,rua teodoro manoel dias,"Santo Antonio de Lisboa, FLORIANOPOLIS - SC",100m²,3,2.0,7.0
+683,ref: 423556,R$ 955.000,rua das gaivotas,"Ingleses, FLORIANOPOLIS - SC",113m²,2,2.0,2.0
+684,ref: 422539,R$ 749.000,rua francisco goulart,"Trindade, FLORIANOPOLIS - SC",82m²,2,1.0,2.0
+685,ref: 418943,R$ 1.359.000,estrada joao belarmino da silva,"Balneario dos Acores, FLORIANOPOLIS - SC",94m²,3,1.0,2.0
+686,ref: 417529,R$ 666.164,rua joao motta espezim,"Saco dos Limoes, FLORIANOPOLIS - SC",88m²,2,1.0,4.0
+687,ref: 417536,R$ 2.660.000,rua das castanhetas,"Jurere Internacional, FLORIANOPOLIS - SC",125m²,2,2.0,3.0
+688,ref: 417463,R$ 805.171,rua angelo la porta,"Centro, FLORIANOPOLIS - SC",69m²,2,1.0,1.0
+689,ref: 418708,R$ 1.258.000,estrada joao belarmino da silva,"Balneario dos Acores, FLORIANOPOLIS - SC",94m²,3,1.0,2.0
+690,ref: 418244,R$ 477.000,rua luiz oscar de carvalho,"Trindade, FLORIANOPOLIS - SC",75m²,3,1.0,1.0
+691,ref: 418650,R$ 1.150.000,rua heitor bittencourt,"Canasvieiras, FLORIANOPOLIS - SC",77m²,2,1.0,2.0
+692,ref: 419457,R$ 912.396,rodovia joao paulo,"Joao Paulo, FLORIANOPOLIS - SC",89m²,2,1.0,3.0
+693,ref: 419474,R$ 749.000,rua francisco goulart,"Trindade, FLORIANOPOLIS - SC",82m²,2,1.0,2.0
+694,ref: 416712,R$ 3.200.000,rua lauro linhares,"Trindade, FLORIANOPOLIS - SC",248m²,3,3.0,7.0
+695,ref: 417613,R$ 591.000,rua lauro linhares,"Trindade, FLORIANOPOLIS - SC",47m²,1,,1.0
+696,ref: 417704,R$ 958.000,rua abel alvares cabral junior,"Ingleses do Rio Vermelho, FLORIANOPOLIS - SC",81m²,2,2.0,3.0
+697,ref: 416481,R$ 1.000.000,rua professor simao jose hess,"Trindade, FLORIANOPOLIS - SC",109m²,4,2.0,3.0
+698,ref: 415567,R$ 1.800.000,rua emilio meyer,"Coqueiros, FLORIANOPOLIS - SC",153m²,1,3.0,7.0
+699,ref: 417044,R$ 945.000,rua juvencio costa,"Trindade, FLORIANOPOLIS - SC",73m²,2,1.0,4.0
+700,ref: 417742,R$ 763.200,rua almirante lamego,"Centro, FLORIANOPOLIS - SC",78m²,2,1.0,1.0
+701,ref: 417778,R$ 1.559.000,avenida campeche,"Campeche, FLORIANOPOLIS - SC",71m²,2,1.0,2.0
+702,ref: 357830,R$ 1.513.000,rua desembargador urbano salles,"Centro, FLORIANOPOLIS - SC",107m²,3,3.0,2.0
+703,ref: 357832,R$ 1.810.000,rua desembargador urbano salles,"Centro, FLORIANOPOLIS - SC",117m²,3,3.0,2.0
+704,ref: 357854,R$ 1.726.000,rua desembargador urbano salles,"Centro, FLORIANOPOLIS - SC",107m²,3,3.0,2.0
+705,ref: 364378,R$ 3.799.000,avenida governador irineu bornhausen,"Beiramar, FLORIANOPOLIS - SC",235m²,4,3.0,5.0
+706,ref: 364616,R$ 780.000,rua tenente silveira,"Centro, FLORIANOPOLIS - SC",89m²,2,,1.0
+707,ref: 364055,R$ 3.300.000,rua duarte schutel,"Centro, FLORIANOPOLIS - SC",254m²,3,2.0,5.0
+708,ref: 364202,R$ 1.790.000,rua esteves junior,"Centro, FLORIANOPOLIS - SC",162m²,3,2.0,3.0
+709,ref: 367915,R$ 2.950.000,rua frei caneca,"Beira Mar Norte, FLORIANOPOLIS - SC",237m²,3,2.0,7.0
+710,ref: 370726,R$ 1.410.000,rua itapiranga,"Itacorubi, Florianopolis - SC",112m²,3,2.0,2.0
+711,ref: 364877,R$ 750.000,rua eduardo rosa,"Cachoeira do Bom Jesus, FLORIANOPOLIS - SC",85m²,1,,2.0
+712,ref: 356851,R$ 1.642.744,travessa felipe godinho e silva,"Beiramar, FLORIANOPOLIS - SC",102m²,3,3.0,2.0
+713,ref: 356869,R$ 1.735.931,travessa felipe godinho e silva,"Beiramar, FLORIANOPOLIS - SC",102m²,3,2.0,2.0
+714,ref: 356873,R$ 1.656.057,travessa felipe godinho e silva,"Beiramar, FLORIANOPOLIS - SC",102m²,3,3.0,2.0
+715,ref: 356882,R$ 1.818.468,travessa felipe godinho e silva,"Beiramar, FLORIANOPOLIS - SC",102m²,3,2.0,2.0
+716,ref: 356824,R$ 1.433.021,travessa felipe godinho e silva,"Beiramar, FLORIANOPOLIS - SC",80m²,2,2.0,2.0
+717,ref: 357163,R$ 2.350.000,rodovia joao paulo,"Joao Paulo, FLORIANOPOLIS - SC",135m²,3,2.0,6.0
+718,ref: 359059,R$ 490.000,rua osvaldo rogerio braga,"Ingleses do Rio Vermelho, FLORIANOPOLIS - SC",128m²,2,1.0,2.0
+719,ref: 359064,R$ 1.701.249,rodovia joao paulo,"Joao Paulo, FLORIANOPOLIS - SC",134m²,3,2.0,4.0
+720,ref: 418244,R$ 477.000,rua luiz oscar de carvalho,"Trindade, FLORIANOPOLIS - SC",75m²,3,1.0,1.0
+721,ref: 418650,R$ 1.150.000,rua heitor bittencourt,"Canasvieiras, FLORIANOPOLIS - SC",77m²,2,1.0,2.0
+722,ref: 419457,R$ 912.396,rodovia joao paulo,"Joao Paulo, FLORIANOPOLIS - SC",89m²,2,1.0,3.0
+723,ref: 419474,R$ 749.000,rua francisco goulart,"Trindade, FLORIANOPOLIS - SC",82m²,2,1.0,2.0
+724,ref: 416712,R$ 3.200.000,rua lauro linhares,"Trindade, FLORIANOPOLIS - SC",248m²,3,3.0,7.0
+725,ref: 417613,R$ 591.000,rua lauro linhares,"Trindade, FLORIANOPOLIS - SC",47m²,1,,1.0
+726,ref: 417704,R$ 958.000,rua abel alvares cabral junior,"Ingleses do Rio Vermelho, FLORIANOPOLIS - SC",81m²,2,2.0,3.0
+727,ref: 416481,R$ 1.000.000,rua professor simao jose hess,"Trindade, FLORIANOPOLIS - SC",109m²,4,2.0,3.0
+728,ref: 415567,R$ 1.800.000,rua emilio meyer,"Coqueiros, FLORIANOPOLIS - SC",153m²,1,3.0,7.0
+729,ref: 417044,R$ 945.000,rua juvencio costa,"Trindade, FLORIANOPOLIS - SC",73m²,2,1.0,4.0
+730,ref: 417742,R$ 763.200,rua almirante lamego,"Centro, FLORIANOPOLIS - SC",78m²,2,1.0,1.0
+731,ref: 417778,R$ 1.559.000,avenida campeche,"Campeche, FLORIANOPOLIS - SC",71m²,2,1.0,2.0
+732,ref: 357830,R$ 1.513.000,rua desembargador urbano salles,"Centro, FLORIANOPOLIS - SC",107m²,3,3.0,2.0
+733,ref: 357832,R$ 1.810.000,rua desembargador urbano salles,"Centro, FLORIANOPOLIS - SC",117m²,3,3.0,2.0
+734,ref: 357854,R$ 1.726.000,rua desembargador urbano salles,"Centro, FLORIANOPOLIS - SC",107m²,3,3.0,2.0
+735,ref: 364378,R$ 3.799.000,avenida governador irineu bornhausen,"Beiramar, FLORIANOPOLIS - SC",235m²,4,3.0,5.0
+736,ref: 364616,R$ 780.000,rua tenente silveira,"Centro, FLORIANOPOLIS - SC",89m²,2,,1.0
+737,ref: 364055,R$ 3.300.000,rua duarte schutel,"Centro, FLORIANOPOLIS - SC",254m²,3,2.0,5.0
+738,ref: 364202,R$ 1.790.000,rua esteves junior,"Centro, FLORIANOPOLIS - SC",162m²,3,2.0,3.0
+739,ref: 367915,R$ 2.950.000,rua frei caneca,"Beira Mar Norte, FLORIANOPOLIS - SC",237m²,3,2.0,7.0
+740,ref: 370726,R$ 1.410.000,rua itapiranga,"Itacorubi, Florianopolis - SC",112m²,3,2.0,2.0
+741,ref: 364877,R$ 750.000,rua eduardo rosa,"Cachoeira do Bom Jesus, FLORIANOPOLIS - SC",85m²,1,,2.0
+742,ref: 356851,R$ 1.642.744,travessa felipe godinho e silva,"Beiramar, FLORIANOPOLIS - SC",102m²,3,3.0,2.0
+743,ref: 356869,R$ 1.735.931,travessa felipe godinho e silva,"Beiramar, FLORIANOPOLIS - SC",102m²,3,2.0,2.0
+744,ref: 356873,R$ 1.656.057,travessa felipe godinho e silva,"Beiramar, FLORIANOPOLIS - SC",102m²,3,3.0,2.0
+745,ref: 356882,R$ 1.818.468,travessa felipe godinho e silva,"Beiramar, FLORIANOPOLIS - SC",102m²,3,2.0,2.0
+746,ref: 356824,R$ 1.433.021,travessa felipe godinho e silva,"Beiramar, FLORIANOPOLIS - SC",80m²,2,2.0,2.0
+747,ref: 357163,R$ 2.350.000,rodovia joao paulo,"Joao Paulo, FLORIANOPOLIS - SC",135m²,3,2.0,6.0
+748,ref: 359059,R$ 490.000,rua osvaldo rogerio braga,"Ingleses do Rio Vermelho, FLORIANOPOLIS - SC",128m²,2,1.0,2.0
+749,ref: 359064,R$ 1.701.249,rodovia joao paulo,"Joao Paulo, FLORIANOPOLIS - SC",134m²,3,2.0,4.0
+750,ref: 350731,R$ 928.294,rua julio dacia barreto,"Carvoeira, FLORIANOPOLIS - SC",55m²,1,,2.0
+751,ref: 350760,R$ 917.133,rua julio dacia barreto,"Carvoeira, FLORIANOPOLIS - SC",57m²,1,,2.0
+752,ref: 352288,R$ 985.000,avenida santa catarina,"Canto, FLORIANOPOLIS - SC",76m²,3,1.0,4.0
+753,ref: 353966,R$ 1.610.995,rodovia joao paulo,"Joao Paulo, FLORIANOPOLIS - SC",138m²,3,,4.0
+754,ref: 367708,R$ 1.800.000,rua emilio meyer,"Coqueiros, FLORIANOPOLIS - SC",153m²,3,4.0,6.0
+755,ref: 366919,R$ 649.919,rua inelzyr bauer bertoli,"Barra da Lagoa, FLORIANOPOLIS - SC",67m²,1,1.0,2.0
+756,ref: 362080,R$ 823.535,servidao natalicia pereira,"Joao Paulo, FLORIANOPOLIS - SC",72m²,2,1.0,2.0
+757,ref: 362096,R$ 1.890.001,servidao natalicia pereira,"Joao Paulo, FLORIANOPOLIS - SC",127m²,3,3.0,6.0
+758,ref: 362101,R$ 1.579.963,servidao natalicia pereira,"Joao Paulo, FLORIANOPOLIS - SC",123m²,3,3.0,4.0
+759,ref: 362117,R$ 1.269.359,servidao natalicia pereira,"Joao Paulo, FLORIANOPOLIS - SC",103m²,1,3.0,2.0
+760,ref: 359357,R$ 1.900.000,estrada haroldo soares glavan,"Cacupe, FLORIANOPOLIS - SC",111m²,3,1.0,3.0
+761,ref: 359362,R$ 2.090.881,estrada haroldo soares glavan,"Cacupe, FLORIANOPOLIS - SC",126m²,3,1.0,3.0
+762,ref: 374296,R$ 2.392.000,rua vereador jose do vale pereira,"Coqueiros, FLORIANOPOLIS - SC",125m²,3,2.0,6.0
+763,ref: 370453,R$ 1.930.000,travessa felipe godinho e silva,"Beiramar, FLORIANOPOLIS - SC",111m²,3,1.0,2.0
+764,ref: 357275,R$ 488.047,rua joaquim nabuco,"Capoeiras, FLORIANOPOLIS - SC",64m²,2,2.0,3.0
+765,ref: 351449,R$ 3.078.000,avenida jornalista rubens de arruda ramos,"Centro, FLORIANOPOLIS - SC",283m²,4,2.0,3.0
+766,ref: 352882,R$ 1.900.000,avenida governador irineu bornhausen,"Beiramar, FLORIANOPOLIS - SC",226m²,4,2.0,2.0
+767,ref: 373700,R$ 1.700.000,rua frei caneca,"Beiramar, FLORIANOPOLIS - SC",260m²,4,2.0,3.0
+768,ref: 372240,R$ 900.000,avenida hercilio luz,"Centro, FLORIANOPOLIS - SC",100m²,3,1.0,2.0
+769,ref: 434406,R$ 500.000,rua prefeito tolentino de carvalho,"Balneario, Florianopolis - SC",78m²,3,1.0,1.0
+770,ref: 434458,R$ 1.300.000,estrada dom joao becker,"Ingleses do Rio Vermelho, Florianopolis - SC",147m²,2,1.0,3.0
+771,ref: 439897,R$ 1.900.000,rua avenida jornalista rubens de arruda ramos,"Beira Mar Norte, Florianopolis - SC",93m²,2,1.0,1.0
+772,ref: 433865,R$ 1.010.000,rua felipe schmidt,"Centro, Florianopolis - SC",69m²,1,,1.0
+773,ref: 434023,R$ 2.850.000,avenida gov. irineu bornhausen,"Beira Mar Norte, Florianopolis - SC",146m²,3,2.0,5.0
+774,ref: 436922,R$ 1.040.000,rodovia tertuliano brito xavier,"Jurere, Florianopolis - SC",99m²,3,2.0,2.0
+775,ref: 436988,R$ 395.000,rua arcipreste paiva,"Centro, Florianopolis - SC",66m²,2,,1.0
+776,ref: 437204,R$ 1.139.500,rua lazaro de oliveira souza,"Ingleses do Rio Vermelho, Florianopolis - SC",107m²,2,1.0,3.0
+777,ref: 436812,R$ 463.440,rua padre schrader,"AGRONOMICA, Florianopolis - SC",36m²,1,1.0,1.0
+778,ref: 441646,R$ 1.200.000,rua joao pio duarte silva,"Corrego Grande, Florianopolis - SC",110m²,3,1.0,3.0
+779,ref: 440370,R$ 428.000,rua capitao romualdo de barros,"Carvoeira, Florianopolis - SC",85m²,3,1.0,1.0
+780,ref: 440380,R$ 1.060.000,rua higino brito,"Canasvieiras, Florianopolis - SC",117m²,3,1.0,2.0
+781,ref: 440394,R$ 1.060.000,rua higino brito,"Canasvieiras, Florianopolis - SC",113m²,3,1.0,2.0
+782,ref: 444434,R$ 870.000,rua dos canudos,"Ingleses do Rio Vermelho, Florianopolis - SC",89m²,3,2.0,2.0
+783,ref: 444450,R$ 780.000,rua valdeci izidro da silveira,"Ribeirao da Ilha, Florianopolis - SC",72m²,2,1.0,2.0
+784,ref: 434621,R$ 3.500.000,rua das piraunas,"Jurere Internacional, Florianopolis - SC",168m²,3,,7.0
+785,ref: 434622,R$ 3.500.000,rua das piraunas,"Jurere Internacional, Florianopolis - SC",174m²,3,,7.0
+786,ref: 434628,R$ 1.500.000,avenida dos buzios,"Jurere Internacional, Florianopolis - SC",61m²,1,1.0,2.0
+787,ref: 439318,R$ 1.250.000,rua da capela,"Campeche, Florianopolis - SC",96m²,3,,1.0
+788,ref: 443644,R$ 1.790.000,rua esteves junior,"Centro, Florianopolis - SC",130m²,3,2.0,4.0
+789,ref: 443646,R$ 800.000,servidao servidao sao francisco de assis,"Campeche, Florianopolis - SC",56m²,2,1.0,1.0
+790,ref: 441452,R$ 990.000,rua joao meirelles,"Abraao, Florianopolis - SC",103m²,3,2.0,1.0
+791,ref: 433813,R$ 1.418.012,rua das castanhetas,"Jurere Internacional, Florianopolis - SC",119m²,2,,5.0
+792,ref: 434463,R$ 900.000,rua doutor antonio prudente de moraes,"Canasvieiras, Florianopolis - SC",66m²,2,,3.0
+793,ref: 434468,R$ 798.000,rua desembargador oswaldo areas horn,"Cachoeira do Bom Jesus, Florianopolis - SC",79m²,2,1.0,3.0
+794,ref: 434472,R$ 850.000,rua das sereias,"Canasvieiras, Florianopolis - SC",62m²,2,1.0,3.0
+795,ref: 434184,R$ 739.000,rua recanto do sol,"Ingleses do Rio Vermelho, Florianopolis - SC",102m²,3,,3.0
+796,ref: 440943,R$ 2.650.000,avenida governador irineu bornhausen,"centro, Florianopolis - SC",146m²,3,2.0,5.0
+797,ref: 434513,R$ 1.490.000,rua desembargador urbano salles,"Centro, Florianopolis - SC",152m²,3,2.0,4.0
+798,ref: 441270,R$ 899.000,rua joao pio duarte silva,"Corrego Grande, Florianopolis - SC",93m²,3,,2.0
+799,ref: 433133,R$ 700.000,rua joaquim carneiro,"Abraao, Florianopolis - SC",118m²,3,2.0,3.0
+800,ref: 433171,R$ 2.850.000,rua sidney nocetti,"Agronomica, Florianopolis - SC",129m²,3,2.0,7.0
+801,ref: 433221,R$ 1.700.000,rua abelardo luz,"Balneario Estreito, Florianopolis - SC",200m²,3,3.0,8.0
+802,ref: 433289,R$ 866.000,rua julio dacia barreto,"Carvoeira, Florianopolis - SC",55m²,1,1.0,3.0
+803,ref: 439351,R$ 600.000,rua delminda silveira,"Beiramar, Florianopolis - SC",95m²,2,1.0,3.0
+804,ref: 438859,R$ 1.680.000,avenida campeche,"Campeche, Florianopolis - SC",76m²,2,,1.0
+805,ref: 438919,R$ 1.100.000,avenida rio branco,"Centro, Florianopolis - SC",94m²,3,1.0,2.0
+806,ref: 439980,R$ 530.000,rua desembargador gil costa,"Capoeiras, Florianopolis - SC",68m²,2,,1.0
+807,ref: 434323,R$ 3.200.000,avenida beira mar norte,"Agronomica, Florianopolis - SC",250m²,4,2.0,7.0
+808,ref: 444002,R$ 1.350.000,avenida campeche,"Campeche, Florianopolis - SC",70m²,2,,1.0
+809,ref: 445811,R$ 1.450.000,avenida campeche,"campeche, Florianopolis - SC",73m²,2,,2.0
+810,ref: 446468,R$ 1.730.000,avenida campeche,"Campeche, Florianopolis - SC",98m²,3,1.0,2.0
+811,ref: 445323,R$ 600.000,rua madre maria vilac,"Canasvieiras, Florianopolis - SC",72m²,2,1.0,2.0
+812,ref: 438383,R$ 2.516.000,rua barao de batovi,"Centro, Florianopolis - SC",153m²,3,3.0,4.0
+813,ref: 437703,R$ 415.000,estrada haroldo soares glavan,"Cacupe, Florianopolis - SC",32m²,1,,1.0
+814,ref: 439504,R$ 750.000,rua joao pio duarte silva,"Corrego Grande, Florianopolis - SC",94m²,2,1.0,2.0
+815,ref: 439521,R$ 780.000,rua jair silva,"Beira Mar, Florianopolis - SC",76m²,2,1.0,2.0
+816,ref: 439630,R$ 1.880.000,rua itapiranga,"Itacorubi, Florianopolis - SC",112m²,3,2.0,2.0
+817,ref: 442262,R$ 739.000,rua poeta francisco machado de souza,"Estreito, Florianopolis - SC",87m²,3,2.0,2.0
+818,ref: 442290,R$ 855.000,rua das gaivotas,"Ingleses do Rio Vermelho, Florianopolis - SC",75m²,2,1.0,2.0
+819,ref: 434593,R$ 1.090.120,rua euclides machado,"Canto, Florianopolis - SC",96m²,2,2.0,5.0
+820,ref: 440148,R$ 550.000,rua dante de patta,"ingleses, Florianopolis - SC",90m²,2,1.0,2.0
+821,ref: 424611,R$ 1.670.380,rua antonio carlos ferreira,"Agronomica, FLORIANOPOLIS - SC",157m²,2,,3.0
+822,ref: 425136,R$ 1.400.000,rua evangelina tavares moellmann,"Acores, FLORIANOPOLIS - SC",95m²,2,,3.0
+823,ref: 425750,R$ 710.000,rua hipolito mafra,"Saco dos Limoes, FLORIANOPOLIS - SC",75m²,2,,3.0
+824,ref: 426074,R$ 1.170.000,rua da capela,"Campeche, FLORIANOPOLIS - SC",100m²,2,,3.0
+825,ref: 426110,R$ 520.000,rua anita garibaldi,"Centro, FLORIANOPOLIS - SC",80m²,2,,
+826,ref: 427316,R$ 600.000,rodovia baldicero filomeno,"Ribeirao da Ilha, FLORIANOPOLIS - SC",70m²,3,,
+827,ref: 427343,R$ 943.964,avenida sc 405,"Campeche, FLORIANOPOLIS - SC",82m²,1,,3.0
+828,ref: 427344,R$ 1.114.749,avenida sc 405,"Campeche, FLORIANOPOLIS - SC",97m²,1,,4.0
+829,ref: 427471,R$ 1.300.000,rua joaquim jose antunes,"Campeche, FLORIANOPOLIS - SC",115m²,3,2.0,3.0
+830,ref: 427501,R$ 823.200,avenida sc 405,"Campeche, FLORIANOPOLIS - SC",66m²,1,,
+831,ref: 427534,R$ 1.650.000,avenida campeche,"Campeche, FLORIANOPOLIS - SC",110m²,3,,3.0
+832,ref: 427619,R$ 1.390.000,rua desembargador urbano salles,"Centro, FLORIANOPOLIS - SC",197m²,1,,7.0
+833,ref: 390505,R$ 1.950.000,avenida jornalista rubens de arruda ramos,"Centro, FLORIANOPOLIS - SC",224m²,4,2.0,5.0
+834,ref: 389294,R$ 2.500.000,rua frei caneca,"Beiramar, FLORIANOPOLIS - SC",178m²,4,2.0,3.0
+835,ref: 391752,R$ 6.995.000,rua almirante lamego,"Centro, FLORIANOPOLIS - SC",231m²,3,1.0,4.0
+836,ref: 390248,R$ 2.240.000,travessa felipe godinho e silva,"Beiramar, FLORIANOPOLIS - SC",123m²,3,3.0,3.0
+837,ref: 390260,R$ 1.618.000,travessa felipe godinho e silva,"Beiramar, FLORIANOPOLIS - SC",102m²,3,2.0,3.0
+838,ref: 410921,R$ 673.115,rua luiz carlos prestes,"Coloninha, FLORIANOPOLIS - SC",68m²,2,2.0,3.0
+839,ref: 411045,R$ 1.500.000,avenida madre benvenuta,"Trindade, FLORIANOPOLIS - SC",95m²,3,2.0,2.0
+840,ref: 412988,R$ 774.947,rodovia baldicero filomeno,"Ribeirao da Ilha, FLORIANOPOLIS - SC",70m²,2,,2.0
+841,ref: 415020,R$ 1.499.000,rua nivaldo dias,"Campeche, FLORIANOPOLIS - SC",89m²,2,,3.0
+842,ref: 432060,R$ 580.000*,rua das acacias,"Carvoeira, Florianopolis - SC",79m²,3,1.0,2.0
+843,ref: 429150,R$ 1.500.000,avenida pequeno principe,"Campeche, FLORIANOPOLIS - SC",92m²,3,1.0,2.0
+844,ref: 427999,R$ 942.000,rua silvio lopes araujo,"Rio Tavares, FLORIANOPOLIS - SC",122m²,1,,2.0
+845,ref: 429706,R$ 2.564.813,avenida campeche,"Campeche, FLORIANOPOLIS - SC",130m²,3,,2.0
+846,ref: 428081,R$ 750.000,rua araci vaz callado,"Estreito, FLORIANOPOLIS - SC",81m²,1,,5.0
+847,ref: 428222,R$ 1.191.845,avenida campeche,"Campeche, FLORIANOPOLIS - SC",68m²,1,,2.0
+848,ref: 391368,R$ 545.000,rua pastor william richard schisler filho,"Itacorubi, FLORIANOPOLIS - SC",58m²,1,1.0,1.0
+849,ref: 388684,R$ 1.485.000,servidao antonio cipriano pereira,"Itacorubi, FLORIANOPOLIS - SC",112m²,3,2.0,5.0
+850,ref: 389444,R$ 1.414.000,rua hermann blumenau,"Centro, FLORIANOPOLIS - SC",68m²,2,1.0,3.0
+851,ref: 389662,R$ 1.590.000,rua bocaiuva,"Centro, FLORIANOPOLIS - SC",122m²,3,1.0,3.0
+852,ref: 394163,R$ 787.800,rua paula ramos,"Coqueiros, FLORIANOPOLIS - SC",70m²,3,1.0,2.0
+853,ref: 394244,R$ 700.000,rodovia baldicero filomeno,"Ribeirao da Ilha, FLORIANOPOLIS - SC",65m²,2,,2.0
+854,ref: 393967,R$ 1.380.000,servidao natalicia pereira,"Joao Paulo, FLORIANOPOLIS - SC",93m²,2,2.0,4.0
+855,ref: 394111,R$ 900.000,rua frei caneca,"Beiramar, FLORIANOPOLIS - SC",117m²,3,1.0,4.0
+856,ref: 388113,R$ 3.200.000,avenida governador irineu bornhausen,"Beiramar, FLORIANOPOLIS - SC",248m²,5,2.0,8.0
+857,ref: 392325,R$ 1.650.000,avenida campeche,"Campeche, FLORIANOPOLIS - SC",90m²,2,1.0,2.0
+858,ref: 412431,R$ 625.000,rodovia amaro antonio vieira,"Itacorubi, FLORIANOPOLIS - SC",72m²,2,1.0,2.0
+859,ref: 412446,R$ 950.000,avenida campeche,"Campeche, FLORIANOPOLIS - SC",49m²,1,1.0,1.0
+860,ref: 381253,R$ 555.000,rua tiradentes,"Centro, FLORIANOPOLIS - SC",90m²,3,1.0,2.0
+861,ref: 374353,R$ 1.450.000*,avenida pequeno principe,"Campeche, FLORIANOPOLIS - SC",116m²,3,3.0,2.0
+862,ref: 377342,R$ 1.399.189,travessa do motorista,"Canto, FLORIANOPOLIS - SC",147m²,3,3.0,4.0
+863,ref: 378809,R$ 1.150.000,avenida campeche,"Campeche, FLORIANOPOLIS - SC",79m²,2,1.0,2.0
+864,ref: 379798,R$ 520.000,rodovia admar gonzaga,"Itacorubi, FLORIANOPOLIS - SC",55m²,2,1.0,1.0
+865,ref: 378950,R$ 6.767.000,avenida dos buzios,"Jurere Internacional, FLORIANOPOLIS - SC",286m²,4,3.0,4.0
+866,ref: 379859,R$ 350.000,rodovia baldicero filomeno,"Ribeirao da Ilha, FLORIANOPOLIS - SC",28m²,1,1.0,1.0
+867,ref: 379867,R$ 360.000,rodovia baldicero filomeno,"Ribeirao da Ilha, FLORIANOPOLIS - SC",36m²,1,1.0,2.0
+868,ref: 375278,R$ 830.000,rodovia joao paulo,"Joao Paulo, FLORIANOPOLIS - SC",92m²,3,1.0,2.0
+869,ref: 311065,R$ 542.600,rua luiz carlos prestes,"Jardim Atlantico, FLORIANOPOLIS - SC",68m²,2,2.0,2.0
+870,ref: 311068,R$ 548.600,rua luiz carlos prestes,"Jardim Atlantico, FLORIANOPOLIS - SC",68m²,2,1.0,2.0
+871,ref: 471092,R$ 4.750.000,avenida campeche,"Campeche Norte, Florianopolis - SC",199m²,3,2.0,4.0
+872,ref: 468664,R$ 1.490.000,rua clorinda ventimiglia,"Cachoeira do bom Jesus, Florianopolis - SC",117m²,3,2.0,3.0
+873,ref: 470450,R$ 815.000,rua pastor william richard schisler filho,"Itacorubi, Florianopolis - SC",68m²,2,2.0,3.0
+874,ref: 468803,R$ 895.000,rodovia virgilio varzea,"Saco Grande, Florianopolis - SC",73m²,2,1.0,3.0
+875,ref: 462348,R$ 550.000,avenida desembargador vitor lima,"Trindade, Florianopolis - SC",89m²,2,1.0,2.0
+876,ref: 465731,R$ 1.490.000*,rua sebastiao laurentino da silva,"Corrego Grande, Florianopolis - SC",121m²,3,2.0,4.0
+877,ref: 465736,R$ 920.000,rua da capela,"Campeche Norte, Florianopolis - SC",76m²,2,1.0,3.0
+878,ref: 465737,R$ 1.050.000,rua joao pio duarte silva,"Corrego Grande, Florianopolis - SC",109m²,3,1.0,5.0
+879,ref: 463140,R$ 4.500.000,rua das castanhetas,"Jurere Oeste, Florianopolis - SC",186m²,3,2.0,6.0
+880,ref: 463143,R$ 1.620.000,rodovia jornalista mauricio sirotsky sobrinho,"Jurere Leste, Florianopolis - SC",75m²,2,1.0,3.0
+881,ref: 464505,R$ 980.000,rua sebastiao laurentino da silva,"Corrego Grande, Florianopolis - SC",82m²,3,2.0,3.0
+882,ref: 464507,R$ 998.000,rua sebastiao laurentino da silva,"Corrego Grande, Florianopolis - SC",82m²,3,2.0,3.0
+883,ref: 465508,R$ 480.000,rua trajano margarida,"Trindade, Florianopolis - SC",69m²,3,1.0,1.0
+884,ref: 461348,R$ 750.001,rua patricio farias,"Itacorubi, Florianopolis - SC",72m²,2,1.0,3.0
+885,ref: 462837,R$ 1.100.000,rodovia tertuliano brito xavier,"Jurere Leste, Florianopolis - SC",87m²,2,1.0,1.0
+886,ref: 462861,R$ 849.000,rua joao pio duarte silva,"Corrego Grande, Florianopolis - SC",48m²,1,1.0,1.0
+887,ref: 460942,R$ 950.000,rua da capela,"Campeche Leste, Florianopolis - SC",72m²,2,1.0,3.0
+888,ref: 464661,R$ 1.760.000,rua almirante barroso,"Joao Paulo, Florianopolis - SC",157m²,3,2.0,8.0
+889,ref: 467355,R$ 990.000,rua da capela,"Campeche Norte, Florianopolis - SC",73m²,2,1.0,2.0
+890,ref: 461308,R$ 850.000,rua adiles della giustina,"Ingleses, Florianopolis - SC",73m²,2,1.0,5.0
+891,ref: 463502,R$ 1.200.000,rua santo inacio de loyola,"Centro, Florianopolis - SC",96m²,3,3.0,3.0
+892,ref: 463508,R$ 1.025.555,estrada haroldo soares glavan,"Saco Grande, Florianopolis - SC",71m²,2,1.0,3.0
+893,ref: 463379,R$ 980.000,avenida desembargador vitor lima,"Trindade, Florianopolis - SC",120m²,4,1.0,5.0
+894,ref: 463380,R$ 2.150.000,rua newton ramos,"Centro, Florianopolis - SC",135m²,3,2.0,4.0
+895,ref: 473762,R$ 890.000,rua deputado antonio edu vieira,"Pantanal, Florianopolis - SC",76m²,3,2.0,3.0
+896,ref: 473765,R$ 850.000,rua deputado antonio edu vieira,"Pantanal, Florianopolis - SC",80m²,3,1.0,3.0
+897,ref: 473785,R$ 549.000,rua lauro linhares,"Trindade, Florianopolis - SC",40m²,1,1.0,1.0
+898,ref: 473155,R$ 1.100.000,rua oge fortkamp,"Trindade, Florianopolis - SC",112m²,4,2.0,4.0
+899,ref: 473158,R$ 990.000,avenida professor othon gama d'eca,"Centro, Florianopolis - SC",104m²,3,1.0,4.0
+900,ref: 473159,R$ 618.000,rua afonso pena,"Estreito, Florianopolis - SC",41m²,1,1.0,2.0
+901,ref: 473160,R$ 465.000,rua general bittencourt,"Centro, Florianopolis - SC",30m²,1,1.0,1.0
+902,ref: 473161,R$ 875.000,rua joao pio duarte silva,"Corrego Grande, Florianopolis - SC",49m²,1,1.0,1.0
+903,ref: 473172,R$ 849.000,rua joao pio duarte silva,"Corrego Grande, Florianopolis - SC",47m²,1,1.0,1.0
+904,ref: 473174,R$ 1.999.000,rua laurindo januario da silveira,"Porto da Lagoa, Florianopolis - SC",168m²,3,1.0,3.0
+905,ref: 473194,R$ 3.900.000,estrada haroldo soares glavan,"Cacupe, Florianopolis - SC",165m²,3,3.0,7.0
+906,ref: 473196,R$ 980.000,rua desembargador pedro silva,"Itaguacu, Florianopolis - SC",129m²,3,1.0,6.0
+907,ref: 473197,R$ 532.000,rua tiradentes,"Centro, Florianopolis - SC",92m²,3,,1.0
+908,ref: 473198,R$ 1.100.000,rua cristovao nunes pires,"Centro, Florianopolis - SC",83m²,3,1.0,3.0
+909,ref: 471950,R$ 690.000,rua doutor doutor abel capela,"Capoeiras, Florianopolis - SC",116m²,3,1.0,4.0
+910,ref: 474846,R$ 2.650.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",140m²,3,2.0,4.0
+911,ref: 473900,R$ 1.310.000,rua ferreira lima,"Centro, Florianopolis - SC",138m²,2,2.0,3.0
+912,ref: 473901,R$ 699.000,rua araujo figueiredo,"Centro, Florianopolis - SC",58m²,1,,1.0
+913,ref: 473905,R$ 690.000,rua doutor doutor odilon gallotti,"Capoeiras, Florianopolis - SC",93m²,4,2.0,3.0
+914,ref: 473907,R$ 1.490.000,avenida hercilio luz,"Centro, Florianopolis - SC",162m²,4,1.0,3.0
+915,ref: 473913,R$ 585.000,rua tenente silveira,"Centro, Florianopolis - SC",83m²,2,1.0,2.0
+916,ref: 471593,R$ 550.000,rua joaquim nabuco,"Coloninha, Florianopolis - SC",76m²,2,1.0,3.0
+917,ref: 468931,R$ 1.335.000,rua vereador ramon filomeno,"Itacorubi, Florianopolis - SC",116m²,3,1.0,4.0
+918,ref: 470769,R$ 1.200.000,rua antonio costa,"Itacorubi, Florianopolis - SC",89m²,3,2.0,3.0
+919,ref: 462518,R$ 5.200.000,rua gilmar darli vieira,"Lagoa Pequena, Florianopolis - SC",311m²,4,1.0,7.0
+920,ref: 462519,R$ 610.000,rodovia admar gonzaga,"Itacorubi, Florianopolis - SC",61m²,2,1.0,1.0
+921,ref: 465540,R$ 2.192.000,rua salvatina feliciana dos santos,"Itacorubi, Florianopolis - SC",185m²,4,2.0,9.0
+922,ref: 465542,R$ 560.000,rua joao marcal,"Trindade, Florianopolis - SC",31m²,1,1.0,1.0
+923,ref: 461520,R$ 6.320.000,rua dos polvos,"Jurere Leste, Florianopolis - SC",171m²,4,4.0,9.0
+924,ref: 461528,R$ 580.000,rua afonso pena,"Estreito, Florianopolis - SC",41m²,1,1.0,1.0
+925,ref: 464432,R$ 780.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",48m²,1,1.0,2.0
+926,ref: 464433,R$ 1.290.000,rodovia jornalista mauricio sirotsky sobrinho,"Jurere Leste, Florianopolis - SC",86m²,2,1.0,3.0
+927,ref: 460340,R$ 1.020.000*,rua aristides lobo,"Agronomica, Florianopolis - SC",65m²,2,3.0,3.0
+928,ref: 462731,R$ 689.000,rua elza maria ferreira,"Trindade, Florianopolis - SC",84m²,3,1.0,3.0
+929,ref: 462747,R$ 690.000*,rua jau guedes da fonseca,"Coqueiros, Florianopolis - SC",105m²,4,1.0,5.0
+930,ref: 462748,R$ 1.990.000,rua comandante constantino nicolau spyrides,"Agronomica, Florianopolis - SC",155m²,4,1.0,4.0
+931,ref: 462753,R$ 1.100.000,avenida lions internacional,"Ingleses, Florianopolis - SC",134m²,3,1.0,5.0
+932,ref: 462763,R$ 480.000,avenida mauro ramos,"Centro, Florianopolis - SC",64m²,3,1.0,1.0
+933,ref: 462112,R$ 540.000,rua capitao romualdo de barros,"Saco dos limoes, Florianopolis - SC",62m²,2,1.0,1.0
+934,ref: 462114,R$ 440.000,rua sao joaquim,"Centro, Florianopolis - SC",60m²,3,1.0,1.0
+935,ref: 460209,R$ 850.000,rua sebastiao laurentino da silva,"Corrego Grande, Florianopolis - SC",69m²,2,1.0,3.0
+936,ref: 465045,R$ 950.000,avenida dos salmoes,"Jurere Oeste, Florianopolis - SC",68m²,2,,3.0
+937,ref: 465057,R$ 416.000,rua fernando machado,"Centro, Florianopolis - SC",24m²,1,,1.0
+938,ref: 460097,R$ 799.000,rua doutor doutor odilon gallotti,"Capoeiras, Florianopolis - SC",85m²,3,1.0,3.0
+939,ref: 459657,R$ 1.400.000,rua das andorinhas,"Ingleses, Florianopolis - SC",125m²,2,2.0,3.0
+940,ref: 460225,R$ 790.000,rua maria eduarda,"Pantanal, Florianopolis - SC",64m²,2,1.0,4.0
+941,ref: 460286,R$ 1.650.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",107m²,2,2.0,5.0
+942,ref: 459537,R$ 3.500.000,rua dos cambuatas,"Jurere Leste, Florianopolis - SC",159m²,3,3.0,7.0
+943,ref: 454579,R$ 900.000,rua desembargador gil costa,"Capoeiras, Florianopolis - SC",170m²,3,1.0,4.0
+944,ref: 454589,R$ 265.000,rua santos saraiva,"Capoeiras, Florianopolis - SC",43m²,1,1.0,1.0
+945,ref: 454640,R$ 1.060.000,rua heloisa rojo machado,"Campeche Sul, Florianopolis - SC",91m²,3,2.0,3.0
+946,ref: 449616,R$ 992.897,estrada haroldo soares glavan,"Saco Grande, Florianopolis - SC",71m²,2,1.0,3.0
+947,ref: 449617,R$ 962.233,estrada haroldo soares glavan,"Saco Grande, Florianopolis - SC",71m²,2,1.0,3.0
+948,ref: 449620,R$ 998.613,estrada haroldo soares glavan,"Saco Grande, Florianopolis - SC",72m²,2,1.0,3.0
+949,ref: 449621,R$ 1.400.000,rodovia tertuliano brito xavier,"Jurere Leste, Florianopolis - SC",96m²,3,2.0,3.0
+950,ref: 449622,R$ 3.350.000,rua dos cambuatas,"Jurere Leste, Florianopolis - SC",156m²,3,2.0,7.0
+951,ref: 449631,R$ 1.850.000,rua dario joao de souza,"Jurere Leste, Florianopolis - SC",114m²,3,2.0,3.0
+952,ref: 449634,R$ 710.000,rua jurere tradicional,"Jurere Leste, Florianopolis - SC",50m²,1,1.0,1.0
+953,ref: 449643,R$ 965.000,rua da capela,"Campeche Norte, Florianopolis - SC",75m²,2,1.0,3.0
+954,ref: 449645,R$ 4.500.000,rua das castanhetas,"Jurere Oeste, Florianopolis - SC",223m²,3,3.0,6.0
+955,ref: 449649,R$ 1.700.000,avenida das raias,"Jurere Oeste, Florianopolis - SC",82m²,2,,4.0
+956,ref: 449654,R$ 2.280.000,rua das castanhetas,"Jurere Oeste, Florianopolis - SC",77m²,2,1.0,4.0
+957,ref: 449656,R$ 2.600.000,rua das algas,"Jurere Oeste, Florianopolis - SC",200m²,3,2.0,6.0
+958,ref: 449658,R$ 2.700.000,avenida dos dourados,"Jurere Oeste, Florianopolis - SC",225m²,3,2.0,5.0
+959,ref: 449663,R$ 2.500.000,avenida das lagostas,"Jurere Oeste, Florianopolis - SC",120m²,3,1.0,6.0
+960,ref: 449665,R$ 1.600.000,avenida dos salmoes,"Jurere Oeste, Florianopolis - SC",71m²,2,1.0,3.0
+961,ref: 449666,R$ 1.890.000,avenida das raias,"Jurere Oeste, Florianopolis - SC",116m²,3,1.0,3.0
+962,ref: 449670,R$ 2.250.000,rua ana luiza vieira,"Lagoa Pequena, Florianopolis - SC",124m²,2,2.0,5.0
+963,ref: 449682,R$ 680.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",37m²,1,1.0,1.0
+964,ref: 449683,R$ 1.400.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",91m²,2,2.0,5.0
+965,ref: 449684,R$ 550.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",37m²,1,1.0,1.0
+966,ref: 451666,R$ 1.050.000,rodovia admar gonzaga,"Itacorubi, Florianopolis - SC",69m²,2,2.0,3.0
+967,ref: 455356,R$ 720.000,estrada vereador onildo lemos,"Ingleses, Florianopolis - SC",90m²,2,2.0,3.0
+968,ref: 455364,R$ 420.000,rua doutor doutor antonio prudente de moraes,"Canasvieiras, Florianopolis - SC",50m²,1,1.0,1.0
+969,ref: 448982,R$ 3.100.000,estrada haroldo soares glavan,"Cacupe, Florianopolis - SC",352m²,4,3.0,10.0
+970,ref: 449029,R$ 6.324.000,rua dos polvos,"Jurere Leste, Florianopolis - SC",211m²,4,3.0,8.0
+971,ref: 449040,R$ 3.465.000,rodovia tertuliano brito xavier,"Jurere Leste, Florianopolis - SC",275m²,3,2.0,6.0
+972,ref: 453979,R$ 550.000,rua lauro linhares,"Trindade, Florianopolis - SC",74m²,3,1.0,2.0
+973,ref: 455832,R$ 610.000,rua professor professor clementino de brito,"Capoeiras, Florianopolis - SC",67m²,2,1.0,3.0
+974,ref: 455839,R$ 550.000,rua nossa senhora da conceicao,"Lagoa da Conceicao, Florianopolis - SC",46m²,1,1.0,1.0
+975,ref: 455688,R$ 570.000,rua joaquim jose antunes,"Campeche Central, Florianopolis - SC",37m²,1,1.0,1.0
+976,ref: 455689,R$ 1.300.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",120m²,3,2.0,5.0
+977,ref: 455690,R$ 510.000,rua felipe schmidt,"Centro, Florianopolis - SC",61m²,2,1.0,1.0
+978,ref: 455759,R$ 470.000,avenida engenheiro max de souza,"Coqueiros, Florianopolis - SC",79m²,3,1.0,1.0
+979,ref: 449508,R$ 1.690.000,rua vereador jose do vale pereira,"Coqueiros, Florianopolis - SC",219m²,3,2.0,4.0
+980,ref: 449533,R$ 2.497.401,rua barao de batovi,"Centro, Florianopolis - SC",190m²,4,4.0,5.0
+981,ref: 449543,R$ 1.258.000,rua evangelina tavares moellmann,"Acores, Florianopolis - SC",94m²,3,1.0,3.0
+982,ref: 449544,R$ 1.723.000,rua evangelina tavares moellmann,"Acores, Florianopolis - SC",120m²,2,2.0,3.0
+983,ref: 449548,R$ 1.790.000,rua apostolo paschoal,"Canasvieiras, Florianopolis - SC",126m²,2,2.0,5.0
+984,ref: 449553,R$ 1.650.000,rua luiz delfino,"Centro, Florianopolis - SC",84m²,2,2.0,3.0
+985,ref: 449554,R$ 2.200.000,rua germano wendhausen,"Centro, Florianopolis - SC",101m²,3,2.0,7.0
+986,ref: 449558,R$ 1.650.000,rua almirante lamego,"Centro, Florianopolis - SC",96m²,3,1.0,4.0
+987,ref: 449563,R$ 2.021.292,travessa felipe godinho e silva,"Agronomica, Florianopolis - SC",102m²,3,2.0,3.0
+988,ref: 449582,R$ 1.370.500,rua deputado antonio edu vieira,"Pantanal, Florianopolis - SC",140m²,3,2.0,6.0
+989,ref: 449583,R$ 835.000,rua deputado antonio edu vieira,"Pantanal, Florianopolis - SC",68m²,2,1.0,3.0
+990,ref: 449596,R$ 550.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",37m²,1,1.0,1.0
+991,ref: 449597,R$ 850.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",67m²,2,1.0,2.0
+992,ref: 449599,R$ 850.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",68m²,2,1.0,3.0
+993,ref: 454063,R$ 900.000,rua delminda silveira,"Agronomica, Florianopolis - SC",78m²,3,1.0,3.0
+994,ref: 454133,R$ 530.000,rua douglas seabra levier,"Trindade, Florianopolis - SC",69m²,3,1.0,1.0
+995,ref: 456005,R$ 3.200.000,rua duarte schutel,"Centro, Florianopolis - SC",179m²,3,2.0,7.0
+996,ref: 456952,R$ 2.300.000,rua marechal camara,"Estreito, Florianopolis - SC",240m²,4,2.0,6.0
+997,ref: 453190,R$ 1.100.000,rua rodrigo rampinelli jeremias,"Itacorubi, Florianopolis - SC",70m²,2,2.0,3.0
+998,ref: 454681,R$ 1.200.000,rua araci vaz callado,"Canto, Florianopolis - SC",114m²,3,3.0,3.0
+999,ref: 454709,R$ 1.491.433,rua salvatina feliciana dos santos,"Itacorubi, Florianopolis - SC",98m²,3,2.0,3.0
+1000,ref: 454806,R$ 1.690.000,rua madalena barbi,"Centro, Florianopolis - SC",126m²,4,2.0,7.0
+1001,ref: 454815,R$ 590.000,rua crispim mira,"Centro, Florianopolis - SC",40m²,1,1.0,1.0
+1002,ref: 454817,R$ 550.000,rua crispim mira,"Centro, Florianopolis - SC",40m²,1,1.0,1.0
+1003,ref: 454819,R$ 690.000,rua crispim mira,"Centro, Florianopolis - SC",57m²,1,1.0,3.0
+1004,ref: 473047,R$ 1.272.000,rua heloisa rojo machado,"Campeche Sul, Florianopolis - SC",84m²,2,1.0,3.0
+1005,ref: 473065,R$ 1.450.000,avenida campeche,"Lagoa Pequena, Florianopolis - SC",72m²,2,1.0,3.0
+1006,ref: 471432,R$ 450.000,rua waldemar ouriques,"Capoeiras, Florianopolis - SC",64m²,2,1.0,3.0
+1007,ref: 471331,R$ 1.250.000,rua sergio gil,"Balneario, Florianopolis - SC",91m²,3,1.0,3.0
+1008,ref: 471346,R$ 1.400.000,rua sergio gil,"Balneario, Florianopolis - SC",92m²,2,1.0,3.0
+1009,ref: 471800,R$ 1.659.300,rua marechal hermes,"Estreito, Florianopolis - SC",108m²,3,2.0,6.0
+1010,ref: 470184,R$ 520.000,rua luiz pasteur,"Trindade, Florianopolis - SC",33m²,1,1.0,1.0
+1011,ref: 475105,R$ 2.690.000,rua almirante lamego,"Centro, Florianopolis - SC",168m²,3,2.0,5.0
+1012,ref: 467886,R$ 1.590.000,avenida campeche,"Lagoa Pequena, Florianopolis - SC",71m²,2,1.0,3.0
+1013,ref: 467887,R$ 658.000,rua martinho de haro,"Ingleses, Florianopolis - SC",67m²,2,1.0,3.0
+1014,ref: 466677,R$ 1.750.000,rodovia tertuliano brito xavier,"Jurere Leste, Florianopolis - SC",117m²,3,1.0,6.0
+1015,ref: 461827,R$ 520.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",48m²,1,1.0,3.0
+1016,ref: 466287,R$ 1.020.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",101m²,3,2.0,3.0
+1017,ref: 466288,R$ 690.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",67m²,2,1.0,3.0
+1018,ref: 466843,R$ 870.000,rua joao pio duarte silva,"Corrego Grande, Florianopolis - SC",85m²,3,1.0,3.0
+1019,ref: 466851,R$ 545.000,rua pastor william richard schisler filho,"Itacorubi, Florianopolis - SC",73m²,3,1.0,1.0
+1020,ref: 449596,R$ 550.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",37m²,1,1.0,1.0
+1021,ref: 449597,R$ 850.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",67m²,2,1.0,2.0
+1022,ref: 449599,R$ 850.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",68m²,2,1.0,3.0
+1023,ref: 454063,R$ 900.000,rua delminda silveira,"Agronomica, Florianopolis - SC",78m²,3,1.0,3.0
+1024,ref: 454133,R$ 530.000,rua douglas seabra levier,"Trindade, Florianopolis - SC",69m²,3,1.0,1.0
+1025,ref: 456005,R$ 3.200.000,rua duarte schutel,"Centro, Florianopolis - SC",179m²,3,2.0,7.0
+1026,ref: 456952,R$ 2.300.000,rua marechal camara,"Estreito, Florianopolis - SC",240m²,4,2.0,6.0
+1027,ref: 453190,R$ 1.100.000,rua rodrigo rampinelli jeremias,"Itacorubi, Florianopolis - SC",70m²,2,2.0,3.0
+1028,ref: 454681,R$ 1.200.000,rua araci vaz callado,"Canto, Florianopolis - SC",114m²,3,3.0,3.0
+1029,ref: 454709,R$ 1.491.433,rua salvatina feliciana dos santos,"Itacorubi, Florianopolis - SC",98m²,3,2.0,3.0
+1030,ref: 454806,R$ 1.690.000,rua madalena barbi,"Centro, Florianopolis - SC",126m²,4,2.0,7.0
+1031,ref: 454815,R$ 590.000,rua crispim mira,"Centro, Florianopolis - SC",40m²,1,1.0,1.0
+1032,ref: 454817,R$ 550.000,rua crispim mira,"Centro, Florianopolis - SC",40m²,1,1.0,1.0
+1033,ref: 454819,R$ 690.000,rua crispim mira,"Centro, Florianopolis - SC",57m²,1,1.0,3.0
+1034,ref: 473047,R$ 1.272.000,rua heloisa rojo machado,"Campeche Sul, Florianopolis - SC",84m²,2,1.0,3.0
+1035,ref: 473065,R$ 1.450.000,avenida campeche,"Lagoa Pequena, Florianopolis - SC",72m²,2,1.0,3.0
+1036,ref: 471432,R$ 450.000,rua waldemar ouriques,"Capoeiras, Florianopolis - SC",64m²,2,1.0,3.0
+1037,ref: 471331,R$ 1.250.000,rua sergio gil,"Balneario, Florianopolis - SC",91m²,3,1.0,3.0
+1038,ref: 471346,R$ 1.400.000,rua sergio gil,"Balneario, Florianopolis - SC",92m²,2,1.0,3.0
+1039,ref: 471800,R$ 1.659.300,rua marechal hermes,"Estreito, Florianopolis - SC",108m²,3,2.0,6.0
+1040,ref: 470184,R$ 520.000,rua luiz pasteur,"Trindade, Florianopolis - SC",33m²,1,1.0,1.0
+1041,ref: 475105,R$ 2.690.000,rua almirante lamego,"Centro, Florianopolis - SC",168m²,3,2.0,5.0
+1042,ref: 467886,R$ 1.590.000,avenida campeche,"Lagoa Pequena, Florianopolis - SC",71m²,2,1.0,3.0
+1043,ref: 467887,R$ 658.000,rua martinho de haro,"Ingleses, Florianopolis - SC",67m²,2,1.0,3.0
+1044,ref: 466677,R$ 1.750.000,rodovia tertuliano brito xavier,"Jurere Leste, Florianopolis - SC",117m²,3,1.0,6.0
+1045,ref: 461827,R$ 520.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",48m²,1,1.0,3.0
+1046,ref: 466287,R$ 1.020.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",101m²,3,2.0,3.0
+1047,ref: 466288,R$ 690.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",67m²,2,1.0,3.0
+1048,ref: 466843,R$ 870.000,rua joao pio duarte silva,"Corrego Grande, Florianopolis - SC",85m²,3,1.0,3.0
+1049,ref: 466851,R$ 545.000,rua pastor william richard schisler filho,"Itacorubi, Florianopolis - SC",73m²,3,1.0,1.0
+1050,ref: 474428,R$ 760.000,rua sao jose,"Jardim Atlantico, Florianopolis - SC",109m²,3,1.0,4.0
+1051,ref: 474433,R$ 550.000,avenida prefeito waldemar vieira,"Saco dos limoes, Florianopolis - SC",64m²,2,1.0,3.0
+1052,ref: 474435,R$ 730.000,rua tenente silveira,"Centro, Florianopolis - SC",70m²,2,1.0,1.0
+1053,ref: 474436,R$ 1.199.000,avenida madre benvenuta,"Trindade, Florianopolis - SC",82m²,3,1.0,3.0
+1054,ref: 474437,R$ 1.428.499,estrada caminho dos acores,"Santo Antonio de Lisboa, Florianopolis - SC",75m²,2,2.0,4.0
+1055,ref: 474438,R$ 500.000,rua joao medeiros junior,"Saco dos limoes, Florianopolis - SC",44m²,1,1.0,2.0
+1056,ref: 474440,R$ 565.000,rua lauro linhares,"Trindade, Florianopolis - SC",95m²,3,1.0,2.0
+1057,ref: 474444,R$ 2.600.000,rua almirante lamego,"Centro, Florianopolis - SC",163m²,4,3.0,7.0
+1058,ref: 474448,R$ 1.350.000,rodovia virgilio varzea,"Vargem Pequena, Florianopolis - SC",176m²,3,2.0,4.0
+1059,ref: 474449,R$ 400.000,rua joao motta espezim,"Saco dos limoes, Florianopolis - SC",72m²,3,1.0,3.0
+1060,ref: 474206,R$ 1.500.000,rua frei caneca,"Agronomica, Florianopolis - SC",134m²,3,1.0,5.0
+1061,ref: 474207,R$ 4.300.000,rua frei caneca,"Agronomica, Florianopolis - SC",110m²,4,2.0,3.0
+1062,ref: 474208,R$ 1.867.167,rua delminda silveira,"Agronomica, Florianopolis - SC",157m²,3,2.0,3.0
+1063,ref: 474214,R$ 490.000,rua pascoal simone,"Coqueiros, Florianopolis - SC",63m²,2,1.0,3.0
+1064,ref: 474226,R$ 590.000,rua general bittencourt,"Centro, Florianopolis - SC",66m²,2,1.0,1.0
+1065,ref: 474240,R$ 960.000,rodovia virgilio varzea,"Saco Grande, Florianopolis - SC",128m²,3,2.0,3.0
+1066,ref: 474153,R$ 1.350.000,rua rui barbosa,"Agronomica, Florianopolis - SC",157m²,4,2.0,5.0
+1067,ref: 474159,R$ 724.400,rua araci vaz callado,"Coloninha, Florianopolis - SC",78m²,1,1.0,3.0
+1068,ref: 474161,R$ 850.000,rua olavo bilac,"Canto, Florianopolis - SC",82m²,2,1.0,3.0
+1069,ref: 474162,R$ 380.000,rua doutor doutor abel capela,"Capoeiras, Florianopolis - SC",73m²,3,1.0,2.0
+1070,ref: 474164,R$ 1.400.000,rua dom joaquim,"Centro, Florianopolis - SC",138m²,4,2.0,6.0
+1071,ref: 474166,R$ 1.450.000,rua sao pedro,"Balneario, Florianopolis - SC",119m²,3,2.0,4.0
+1072,ref: 474167,R$ 3.520.000,rua almirante lamego,"Centro, Florianopolis - SC",170m²,4,3.0,9.0
+1073,ref: 474169,R$ 1.100.000,rua julio dias,"Coqueiros, Florianopolis - SC",120m²,3,2.0,5.0
+1074,ref: 474170,R$ 1.200.000,rua laurindo januario da silveira,"Canto da Lagoa, Florianopolis - SC",113m²,3,2.0,5.0
+1075,ref: 474171,R$ 1.400.000,rua almirante lamego,"Centro, Florianopolis - SC",96m²,3,1.0,4.0
+1076,ref: 474172,R$ 475.000,rua almirante dorval melchiades de souza,"Centro, Florianopolis - SC",59m²,2,1.0,1.0
+1077,ref: 474175,R$ 800.000,rua embauba do ribeirao,"Moenda, Florianopolis - SC",72m²,2,1.0,3.0
+1078,ref: 474176,R$ 665.000,rua joao pio duarte silva,"Pantanal, Florianopolis - SC",63m²,2,1.0,3.0
+1079,ref: 474177,R$ 2.345.000,rua joaquim costa,"Agronomica, Florianopolis - SC",1m²,2,1.0,5.0
+1080,ref: 474180,R$ 1.430.000,rua araci vaz callado,"Coloninha, Florianopolis - SC",129m²,3,2.0,7.0
+1081,ref: 474181,R$ 670.000,avenida governador jorge lacerda,"Costeira do Pirajubae, Florianopolis - SC",77m²,3,1.0,3.0
+1082,ref: 474182,R$ 370.000,rua celso martins da silveira,"Ressacada, Florianopolis - SC",50m²,2,1.0,1.0
+1083,ref: 474185,R$ 320.000,rua joao motta espezim,"Saco dos limoes, Florianopolis - SC",40m²,1,1.0,1.0
+1084,ref: 474187,R$ 700.000,rua joao medeiros junior,"Saco dos limoes, Florianopolis - SC",63m²,2,2.0,5.0
+1085,ref: 474188,R$ 490.000,estrada manoel leoncio de souza brito,"Vargem Pequena, Florianopolis - SC",53m²,2,1.0,1.0
+1086,ref: 474193,R$ 800.000,rodovia virgilio varzea,"Saco Grande, Florianopolis - SC",72m²,2,1.0,3.0
+1087,ref: 474197,R$ 795.000,rua salome damazio jacques,"Trindade, Florianopolis - SC",95m²,3,1.0,3.0
+1088,ref: 474198,R$ 1.130.000,rua professor professor milton roque ramos krieger,"Trindade, Florianopolis - SC",116m²,3,2.0,7.0
+1089,ref: 474199,R$ 960.000,rua professor professor odilon fernandes,"Trindade, Florianopolis - SC",91m²,3,1.0,3.0
+1090,ref: 474307,R$ 450.000,rua silva jardim,"Centro, Florianopolis - SC",107m²,3,1.0,3.0
+1091,ref: 474308,R$ 495.000,rua tenente silveira,"Centro, Florianopolis - SC",60m²,2,,1.0
+1092,ref: 474309,R$ 1.550.000,rua presidente nereu ramos,"Centro, Florianopolis - SC",108m²,3,2.0,7.0
+1093,ref: 474310,R$ 1.750.000,avenida trompowsky,"Centro, Florianopolis - SC",150m²,3,2.0,7.0
+1094,ref: 474311,R$ 390.000,rua joao marcal,"Trindade, Florianopolis - SC",62m²,2,1.0,1.0
+1095,ref: 474312,R$ 1.000.000,rua douglas seabra levier,"Trindade, Florianopolis - SC",163m²,3,2.0,4.0
+1096,ref: 474313,R$ 780.000,rua general bittencourt,"Centro, Florianopolis - SC",66m²,2,2.0,3.0
+1097,ref: 474315,R$ 550.000,rua jose joao martendal,"Trindade, Florianopolis - SC",72m²,2,1.0,3.0
+1098,ref: 474324,R$ 1.169.000,rua pastor william richard schisler filho,"Itacorubi, Florianopolis - SC",102m²,3,2.0,5.0
+1099,ref: 474326,R$ 1.150.000,avenida santa catarina,"Balneario, Florianopolis - SC",144m²,4,3.0,4.0
+1100,ref: 474327,R$ 1.220.000,avenida itamarati,"Itacorubi, Florianopolis - SC",125m²,3,2.0,4.0
+1101,ref: 474328,R$ 1.350.000,rua itapiranga,"Itacorubi, Florianopolis - SC",92m²,3,1.0,3.0
+1102,ref: 474330,R$ 399.000,rua vera linhares de andrade,"Itacorubi, Florianopolis - SC",53m²,2,1.0,1.0
+1103,ref: 474332,R$ 2.100.000,rua sao francisco,"Centro, Florianopolis - SC",147m²,4,2.0,4.0
+1104,ref: 474333,R$ 489.000,rua padre roma,"Centro, Florianopolis - SC",67m²,2,1.0,1.0
+1105,ref: 474334,R$ 940.000,avenida trompowsky,"Centro, Florianopolis - SC",115m²,3,1.0,4.0
+1106,ref: 474335,R$ 2.180.000,rua gentil leandro dos santos,"Saco dos limoes, Florianopolis - SC",201m²,4,2.0,4.0
+1107,ref: 474336,R$ 830.000,rua pascoal simone,"Coqueiros, Florianopolis - SC",71m²,2,2.0,3.0
+1108,ref: 474338,R$ 1.190.000,rua duarte schutel,"Centro, Florianopolis - SC",88m²,3,1.0,3.0
+1109,ref: 474341,R$ 1.111.000,rua pastor william richard schisler filho,"Itacorubi, Florianopolis - SC",96m²,2,2.0,3.0
+1110,ref: 474342,R$ 2.950.000,rua otavio francisco quintino,"Joao Paulo, Florianopolis - SC",243m²,3,3.0,7.0
+1111,ref: 474344,R$ 780.000,rodovia admar gonzaga,"Itacorubi, Florianopolis - SC",47m²,1,1.0,1.0
+1112,ref: 474345,R$ 465.000,rua araci vaz callado,"Canto, Florianopolis - SC",78m²,3,1.0,3.0
+1113,ref: 474346,R$ 1.115.000,rua frei evaristo,"Centro, Florianopolis - SC",83m²,2,1.0,3.0
+1114,ref: 474347,R$ 1.217.000,rua pastor william richard schisler filho,"Itacorubi, Florianopolis - SC",130m²,3,2.0,7.0
+1115,ref: 474350,R$ 3.900.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",297m²,4,3.0,6.0
+1116,ref: 474352,R$ 2.850.000,rua otavio francisco quintino,"Joao Paulo, Florianopolis - SC",230m²,3,2.0,5.0
+1117,ref: 474355,R$ 625.000,rua pastor william richard schisler filho,"Itacorubi, Florianopolis - SC",53m²,1,1.0,1.0
+1118,ref: 474356,R$ 1.139.000,rua pastor william richard schisler filho,"Itacorubi, Florianopolis - SC",114m²,2,2.0,5.0
+1119,ref: 473302,R$ 710.000,rua joao pio duarte silva,"Pantanal, Florianopolis - SC",97m²,3,1.0,3.0
+1120,ref: 473306,R$ 795.000,rodovia admar gonzaga,"Itacorubi, Florianopolis - SC",177m²,4,2.0,5.0
+1121,ref: 473318,R$ 320.000,rua capitao romualdo de barros,"Saco dos limoes, Florianopolis - SC",44m²,1,,1.0
+1122,ref: 473345,R$ 799.000,avenida buriti,"Itacorubi, Florianopolis - SC",71m²,2,1.0,3.0
+1123,ref: 473355,R$ 550.000,avenida madre benvenuta,"Trindade, Florianopolis - SC",75m²,3,1.0,2.0
+1124,ref: 469812,R$ 3.100.000,rua santos saraiva,"Capoeiras, Florianopolis - SC",227m²,3,4.0,6.0
+1125,ref: 469822,R$ 1.955.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",184m²,4,3.0,4.0
+1126,ref: 469838,R$ 760.000*,rodovia amaro antonio vieira,"Itacorubi, Florianopolis - SC",75m²,3,1.0,3.0
+1127,ref: 469839,R$ 870.000,rodovia amaro antonio vieira,"Itacorubi, Florianopolis - SC",74m²,3,2.0,3.0
+1128,ref: 469860,R$ 986.000,rua juvencio costa,"Trindade, Florianopolis - SC",78m²,2,1.0,5.0
+1129,ref: 474561,R$ 795.000,rua professor professor clementino de brito,"Capoeiras, Florianopolis - SC",91m²,3,2.0,3.0
+1130,ref: 475428,R$ 539.000,rua lauro linhares,"Trindade, Florianopolis - SC",66m²,2,1.0,1.0
+1131,ref: 475434,R$ 860.000,rua angelo la porta,"Centro, Florianopolis - SC",67m²,2,1.0,3.0
+1132,ref: 475178,R$ 900.000,rua joao pio duarte silva,"Corrego Grande, Florianopolis - SC",117m²,3,2.0,5.0
+1133,ref: 475188,R$ 890.000,estrada haroldo soares glavan,"Saco Grande, Florianopolis - SC",70m²,2,1.0,2.0
+1134,ref: 475193,R$ 990.000,rua jairo callado,"Agronomica, Florianopolis - SC",71m²,2,2.0,3.0
+1135,ref: 474021,R$ 808.190,rua maria claudino da cruz,"Capoeiras, Florianopolis - SC",78m²,3,2.0,3.0
+1136,ref: 448329,R$ 1.490.000,avenida dos buzios,"Jurere Oeste, Florianopolis - SC",57m²,1,1.0,2.0
+1137,ref: 448395,R$ 670.000,rua intendente joao nunes vieira,"Ingleses, Florianopolis - SC",142m²,3,2.0,7.0
+1138,ref: 448024,R$ 1.176.478,rua lauro linhares,"Trindade, Florianopolis - SC",95m²,2,2.0,3.0
+1139,ref: 448031,R$ 1.974.413,travessa felipe godinho e silva,"Agronomica, Florianopolis - SC",102m²,3,2.0,3.0
+1140,ref: 448141,R$ 373.000,rua intendente joao nunes vieira,"Ingleses, Florianopolis - SC",176m²,3,,5.0
+1141,ref: 448148,R$ 799.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",72m²,2,1.0,3.0
+1142,ref: 448152,R$ 954.973,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",79m²,2,1.0,5.0
+1143,ref: 448153,R$ 870.507,rua procopio manoel pires,"Trindade, Florianopolis - SC",106m²,2,1.0,3.0
+1144,ref: 448155,R$ 950.620,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",103m²,2,2.0,5.0
+1145,ref: 448160,R$ 350.000,rua paulina marques dos santos,"Ingleses, Florianopolis - SC",73m²,2,1.0,2.0
+1146,ref: 448165,R$ 890.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",69m²,2,1.0,3.0
+1147,ref: 448166,R$ 2.000.000,rua altamiro guimaraes,"Centro, Florianopolis - SC",226m²,4,2.0,4.0
+1148,ref: 448168,R$ 1.700.000,rua rui barbosa,"Agronomica, Florianopolis - SC",204m²,4,2.0,1.0
+1149,ref: 448169,R$ 4.050.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",234m²,2,3.0,5.0
+1150,ref: 445056,R$ 2.500.000,estrada haroldo soares glavan,"Cacupe, Florianopolis - SC",157m²,3,3.0,7.0
+1151,ref: 445060,R$ 2.885.000,estrada haroldo soares glavan,"Cacupe, Florianopolis - SC",172m²,3,2.0,6.0
+1152,ref: 448173,R$ 1.990.000,travessa felipe godinho e silva,"Agronomica, Florianopolis - SC",124m²,3,2.0,4.0
+1153,ref: 448177,R$ 2.800.000,rua almirante lamego,"Centro, Florianopolis - SC",141m²,4,2.0,5.0
+1154,ref: 448182,R$ 9.500.000,avenida jornalista rubens de arruda ramos,"Centro, Florianopolis - SC",340m²,3,4.0,7.0
+1155,ref: 448186,R$ 880.000,rua leonel pereira,"Cachoeira do bom Jesus, Florianopolis - SC",66m²,2,2.0,3.0
+1156,ref: 448187,R$ 1.200.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",81m²,3,2.0,3.0
+1157,ref: 448191,R$ 1.042.441,estrada haroldo soares glavan,"Saco Grande, Florianopolis - SC",94m²,3,1.0,3.0
+1158,ref: 448197,R$ 1.299.500,rodovia admar gonzaga,"Itacorubi, Florianopolis - SC",96m²,3,2.0,3.0
+1159,ref: 448198,R$ 780.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",64m²,2,1.0,5.0
+1160,ref: 448201,R$ 1.280.000,rua julio vieira,"Joao Paulo, Florianopolis - SC",92m²,3,2.0,3.0
+1161,ref: 448202,R$ 3.200.000,avenida jornalista rubens de arruda ramos,"Centro, Florianopolis - SC",225m²,4,2.0,7.0
+1162,ref: 448211,R$ 680.000,rua recanto do sol,"Ingleses, Florianopolis - SC",105m²,2,1.0,1.0
+1163,ref: 448022,R$ 1.458.238,rua lauro linhares,"Trindade, Florianopolis - SC",107m²,3,2.0,5.0
+1164,ref: 446843,R$ 550.000,rua dos tubaroes,"Ingleses, Florianopolis - SC",95m²,3,1.0,3.0
+1165,ref: 446851,R$ 1.550.000,rua antonio gomes,"Canto, Florianopolis - SC",103m²,3,3.0,3.0
+1166,ref: 446864,R$ 1.180.000,rua professor professor ayrton roberto de oliveira,"Itacorubi, Florianopolis - SC",89m²,3,2.0,2.0
+1167,ref: 446866,R$ 2.500.000,avenida afonso delambert neto,"Lagoa da Conceicao, Florianopolis - SC",235m²,3,2.0,7.0
+1168,ref: 446867,R$ 1.620.000,rua almirante lamego,"Centro, Florianopolis - SC",137m²,2,1.0,4.0
+1169,ref: 446868,R$ 1.190.000,rua salvatina feliciana dos santos,"Itacorubi, Florianopolis - SC",145m²,2,2.0,5.0
+1170,ref: 448141,R$ 373.000,rua intendente joao nunes vieira,"Ingleses, Florianopolis - SC",176m²,3,,5.0
+1171,ref: 448148,R$ 799.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",72m²,2,1.0,3.0
+1172,ref: 448152,R$ 954.973,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",79m²,2,1.0,5.0
+1173,ref: 448153,R$ 870.507,rua procopio manoel pires,"Trindade, Florianopolis - SC",106m²,2,1.0,3.0
+1174,ref: 448155,R$ 950.620,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",103m²,2,2.0,5.0
+1175,ref: 448160,R$ 350.000,rua paulina marques dos santos,"Ingleses, Florianopolis - SC",73m²,2,1.0,2.0
+1176,ref: 448165,R$ 890.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",69m²,2,1.0,3.0
+1177,ref: 448166,R$ 2.000.000,rua altamiro guimaraes,"Centro, Florianopolis - SC",226m²,4,2.0,4.0
+1178,ref: 448168,R$ 1.700.000,rua rui barbosa,"Agronomica, Florianopolis - SC",204m²,4,2.0,1.0
+1179,ref: 448169,R$ 4.050.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",234m²,2,3.0,5.0
+1180,ref: 445056,R$ 2.500.000,estrada haroldo soares glavan,"Cacupe, Florianopolis - SC",157m²,3,3.0,7.0
+1181,ref: 445060,R$ 2.885.000,estrada haroldo soares glavan,"Cacupe, Florianopolis - SC",172m²,3,2.0,6.0
+1182,ref: 448173,R$ 1.990.000,travessa felipe godinho e silva,"Agronomica, Florianopolis - SC",124m²,3,2.0,4.0
+1183,ref: 448177,R$ 2.800.000,rua almirante lamego,"Centro, Florianopolis - SC",141m²,4,2.0,5.0
+1184,ref: 448182,R$ 9.500.000,avenida jornalista rubens de arruda ramos,"Centro, Florianopolis - SC",340m²,3,4.0,7.0
+1185,ref: 448186,R$ 880.000,rua leonel pereira,"Cachoeira do bom Jesus, Florianopolis - SC",66m²,2,2.0,3.0
+1186,ref: 448187,R$ 1.200.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",81m²,3,2.0,3.0
+1187,ref: 448191,R$ 1.042.441,estrada haroldo soares glavan,"Saco Grande, Florianopolis - SC",94m²,3,1.0,3.0
+1188,ref: 448197,R$ 1.299.500,rodovia admar gonzaga,"Itacorubi, Florianopolis - SC",96m²,3,2.0,3.0
+1189,ref: 448198,R$ 780.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",64m²,2,1.0,5.0
+1190,ref: 448201,R$ 1.280.000,rua julio vieira,"Joao Paulo, Florianopolis - SC",92m²,3,2.0,3.0
+1191,ref: 448202,R$ 3.200.000,avenida jornalista rubens de arruda ramos,"Centro, Florianopolis - SC",225m²,4,2.0,7.0
+1192,ref: 448211,R$ 680.000,rua recanto do sol,"Ingleses, Florianopolis - SC",105m²,2,1.0,1.0
+1193,ref: 448022,R$ 1.458.238,rua lauro linhares,"Trindade, Florianopolis - SC",107m²,3,2.0,5.0
+1194,ref: 446843,R$ 550.000,rua dos tubaroes,"Ingleses, Florianopolis - SC",95m²,3,1.0,3.0
+1195,ref: 446851,R$ 1.550.000,rua antonio gomes,"Canto, Florianopolis - SC",103m²,3,3.0,3.0
+1196,ref: 446864,R$ 1.180.000,rua professor professor ayrton roberto de oliveira,"Itacorubi, Florianopolis - SC",89m²,3,2.0,2.0
+1197,ref: 446866,R$ 2.500.000,avenida afonso delambert neto,"Lagoa da Conceicao, Florianopolis - SC",235m²,3,2.0,7.0
+1198,ref: 446867,R$ 1.620.000,rua almirante lamego,"Centro, Florianopolis - SC",137m²,2,1.0,4.0
+1199,ref: 446868,R$ 1.190.000,rua salvatina feliciana dos santos,"Itacorubi, Florianopolis - SC",145m²,2,2.0,5.0
+1200,ref: 472678,R$ 1.350.000,rua brisamar,"Ingleses, Florianopolis - SC",105m²,3,1.0,5.0
+1201,ref: 472681,R$ 450.000,rodovia virgilio varzea,"Canasvieiras, Florianopolis - SC",52m²,2,1.0,1.0
+1202,ref: 472682,R$ 7.000.000,avenida campeche,"Campeche Norte, Florianopolis - SC",305m²,4,4.0,4.0
+1203,ref: 472684,R$ 498.000,rua cedro rosa do sul,"Alto Ribeirao Leste, Florianopolis - SC",41m²,1,1.0,1.0
+1204,ref: 472685,R$ 894.500,rua recanto do sol,"Ingleses, Florianopolis - SC",73m²,2,1.0,4.0
+1205,ref: 472686,R$ 2.235.000,rua ana luiza vieira,"Lagoa Pequena, Florianopolis - SC",106m²,2,2.0,4.0
+1206,ref: 472688,R$ 1.390.000,avenida campeche,"Campeche Norte, Florianopolis - SC",103m²,3,2.0,4.0
+1207,ref: 472690,R$ 1.230.000,rodovia tertuliano brito xavier,"Jurere Leste, Florianopolis - SC",111m²,3,1.0,7.0
+1208,ref: 472693,R$ 2.200.000,avenida campeche,"Lagoa Pequena, Florianopolis - SC",161m²,2,2.0,3.0
+1209,ref: 472694,R$ 2.490.000,avenida campeche,"Campeche Norte, Florianopolis - SC",124m²,3,2.0,7.0
+1210,ref: 472695,R$ 12.000.000,rua jeronimo venancio das chagas,"Lagoa Pequena, Florianopolis - SC",350m²,5,2.0,9.0
+1211,ref: 472697,R$ 1.850.000,rua manoel pedro vieira,"Morro das Pedras, Florianopolis - SC",93m²,2,2.0,3.0
+1212,ref: 474106,R$ 480.000,rua lauro linhares,"Trindade, Florianopolis - SC",84m²,3,1.0,3.0
+1213,ref: 474133,R$ 1.530.000,rua delminda silveira,"Agronomica, Florianopolis - SC",132m²,4,2.0,5.0
+1214,ref: 474134,R$ 1.900.000,rua delminda silveira,"Agronomica, Florianopolis - SC",160m²,3,1.0,4.0
+1215,ref: 474135,R$ 8.000.000,rua frei caneca,"Agronomica, Florianopolis - SC",609m²,4,3.0,7.0
+1216,ref: 474136,R$ 980.000,rua frei caneca,"Agronomica, Florianopolis - SC",101m²,3,1.0,4.0
+1217,ref: 474149,R$ 545.000,rua pastor william richard schisler filho,"Itacorubi, Florianopolis - SC",78m²,3,1.0,1.0
+1218,ref: 474150,R$ 978.000,rodovia admar gonzaga,"Itacorubi, Florianopolis - SC",75m²,2,1.0,3.0
+1219,ref: 474257,R$ 1.240.000,rua altamiro guimaraes,"Centro, Florianopolis - SC",129m²,3,1.0,4.0
+1220,ref: 474261,R$ 930.000,rua frei caneca,"Agronomica, Florianopolis - SC",63m²,2,1.0,3.0
+1221,ref: 474263,R$ 1.350.000,rua sidney nocetti,"Agronomica, Florianopolis - SC",73m²,2,2.0,3.0
+1222,ref: 474280,R$ 860.000,rua angelo la porta,"Centro, Florianopolis - SC",60m²,2,1.0,3.0
+1223,ref: 474281,R$ 1.490.000,rua frei caneca,"Agronomica, Florianopolis - SC",73m²,2,2.0,3.0
+1224,ref: 474289,R$ 2.300.000,avenida claudio alvim barbosa,"Estreito, Florianopolis - SC",121m²,3,2.0,5.0
+1225,ref: 474290,R$ 642.000,rua pastor william richard schisler filho,"Itacorubi, Florianopolis - SC",53m²,2,1.0,1.0
+1226,ref: 474291,R$ 1.206.000,rua pastor william richard schisler filho,"Itacorubi, Florianopolis - SC",129m²,3,2.0,7.0
+1227,ref: 474292,R$ 265.000,rua santos saraiva,"Capoeiras, Florianopolis - SC",43m²,1,1.0,1.0
+1228,ref: 474294,R$ 350.000,rua fernando machado,"Centro, Florianopolis - SC",50m²,1,,1.0
+1229,ref: 474296,R$ 699.000,rua jose beiro,"Jardim Atlantico, Florianopolis - SC",109m²,3,1.0,4.0
+1230,ref: 474297,R$ 6.200.000,avenida trompowsky,"Centro, Florianopolis - SC",514m²,4,3.0,8.0
+1231,ref: 474298,R$ 530.000,rua angelo la porta,"Centro, Florianopolis - SC",37m²,1,1.0,1.0
+1232,ref: 474299,R$ 2.400.000,avenida trompowsky,"Centro, Florianopolis - SC",237m²,4,2.0,6.0
+1233,ref: 474303,R$ 2.090.000,rua germano wendhausen,"Centro, Florianopolis - SC",95m²,3,2.0,4.0
+1234,ref: 474305,R$ 875.000,rua julio vieira,"Joao Paulo, Florianopolis - SC",76m²,2,1.0,4.0
+1235,ref: 474306,R$ 550.000,rua maria eduarda,"Pantanal, Florianopolis - SC",31m²,1,1.0,1.0
+1236,ref: 472591,R$ 630.000,rua do kalifa,"Canasvieiras, Florianopolis - SC",67m²,2,1.0,3.0
+1237,ref: 472593,R$ 4.200.000,avenida campeche,"Campeche Norte, Florianopolis - SC",191m²,4,4.0,8.0
+1238,ref: 472596,R$ 700.000,rua deputado paulo preis,"Jurere Leste, Florianopolis - SC",46m²,1,,1.0
+1239,ref: 472598,R$ 2.500.000,rua madre maria vilac,"Cachoeira do bom Jesus, Florianopolis - SC",151m²,4,2.0,8.0
+1240,ref: 472601,R$ 950.000,rua mario giocondo crocetta,"Ingleses, Florianopolis - SC",107m²,3,3.0,3.0
+1241,ref: 472602,R$ 810.000,rua antonio jose thomaz da costa,"Lagoa Pequena, Florianopolis - SC",43m²,1,1.0,3.0
+1242,ref: 472603,R$ 690.000,rua dos eucaliptos,"Canasvieiras, Florianopolis - SC",79m²,2,1.0,3.0
+1243,ref: 472606,R$ 1.650.000,rua otavio cruz,"Lagoa Pequena, Florianopolis - SC",95m²,2,2.0,5.0
+1244,ref: 472607,R$ 2.400.000,rua jeronimo venancio das chagas,"Lagoa Pequena, Florianopolis - SC",161m²,2,1.0,3.0
+1245,ref: 472608,R$ 880.000,avenida campeche,"Lagoa Pequena, Florianopolis - SC",46m²,1,1.0,3.0
+1246,ref: 472613,R$ 1.700.000,rua manoel pedro vieira,"Morro das Pedras, Florianopolis - SC",90m²,2,2.0,3.0
+1247,ref: 472614,R$ 670.000,rua sucupira,"Campeche Sul, Florianopolis - SC",37m²,1,1.0,1.0
+1248,ref: 472616,R$ 4.980.000,rua manoel pedro vieira,"Morro das Pedras, Florianopolis - SC",260m²,3,2.0,6.0
+1249,ref: 472625,R$ 1.561.637,rua intendente joao nunes vieira,"Ingleses, Florianopolis - SC",178m²,3,4.0,7.0
+1250,ref: 468885,R$ 1.690.000,rua madalena barbi,"Centro, Florianopolis - SC",129m²,4,2.0,4.0
+1251,ref: 469216,R$ 1.730.000,rodovia jornalista mauricio sirotsky sobrinho,"Jurere, Florianopolis - SC",93m²,3,2.0,3.0
+1252,ref: 469226,R$ 1.350.000,rua ferreira lima,"Centro, Florianopolis - SC",109m²,3,2.0,4.0
+1253,ref: 466029,R$ 1.190.000,rua itapiranga,"Itacorubi, Florianopolis - SC",92m²,3,1.0,3.0
+1254,ref: 468067,R$ 954.000,rua sao tomaz de aquino,"Trindade, Florianopolis - SC",79m²,2,2.0,5.0
+1255,ref: 468083,R$ 830.000,rua professor professor odilon fernandes,"Trindade, Florianopolis - SC",81m²,3,1.0,3.0
+1256,ref: 468088,R$ 2.732.950,rodovia tertuliano brito xavier,"Jurere Leste, Florianopolis - SC",137m²,3,,6.0
+1257,ref: 468092,R$ 2.200.000,rua doutor doutor arminio tavares,"Centro, Florianopolis - SC",51m²,1,2.0,3.0
+1258,ref: 468095,R$ 850.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",67m²,2,1.0,3.0
+1259,ref: 468098,R$ 1.550.000,rua desembargador arno hoeschl,"Centro, Florianopolis - SC",98m²,2,1.0,5.0
+1260,ref: 468099,R$ 1.500.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",124m²,3,2.0,3.0
+1261,ref: 467892,R$ 2.700.000,rua bocaiuva,"Centro, Florianopolis - SC",236m²,3,2.0,5.0
+1262,ref: 467913,R$ 750.000,rua dos ilheus,"Centro, Florianopolis - SC",74m²,2,,2.0
+1263,ref: 467914,R$ 1.200.000,rua joao pio duarte silva,"Corrego Grande, Florianopolis - SC",96m²,2,2.0,5.0
+1264,ref: 474706,R$ 2.200.000,rua das algas,"Jurere Leste, Florianopolis - SC",159m²,4,1.0,8.0
+1265,ref: 468868,R$ 425.000,rua lauro linhares,"Trindade, Florianopolis - SC",66m²,2,,2.0
+1266,ref: 448418,R$ 1.490.000,avenida das raias,"Jurere Oeste, Florianopolis - SC",100m²,3,1.0,2.0
+1267,ref: 450768,R$ 745.000,rua madre maria vilac,"Canasvieiras, Florianopolis - SC",70m²,2,1.0,3.0
+1268,ref: 449057,R$ 1.325.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",76m²,2,2.0,4.0
+1269,ref: 447187,R$ 1.699.900,avenida tom traugott wildi,"Praia Brava, Florianopolis - SC",90m²,4,1.0,5.0
+1270,ref: 447196,R$ 2.400.000,rodovia tertuliano brito xavier,"Jurere Leste, Florianopolis - SC",142m²,3,3.0,5.0
+1271,ref: 447198,R$ 2.350.000,rua das algas,"Jurere Leste, Florianopolis - SC",111m²,2,3.0,5.0
+1272,ref: 447205,R$ 560.000,rua silva jardim,"Centro, Florianopolis - SC",79m²,3,1.0,3.0
+1273,ref: 447206,R$ 1.890.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",134m²,3,2.0,7.0
+1274,ref: 447218,R$ 3.300.000,rua das corticeiras,"Campeche Leste, Florianopolis - SC",171m²,3,3.0,3.0
+1275,ref: 447227,R$ 1.270.000,travessa do motorista,"Coloninha, Florianopolis - SC",101m²,3,2.0,4.0
+1276,ref: 447228,R$ 620.000*,rua pedro cunha,"Coloninha, Florianopolis - SC",66m²,2,1.0,3.0
+1277,ref: 447236,R$ 1.090.000,rua jornalista manoel menezes,"Itacorubi, Florianopolis - SC",101m²,3,2.0,3.0
+1278,ref: 447242,R$ 620.000,rua timbauba do ribeirao,"Alto Ribeirao Leste, Florianopolis - SC",59m²,2,1.0,3.0
+1279,ref: 447248,R$ 2.800.000,avenida buriti,"Itacorubi, Florianopolis - SC",237m²,3,2.0,7.0
+1280,ref: 447250,R$ 585.000,rua pastor william richard schisler filho,"Itacorubi, Florianopolis - SC",73m²,3,1.0,1.0
+1281,ref: 447253,R$ 640.000,rua quilombo,"Itacorubi, Florianopolis - SC",68m²,2,1.0,3.0
+1282,ref: 447263,R$ 1.990.000,rua joao carvalho,"Agronomica, Florianopolis - SC",135m²,3,3.0,6.0
+1283,ref: 447276,R$ 3.500.000,rua julio vieira,"Joao Paulo, Florianopolis - SC",174m²,3,3.0,3.0
+1284,ref: 447280,R$ 2.950.000,rua jornalista narbal villela,"Joao Paulo, Florianopolis - SC",188m²,3,3.0,8.0
+1285,ref: 447281,R$ 1.870.001,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",95m²,2,1.0,5.0
+1286,ref: 447288,R$ 1.200.000,avenida mauro ramos,"Centro, Florianopolis - SC",108m²,3,2.0,4.0
+1287,ref: 447293,R$ 1.070.000,rua desembargador arno hoeschl,"Centro, Florianopolis - SC",48m²,1,1.0,1.0
+1288,ref: 447297,R$ 1.580.000,rua sao francisco,"Centro, Florianopolis - SC",184m²,4,2.0,7.0
+1289,ref: 447308,R$ 1.527.000,rua almirante lamego,"Centro, Florianopolis - SC",123m²,3,1.0,5.0
+1290,ref: 468099,R$ 1.500.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",124m²,3,2.0,3.0
+1291,ref: 467892,R$ 2.700.000,rua bocaiuva,"Centro, Florianopolis - SC",236m²,3,2.0,5.0
+1292,ref: 467913,R$ 750.000,rua dos ilheus,"Centro, Florianopolis - SC",74m²,2,,2.0
+1293,ref: 467914,R$ 1.200.000,rua joao pio duarte silva,"Corrego Grande, Florianopolis - SC",96m²,2,2.0,5.0
+1294,ref: 474706,R$ 2.200.000,rua das algas,"Jurere Leste, Florianopolis - SC",159m²,4,1.0,8.0
+1295,ref: 468868,R$ 425.000,rua lauro linhares,"Trindade, Florianopolis - SC",66m²,2,,2.0
+1296,ref: 448418,R$ 1.490.000,avenida das raias,"Jurere Oeste, Florianopolis - SC",100m²,3,1.0,2.0
+1297,ref: 450768,R$ 745.000,rua madre maria vilac,"Canasvieiras, Florianopolis - SC",70m²,2,1.0,3.0
+1298,ref: 449057,R$ 1.325.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",76m²,2,2.0,4.0
+1299,ref: 447187,R$ 1.699.900,avenida tom traugott wildi,"Praia Brava, Florianopolis - SC",90m²,4,1.0,5.0
+1300,ref: 447196,R$ 2.400.000,rodovia tertuliano brito xavier,"Jurere Leste, Florianopolis - SC",142m²,3,3.0,5.0
+1301,ref: 447198,R$ 2.350.000,rua das algas,"Jurere Leste, Florianopolis - SC",111m²,2,3.0,5.0
+1302,ref: 447205,R$ 560.000,rua silva jardim,"Centro, Florianopolis - SC",79m²,3,1.0,3.0
+1303,ref: 447206,R$ 1.890.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",134m²,3,2.0,7.0
+1304,ref: 447218,R$ 3.300.000,rua das corticeiras,"Campeche Leste, Florianopolis - SC",171m²,3,3.0,3.0
+1305,ref: 447227,R$ 1.270.000,travessa do motorista,"Coloninha, Florianopolis - SC",101m²,3,2.0,4.0
+1306,ref: 447228,R$ 620.000*,rua pedro cunha,"Coloninha, Florianopolis - SC",66m²,2,1.0,3.0
+1307,ref: 447236,R$ 1.090.000,rua jornalista manoel menezes,"Itacorubi, Florianopolis - SC",101m²,3,2.0,3.0
+1308,ref: 447242,R$ 620.000,rua timbauba do ribeirao,"Alto Ribeirao Leste, Florianopolis - SC",59m²,2,1.0,3.0
+1309,ref: 447248,R$ 2.800.000,avenida buriti,"Itacorubi, Florianopolis - SC",237m²,3,2.0,7.0
+1310,ref: 447250,R$ 585.000,rua pastor william richard schisler filho,"Itacorubi, Florianopolis - SC",73m²,3,1.0,1.0
+1311,ref: 447253,R$ 640.000,rua quilombo,"Itacorubi, Florianopolis - SC",68m²,2,1.0,3.0
+1312,ref: 447263,R$ 1.990.000,rua joao carvalho,"Agronomica, Florianopolis - SC",135m²,3,3.0,6.0
+1313,ref: 447276,R$ 3.500.000,rua julio vieira,"Joao Paulo, Florianopolis - SC",174m²,3,3.0,3.0
+1314,ref: 447280,R$ 2.950.000,rua jornalista narbal villela,"Joao Paulo, Florianopolis - SC",188m²,3,3.0,8.0
+1315,ref: 447281,R$ 1.870.001,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",95m²,2,1.0,5.0
+1316,ref: 447288,R$ 1.200.000,avenida mauro ramos,"Centro, Florianopolis - SC",108m²,3,2.0,4.0
+1317,ref: 447293,R$ 1.070.000,rua desembargador arno hoeschl,"Centro, Florianopolis - SC",48m²,1,1.0,1.0
+1318,ref: 447297,R$ 1.580.000,rua sao francisco,"Centro, Florianopolis - SC",184m²,4,2.0,7.0
+1319,ref: 447308,R$ 1.527.000,rua almirante lamego,"Centro, Florianopolis - SC",123m²,3,1.0,5.0
+1320,ref: 468099,R$ 1.500.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",124m²,3,2.0,3.0
+1321,ref: 467892,R$ 2.700.000,rua bocaiuva,"Centro, Florianopolis - SC",236m²,3,2.0,5.0
+1322,ref: 467913,R$ 750.000,rua dos ilheus,"Centro, Florianopolis - SC",74m²,2,,2.0
+1323,ref: 467914,R$ 1.200.000,rua joao pio duarte silva,"Corrego Grande, Florianopolis - SC",96m²,2,2.0,5.0
+1324,ref: 474706,R$ 2.200.000,rua das algas,"Jurere Leste, Florianopolis - SC",159m²,4,1.0,8.0
+1325,ref: 468868,R$ 425.000,rua lauro linhares,"Trindade, Florianopolis - SC",66m²,2,,2.0
+1326,ref: 448418,R$ 1.490.000,avenida das raias,"Jurere Oeste, Florianopolis - SC",100m²,3,1.0,2.0
+1327,ref: 450768,R$ 745.000,rua madre maria vilac,"Canasvieiras, Florianopolis - SC",70m²,2,1.0,3.0
+1328,ref: 449057,R$ 1.325.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",76m²,2,2.0,4.0
+1329,ref: 447187,R$ 1.699.900,avenida tom traugott wildi,"Praia Brava, Florianopolis - SC",90m²,4,1.0,5.0
+1330,ref: 447196,R$ 2.400.000,rodovia tertuliano brito xavier,"Jurere Leste, Florianopolis - SC",142m²,3,3.0,5.0
+1331,ref: 447198,R$ 2.350.000,rua das algas,"Jurere Leste, Florianopolis - SC",111m²,2,3.0,5.0
+1332,ref: 447205,R$ 560.000,rua silva jardim,"Centro, Florianopolis - SC",79m²,3,1.0,3.0
+1333,ref: 447206,R$ 1.890.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",134m²,3,2.0,7.0
+1334,ref: 447218,R$ 3.300.000,rua das corticeiras,"Campeche Leste, Florianopolis - SC",171m²,3,3.0,3.0
+1335,ref: 447227,R$ 1.270.000,travessa do motorista,"Coloninha, Florianopolis - SC",101m²,3,2.0,4.0
+1336,ref: 447228,R$ 620.000*,rua pedro cunha,"Coloninha, Florianopolis - SC",66m²,2,1.0,3.0
+1337,ref: 447236,R$ 1.090.000,rua jornalista manoel menezes,"Itacorubi, Florianopolis - SC",101m²,3,2.0,3.0
+1338,ref: 447242,R$ 620.000,rua timbauba do ribeirao,"Alto Ribeirao Leste, Florianopolis - SC",59m²,2,1.0,3.0
+1339,ref: 447248,R$ 2.800.000,avenida buriti,"Itacorubi, Florianopolis - SC",237m²,3,2.0,7.0
+1340,ref: 447250,R$ 585.000,rua pastor william richard schisler filho,"Itacorubi, Florianopolis - SC",73m²,3,1.0,1.0
+1341,ref: 447253,R$ 640.000,rua quilombo,"Itacorubi, Florianopolis - SC",68m²,2,1.0,3.0
+1342,ref: 447263,R$ 1.990.000,rua joao carvalho,"Agronomica, Florianopolis - SC",135m²,3,3.0,6.0
+1343,ref: 447276,R$ 3.500.000,rua julio vieira,"Joao Paulo, Florianopolis - SC",174m²,3,3.0,3.0
+1344,ref: 447280,R$ 2.950.000,rua jornalista narbal villela,"Joao Paulo, Florianopolis - SC",188m²,3,3.0,8.0
+1345,ref: 447281,R$ 1.870.001,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",95m²,2,1.0,5.0
+1346,ref: 447288,R$ 1.200.000,avenida mauro ramos,"Centro, Florianopolis - SC",108m²,3,2.0,4.0
+1347,ref: 447293,R$ 1.070.000,rua desembargador arno hoeschl,"Centro, Florianopolis - SC",48m²,1,1.0,1.0
+1348,ref: 447297,R$ 1.580.000,rua sao francisco,"Centro, Florianopolis - SC",184m²,4,2.0,7.0
+1349,ref: 447308,R$ 1.527.000,rua almirante lamego,"Centro, Florianopolis - SC",123m²,3,1.0,5.0
+1350,ref: 474082,R$ 1.700.000,estrada haroldo soares glavan,"Cacupe, Florianopolis - SC",169m²,4,2.0,8.0
+1351,ref: 474083,R$ 1.247.200,rua araci vaz callado,"Coloninha, Florianopolis - SC",112m²,2,2.0,3.0
+1352,ref: 474084,R$ 450.000,rua capitao euclides de castro,"Coqueiros, Florianopolis - SC",90m²,3,1.0,3.0
+1353,ref: 474085,R$ 410.000,rua professor professor bayer filho,"Coqueiros, Florianopolis - SC",100m²,3,1.0,2.0
+1354,ref: 474086,R$ 590.000,rua pascoal simone,"Coqueiros, Florianopolis - SC",51m²,1,1.0,3.0
+1355,ref: 474087,R$ 2.100.000,rua almirante alvim,"Centro, Florianopolis - SC",211m²,4,2.0,5.0
+1356,ref: 474088,R$ 1.200.000,avenida professor othon gama d'eca,"Centro, Florianopolis - SC",136m²,3,1.0,4.0
+1357,ref: 474089,R$ 300.000,rua jose jacques,"Centro, Florianopolis - SC",39m²,1,,1.0
+1358,ref: 474090,R$ 365.000,rua francisco tolentino,"Centro, Florianopolis - SC",48m²,1,,1.0
+1359,ref: 474091,R$ 1.200.000,rua cristovao nunes pires,"Centro, Florianopolis - SC",83m²,3,1.0,3.0
+1360,ref: 474092,R$ 1.680.000,rua sao francisco,"Centro, Florianopolis - SC",185m²,4,2.0,7.0
+1361,ref: 474093,R$ 1.089.000,rua pirineus,"Corrego Grande, Florianopolis - SC",74m²,2,2.0,3.0
+1362,ref: 474095,R$ 810.000,rodovia amaro antonio vieira,"Itacorubi, Florianopolis - SC",93m²,3,2.0,3.0
+1363,ref: 474097,R$ 770.000,rua jose beiro,"Jardim Atlantico, Florianopolis - SC",76m²,2,2.0,3.0
+1364,ref: 474098,R$ 890.000,rua patricio farias,"Itacorubi, Florianopolis - SC",58m²,2,1.0,3.0
+1365,ref: 475641,R$ 3.300.000,avenida dos dourados,"Jurere Leste, Florianopolis - SC",198m²,3,3.0,6.0
+1366,ref: 475667,R$ 1.809.000,rua frei caneca,"Agronomica, Florianopolis - SC",154m²,4,2.0,4.0
+1367,ref: 475701,R$ 1.750.000,rua das algas,"Jurere Leste, Florianopolis - SC",109m²,3,2.0,3.0
+1368,ref: 475523,R$ 1.100.000,avenida dos buzios,"Jurere Leste, Florianopolis - SC",77m²,2,1.0,3.0
+1369,ref: 475567,R$ 650.000,rua general eurico gaspar dutra,"Estreito, Florianopolis - SC",119m²,3,1.0,4.0
+1370,ref: 475615,R$ 1.800.000,rua salvatina feliciana dos santos,"Itacorubi, Florianopolis - SC",109m²,4,2.0,3.0
+1371,ref: 475616,R$ 1.400.000,rua professor professor manoel do lago almeida,"Jurere Leste, Florianopolis - SC",98m²,3,1.0,4.0
+1372,ref: 475618,R$ 3.300.000,rua deputado paulo preis,"Jurere Leste, Florianopolis - SC",107m²,3,1.0,6.0
+1373,ref: 475619,R$ 850.000,rua das piraunas,"Jurere Leste, Florianopolis - SC",49m²,1,1.0,1.0
+1374,ref: 475620,R$ 890.000,rua das moreias,"Jurere Leste, Florianopolis - SC",80m²,2,1.0,3.0
+1375,ref: 475624,R$ 2.500.000,rodovia jornalista mauricio sirotsky sobrinho,"Jurere Leste, Florianopolis - SC",129m²,3,2.0,6.0
+1376,ref: 472567,R$ 1.800.000,avenida pequeno principe,"Campeche Leste, Florianopolis - SC",116m²,3,3.0,3.0
+1377,ref: 472568,R$ 977.000,rua recanto do sol,"Ingleses, Florianopolis - SC",77m²,2,2.0,5.0
+1378,ref: 472570,R$ 1.987.290,estrada dom joao becker,"Ingleses, Florianopolis - SC",147m²,2,2.0,4.0
+1379,ref: 472571,R$ 1.590.000,rua brisamar,"Ingleses, Florianopolis - SC",110m²,2,1.0,5.0
+1380,ref: 472572,R$ 1.150.000,rua luiz elias daux,"Ingleses, Florianopolis - SC",205m²,3,2.0,3.0
+1381,ref: 472573,R$ 1.200.000,rua recanto do sol,"Ingleses, Florianopolis - SC",182m²,3,2.0,5.0
+1382,ref: 472576,R$ 1.300.000,rua das gaivotas,"Ingleses, Florianopolis - SC",194m²,3,2.0,4.0
+1383,ref: 472579,R$ 850.000,rua luiz elias daux,"Ingleses, Florianopolis - SC",95m²,3,,3.0
+1384,ref: 472583,R$ 1.980.000,rua das gaivotas,"Ingleses, Florianopolis - SC",226m²,3,2.0,6.0
+1385,ref: 472584,R$ 495.000,rua orlando teixeira,"Ponta das Canas, Florianopolis - SC",61m²,2,1.0,1.0
+1386,ref: 472585,R$ 2.400.000,avenida campeche,"Campeche Central, Florianopolis - SC",192m²,3,1.0,4.0
+1387,ref: 472586,R$ 1.450.000,rua morro das feiticeiras,"Ingleses, Florianopolis - SC",127m²,3,2.0,3.0
+1388,ref: 472587,R$ 750.000,rua luiz elias daux,"Ingleses, Florianopolis - SC",63m²,2,1.0,3.0
+1389,ref: 472588,R$ 845.000,rua luiz elias daux,"Ingleses, Florianopolis - SC",96m²,3,1.0,3.0
+1390,ref: 472589,R$ 1.495.000,avenida pequeno principe,"Campeche Central, Florianopolis - SC",120m²,3,2.0,3.0
+1391,ref: 451214,R$ 1.600.000,rua lauro linhares,"Trindade, Florianopolis - SC",150m²,3,2.0,4.0
+1392,ref: 455425,R$ 1.380.000,rua itapiranga,"Itacorubi, Florianopolis - SC",111m²,3,2.0,3.0
+1393,ref: 455471,R$ 750.000,rua joao meirelles,"Abraao, Florianopolis - SC",74m²,2,1.0,3.0
+1394,ref: 452129,R$ 2.950.000,rua rui barbosa,"Agronomica, Florianopolis - SC",256m²,4,2.0,5.0
+1395,ref: 455170,R$ 2.500.000,rodovia jornalista mauricio sirotsky sobrinho,"Jurere Leste, Florianopolis - SC",156m²,3,2.0,3.0
+1396,ref: 452066,R$ 1.730.000,rodovia jornalista mauricio sirotsky sobrinho,"Jurere Leste, Florianopolis - SC",75m²,2,1.0,3.0
+1397,ref: 452211,R$ 425.000,rua bias peixoto,"Abraao, Florianopolis - SC",70m²,2,1.0,1.0
+1398,ref: 454976,R$ 1.230.000,avenida mauro ramos,"Centro, Florianopolis - SC",52m²,1,1.0,1.0
+1399,ref: 449337,R$ 1.950.000,alameda adolfo konder,"Centro, Florianopolis - SC",160m²,4,1.0,5.0
+1400,ref: 461970,R$ 5.200.000,rua jeronimo venancio das chagas,"Lagoa Pequena, Florianopolis - SC",192m²,4,4.0,6.0
+1401,ref: 462619,R$ 1.990.000,rua dario joao de souza,"Jurere Leste, Florianopolis - SC",114m²,3,2.0,4.0
+1402,ref: 462626,R$ 1.088.001,rua joao pio duarte silva,"Corrego Grande, Florianopolis - SC",67m²,2,1.0,3.0
+1403,ref: 461120,R$ 2.936.138,estrada dom joao becker,"Ingleses, Florianopolis - SC",149m²,2,2.0,4.0
+1404,ref: 472236,R$ 11.000.000,avenida governador irineu bornhausen,"Agronomica, Florianopolis - SC",316m²,3,3.0,8.0
+1405,ref: 472248,R$ 700.000,rua nilo cordeiro dutra,"Saco dos limoes, Florianopolis - SC",63m²,2,1.0,3.0
+1406,ref: 473217,R$ 550.000,avenida prefeito osmar cunha,"Centro, Florianopolis - SC",84m²,2,1.0,2.0
+1407,ref: 473290,R$ 855.000,rua pedro vieira vidal,"Pantanal, Florianopolis - SC",69m²,2,1.0,3.0
+1408,ref: 468524,R$ 1.870.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",134m²,3,2.0,7.0
+1409,ref: 473381,R$ 3.200.000,rua rafael bandeira,"Centro, Florianopolis - SC",237m²,3,2.0,6.0
+1410,ref: 473452,R$ 1.800.000,rua salvatina feliciana dos santos,"Itacorubi, Florianopolis - SC",108m²,3,2.0,4.0
+1411,ref: 473460,R$ 1.200.000,rua santos saraiva,"Estreito, Florianopolis - SC",100m²,3,2.0,4.0
+1412,ref: 468209,R$ 1.150.000,rodovia amaro antonio vieira,"Itacorubi, Florianopolis - SC",141m²,2,2.0,3.0
+1413,ref: 468232,R$ 755.000,rua manoel pedro vieira,"Morro das Pedras, Florianopolis - SC",40m²,1,1.0,1.0
+1414,ref: 470099,R$ 1.850.000,rua general eurico gaspar dutra,"Estreito, Florianopolis - SC",245m²,3,2.0,5.0
+1415,ref: 457729,R$ 528.000,rua araci vaz callado,"Coloninha, Florianopolis - SC",45m²,1,1.0,1.0
+1416,ref: 457761,R$ 930.000,rua joao pio duarte silva,"Corrego Grande, Florianopolis - SC",48m²,1,2.0,1.0
+1417,ref: 457770,R$ 850.000*,avenida hercilio luz,"Centro, Florianopolis - SC",97m²,3,1.0,4.0
+1418,ref: 457431,R$ 1.590.000,rua almirante barroso,"Joao Paulo, Florianopolis - SC",141m²,3,3.0,3.0
+1419,ref: 449691,R$ 2.690.000,avenida dos buzios,"Jurere Oeste, Florianopolis - SC",112m²,3,2.0,4.0
+1420,ref: 449693,R$ 1.065.647,rua antonio jose thomaz da costa,"Lagoa Pequena, Florianopolis - SC",44m²,1,1.0,1.0
+1421,ref: 449694,R$ 1.480.485,rua trajano margarida,"Trindade, Florianopolis - SC",91m²,3,2.0,3.0
+1422,ref: 449699,R$ 1.258.622,rua lauro linhares,"Trindade, Florianopolis - SC",101m²,2,1.0,5.0
+1423,ref: 449701,R$ 1.630.901,rua lauro linhares,"Trindade, Florianopolis - SC",126m²,3,2.0,5.0
+1424,ref: 449705,R$ 997.478,rua joao de deus machado,"Trindade, Florianopolis - SC",69m²,2,2.0,3.0
+1425,ref: 449706,R$ 1.230.891,rua lauro linhares,"Trindade, Florianopolis - SC",103m²,2,1.0,5.0
+1426,ref: 449709,R$ 944.107,rua joao de deus machado,"Trindade, Florianopolis - SC",69m²,2,1.0,3.0
+1427,ref: 449712,R$ 1.368.898,rua lauro linhares,"Trindade, Florianopolis - SC",101m²,3,2.0,3.0
+1428,ref: 449716,R$ 2.814.158,rua trajano margarida,"Trindade, Florianopolis - SC",148m²,4,3.0,9.0
+1429,ref: 449724,R$ 1.222.702,rua lauro linhares,"Trindade, Florianopolis - SC",101m²,2,1.0,5.0
+1430,ref: 453781,R$ 2.300.000*,rua jornalista manoel menezes,"Itacorubi, Florianopolis - SC",195m²,2,2.0,4.0
+1431,ref: 453817,R$ 1.750.000,rua das algas,"Jurere Leste, Florianopolis - SC",106m²,3,1.0,3.0
+1432,ref: 459294,R$ 1.650.000,rua presidente coutinho,"Centro, Florianopolis - SC",113m²,3,1.0,3.0
+1433,ref: 453526,R$ 2.950.000,rua felipe schmidt,"Centro, Florianopolis - SC",210m²,2,2.0,5.0
+1434,ref: 453590,R$ 2.040.000,rodovia tertuliano brito xavier,"Jurere Leste, Florianopolis - SC",103m²,1,2.0,3.0
+1435,ref: 459279,R$ 4.990.000,rua frei caneca,"Agronomica, Florianopolis - SC",221m²,3,3.0,8.0
+1436,ref: 457669,R$ 640.000,rua joao pio duarte silva,"Pantanal, Florianopolis - SC",71m²,2,1.0,3.0
+1437,ref: 458912,R$ 1.350.000,rua otavio cruz,"Lagoa Pequena, Florianopolis - SC",98m²,2,1.0,3.0
+1438,ref: 457155,R$ 938.000,rua irmao joaquim,"Centro, Florianopolis - SC",70m²,2,2.0,4.0
+1439,ref: 457177,R$ 900.000,rodovia jornalista mauricio sirotsky sobrinho,"Jurere Leste, Florianopolis - SC",85m²,2,1.0,3.0
+1440,ref: 473452,R$ 1.800.000,rua salvatina feliciana dos santos,"Itacorubi, Florianopolis - SC",108m²,3,2.0,4.0
+1441,ref: 473460,R$ 1.200.000,rua santos saraiva,"Estreito, Florianopolis - SC",100m²,3,2.0,4.0
+1442,ref: 468209,R$ 1.150.000,rodovia amaro antonio vieira,"Itacorubi, Florianopolis - SC",141m²,2,2.0,3.0
+1443,ref: 468232,R$ 755.000,rua manoel pedro vieira,"Morro das Pedras, Florianopolis - SC",40m²,1,1.0,1.0
+1444,ref: 470099,R$ 1.850.000,rua general eurico gaspar dutra,"Estreito, Florianopolis - SC",245m²,3,2.0,5.0
+1445,ref: 457729,R$ 528.000,rua araci vaz callado,"Coloninha, Florianopolis - SC",45m²,1,1.0,1.0
+1446,ref: 457761,R$ 930.000,rua joao pio duarte silva,"Corrego Grande, Florianopolis - SC",48m²,1,2.0,1.0
+1447,ref: 457770,R$ 850.000*,avenida hercilio luz,"Centro, Florianopolis - SC",97m²,3,1.0,4.0
+1448,ref: 457431,R$ 1.590.000,rua almirante barroso,"Joao Paulo, Florianopolis - SC",141m²,3,3.0,3.0
+1449,ref: 449691,R$ 2.690.000,avenida dos buzios,"Jurere Oeste, Florianopolis - SC",112m²,3,2.0,4.0
+1450,ref: 449693,R$ 1.065.647,rua antonio jose thomaz da costa,"Lagoa Pequena, Florianopolis - SC",44m²,1,1.0,1.0
+1451,ref: 449694,R$ 1.480.485,rua trajano margarida,"Trindade, Florianopolis - SC",91m²,3,2.0,3.0
+1452,ref: 449699,R$ 1.258.622,rua lauro linhares,"Trindade, Florianopolis - SC",101m²,2,1.0,5.0
+1453,ref: 449701,R$ 1.630.901,rua lauro linhares,"Trindade, Florianopolis - SC",126m²,3,2.0,5.0
+1454,ref: 449705,R$ 997.478,rua joao de deus machado,"Trindade, Florianopolis - SC",69m²,2,2.0,3.0
+1455,ref: 449706,R$ 1.230.891,rua lauro linhares,"Trindade, Florianopolis - SC",103m²,2,1.0,5.0
+1456,ref: 449709,R$ 944.107,rua joao de deus machado,"Trindade, Florianopolis - SC",69m²,2,1.0,3.0
+1457,ref: 449712,R$ 1.368.898,rua lauro linhares,"Trindade, Florianopolis - SC",101m²,3,2.0,3.0
+1458,ref: 449716,R$ 2.814.158,rua trajano margarida,"Trindade, Florianopolis - SC",148m²,4,3.0,9.0
+1459,ref: 449724,R$ 1.222.702,rua lauro linhares,"Trindade, Florianopolis - SC",101m²,2,1.0,5.0
+1460,ref: 453781,R$ 2.300.000*,rua jornalista manoel menezes,"Itacorubi, Florianopolis - SC",195m²,2,2.0,4.0
+1461,ref: 453817,R$ 1.750.000,rua das algas,"Jurere Leste, Florianopolis - SC",106m²,3,1.0,3.0
+1462,ref: 459294,R$ 1.650.000,rua presidente coutinho,"Centro, Florianopolis - SC",113m²,3,1.0,3.0
+1463,ref: 453526,R$ 2.950.000,rua felipe schmidt,"Centro, Florianopolis - SC",210m²,2,2.0,5.0
+1464,ref: 453590,R$ 2.040.000,rodovia tertuliano brito xavier,"Jurere Leste, Florianopolis - SC",103m²,1,2.0,3.0
+1465,ref: 459279,R$ 4.990.000,rua frei caneca,"Agronomica, Florianopolis - SC",221m²,3,3.0,8.0
+1466,ref: 457669,R$ 640.000,rua joao pio duarte silva,"Pantanal, Florianopolis - SC",71m²,2,1.0,3.0
+1467,ref: 458912,R$ 1.350.000,rua otavio cruz,"Lagoa Pequena, Florianopolis - SC",98m²,2,1.0,3.0
+1468,ref: 457155,R$ 938.000,rua irmao joaquim,"Centro, Florianopolis - SC",70m²,2,2.0,4.0
+1469,ref: 457177,R$ 900.000,rodovia jornalista mauricio sirotsky sobrinho,"Jurere Leste, Florianopolis - SC",85m²,2,1.0,3.0
+1470,ref: 430971,R$ 853.000,rua pastor william richard schisler filho,"Itacorubi, Florianopolis - SC",70m²,2,1.0,3.0
+1471,ref: 430973,R$ 909.500,rodovia admar gonzaga,"Itacorubi, Florianopolis - SC",76m²,2,1.0,3.0
+1472,ref: 430976,R$ 850.000,rua rostock,"Itacorubi, Florianopolis - SC",70m²,2,1.0,3.0
+1473,ref: 430979,R$ 960.000,rodovia admar gonzaga,"Itacorubi, Florianopolis - SC",145m²,3,1.0,3.0
+1474,ref: 430982,R$ 1.300.000,rodovia amaro antonio vieira,"Itacorubi, Florianopolis - SC",173m²,2,2.0,6.0
+1475,ref: 430997,R$ 2.800.000,rua almirante lamego,"Centro, Florianopolis - SC",460m²,3,3.0,6.0
+1476,ref: 430998,R$ 2.315.000,rua lacerda coutinho,"Centro, Florianopolis - SC",203m²,3,2.0,4.0
+1477,ref: 431009,R$ 809.000,rua almirante lamego,"Centro, Florianopolis - SC",105m²,2,1.0,2.0
+1478,ref: 431010,R$ 1.580.000,rua almirante lamego,"Centro, Florianopolis - SC",140m²,3,1.0,5.0
+1479,ref: 431013,R$ 2.000.000,rua almirante lamego,"Centro, Florianopolis - SC",329m²,4,2.0,6.0
+1480,ref: 431014,R$ 5.400.000,avenida jornalista rubens de arruda ramos,"Centro, Florianopolis - SC",211m²,4,4.0,10.0
+1481,ref: 431021,R$ 1.120.000*,rua madalena barbi,"Centro, Florianopolis - SC",129m²,4,2.0,6.0
+1482,ref: 431022,R$ 1.500.000,rua bocaiuva,"Centro, Florianopolis - SC",119m²,3,1.0,4.0
+1483,ref: 431027,R$ 286.000,rua anita garibaldi,"Centro, Florianopolis - SC",34m²,1,,1.0
+1484,ref: 431028,R$ 3.500.000,avenida dos dourados,"Jurere Leste, Florianopolis - SC",249m²,3,2.0,5.0
+1485,ref: 431036,R$ 1.580.000,avenida campeche,"Campeche Norte, Florianopolis - SC",98m²,2,2.0,3.0
+1486,ref: 444882,R$ 1.350.000,rua frei caneca,"Agronomica, Florianopolis - SC",165m²,4,2.0,4.0
+1487,ref: 440371,R$ 1.860.000,rua apeninos,"Corrego Grande, Florianopolis - SC",123m²,3,2.0,7.0
+1488,ref: 439106,R$ 840.000,rua joao meirelles,"Abraao, Florianopolis - SC",84m²,2,2.0,5.0
+1489,ref: 439108,R$ 4.200.000,rua comandante constantino nicolau spyrides,"Agronomica, Florianopolis - SC",131m²,3,2.0,7.0
+1490,ref: 439113,R$ 1.490.000,rua rui barbosa,"Agronomica, Florianopolis - SC",210m²,5,2.0,4.0
+1491,ref: 439117,R$ 775.000,rua vereador batista pereira,"Balneario, Florianopolis - SC",70m²,2,2.0,3.0
+1492,ref: 439123,R$ 1.189.000,rua sergio gil,"Balneario, Florianopolis - SC",92m²,3,1.0,3.0
+1493,ref: 439127,R$ 1.951.601,rua rui barbosa,"Agronomica, Florianopolis - SC",197m²,3,2.0,7.0
+1494,ref: 439134,R$ 9.800.000,avenida governador irineu bornhausen,"Agronomica, Florianopolis - SC",316m²,4,3.0,10.0
+1495,ref: 439157,R$ 2.566.766,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",134m²,3,2.0,7.0
+1496,ref: 439170,R$ 1.925.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",134m²,3,2.0,7.0
+1497,ref: 439172,R$ 2.500.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",150m²,3,2.0,7.0
+1498,ref: 439181,R$ 2.800.000,estrada dom joao becker,"Ingleses, Florianopolis - SC",172m²,3,2.0,6.0
+1499,ref: 439185,R$ 700.000,rua professor professor bayer filho,"Coqueiros, Florianopolis - SC",48m²,1,1.0,1.0
+1500,ref: 439187,R$ 749.000,rua orlando odilio koerich,"Jardim Atlantico, Florianopolis - SC",68m²,2,1.0,3.0
+1501,ref: 439211,R$ 1.700.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",150m²,3,1.0,6.0
+1502,ref: 439213,R$ 1.870.001,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",134m²,3,2.0,7.0
+1503,ref: 439218,R$ 1.110.000,rua julio vieira,"Joao Paulo, Florianopolis - SC",75m²,2,2.0,5.0
+1504,ref: 439222,R$ 2.050.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",134m²,3,2.0,7.0
+1505,ref: 439230,R$ 2.100.000,rua otavio cruz,"Lagoa Pequena, Florianopolis - SC",127m²,3,2.0,6.0
+1506,ref: 439232,R$ 1.450.000,avenida campeche,"Lagoa Pequena, Florianopolis - SC",90m²,2,1.0,3.0
+1507,ref: 439233,R$ 1.200.000,avenida campeche,"Lagoa Pequena, Florianopolis - SC",87m²,2,1.0,3.0
+1508,ref: 439234,R$ 1.499.000,travessa do motorista,"Coloninha, Florianopolis - SC",101m²,3,2.0,4.0
+1509,ref: 439235,R$ 3.150.000*,rua jeronimo venancio das chagas,"Lagoa Pequena, Florianopolis - SC",114m²,2,2.0,3.0
+1510,ref: 439243,R$ 700.000,rua abel alvares cabral junior,"Ingleses, Florianopolis - SC",78m²,2,1.0,3.0
+1511,ref: 439244,R$ 2.800.000,estrada dom joao becker,"Ingleses, Florianopolis - SC",221m²,3,2.0,7.0
+1512,ref: 439245,R$ 520.000,rua valmor della giustina,"Ingleses, Florianopolis - SC",70m²,1,1.0,2.0
+1513,ref: 439248,R$ 485.000,rua do engenho novo,"Ingleses, Florianopolis - SC",72m²,2,1.0,1.0
+1514,ref: 439255,R$ 1.290.000,rua wilson luz,"Coqueiros, Florianopolis - SC",138m²,3,2.0,5.0
+1515,ref: 439256,R$ 1.100.000,rua julio dias,"Coqueiros, Florianopolis - SC",120m²,3,2.0,5.0
+1516,ref: 439274,R$ 1.200.000,rodovia virgilio varzea,"Saco Grande, Florianopolis - SC",99m²,3,1.0,4.0
+1517,ref: 439278,R$ 450.000,rua sao tomaz de aquino,"Trindade, Florianopolis - SC",31m²,1,1.0,2.0
+1518,ref: 439282,R$ 1.200.000,rua nicolau joao de abreu,"Lagoa Pequena, Florianopolis - SC",78m²,2,1.0,3.0
+1519,ref: 439283,R$ 1.150.000,rua jeronimo venancio das chagas,"Lagoa Pequena, Florianopolis - SC",81m²,2,1.0,3.0
+1520,ref: 439288,R$ 480.000,rua maria eduarda,"Pantanal, Florianopolis - SC",26m²,1,1.0,2.0
+1521,ref: 441062,R$ 1.749.000,rua fernando ferreira de mello,"Bom abrigo, Florianopolis - SC",135m²,3,2.0,6.0
+1522,ref: 446484,R$ 5.900.000,rua dos fidalgos,"Jurere Oeste, Florianopolis - SC",197m²,3,3.0,4.0
+1523,ref: 446498,R$ 1.300.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",121m²,3,2.0,4.0
+1524,ref: 446500,R$ 790.000,rua capitao romualdo de barros,"Saco dos limoes, Florianopolis - SC",63m²,2,1.0,3.0
+1525,ref: 446510,R$ 2.300.000,avenida professor othon gama d'eca,"Centro, Florianopolis - SC",264m²,4,2.0,6.0
+1526,ref: 446511,R$ 1.270.000,rodovia tertuliano brito xavier,"Jurere Leste, Florianopolis - SC",186m²,3,2.0,6.0
+1527,ref: 446534,R$ 730.000,rodovia joao paulo,"Joao Paulo, Florianopolis - SC",76m²,2,1.0,3.0
+1528,ref: 446564,R$ 850.000,rua pedro vieira vidal,"Pantanal, Florianopolis - SC",139m²,3,2.0,6.0
